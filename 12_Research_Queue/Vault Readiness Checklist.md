@@ -22,7 +22,7 @@ status: active
 - [x] Source target list exists
 - [x] Event notes researched
 - [x] Source notes created
-- [ ] Actor notes researched
+- [x] Actor notes researched
 - [x] Logs populated
 - [x] Maps revised with evidence
 - [x] Module build summary written
@@ -38,4 +38,4 @@ status: active
 - [ ] Each event links backward and forward
 - [ ] Each event links to at least one force
 - [ ] Each event links to at least one thread
-- [ ] Actor notes link to decisions, priorities, and events
+- [x] Actor notes link to decisions, priorities, and events

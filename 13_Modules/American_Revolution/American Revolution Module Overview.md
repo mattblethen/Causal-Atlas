@@ -50,6 +50,7 @@ Build the first proof-of-concept causal module for Causal Atlas: a sourced, link
 - [[Causal Chain Map]]
 - [[Source Targets]]
 - [[Module Build Summary]]
+- [[Roadmap Progress]]
 - [[Research Standards]]
 - [[Vault Readiness Checklist]]
 

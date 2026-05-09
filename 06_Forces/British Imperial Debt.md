@@ -18,13 +18,14 @@ status: researched
 confidence: medium
 sources:
   - Source - LOC American Revolution Primary Source Timeline
+  - Source - LOC British Reforms and Colonial Resistance 1763-1766
   - Source - UK National Archives Causes of the American Revolution
 ---
 
 # British Imperial Debt
 
 ## Core Pattern
-After the Seven Years' War, Britain faced the cost of victory, administration, defense, and an enlarged empire. That fiscal pressure encouraged policies that asked North American colonists to contribute more directly to imperial expenses.
+After the Seven Years' War, Britain faced the cost of victory, administration, defense, and an enlarged empire. The Library of Congress gives Britain's January 1763 national debt as more than 122 million pounds, with annual interest above 4.4 million pounds. That fiscal pressure encouraged policies that asked North American colonists to contribute more directly to imperial expenses.
 
 ## Active Periods
 - 1763-1776 in the American Revolution causal chain.
@@ -53,4 +54,5 @@ Debt pressure did not mechanically cause independence by itself, but it made rev
 
 ## Sources
 - [[Source - LOC American Revolution Primary Source Timeline]]
+- [[Source - LOC British Reforms and Colonial Resistance 1763-1766]]
 - [[Source - UK National Archives Causes of the American Revolution]]

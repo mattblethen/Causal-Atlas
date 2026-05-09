@@ -28,6 +28,9 @@ confidence: medium
 sources:
   - Source - UK National Archives Boston Tea Party
   - Source - Bill of Rights Institute Coercive Acts
+  - Source - Avalon Boston Port Act 1774
+  - Source - Avalon Quartering Act 1774
+  - Source - Avalon Boston Committee Circular Letter 1774
   - Source - NPS April 19 1775
 ---
 
@@ -37,7 +40,7 @@ sources:
 The Coercive Acts were Parliament's punitive response to the Boston Tea Party and Massachusetts resistance. They made the imperial priority of authority and obedience visible, while pushing colonial resistance toward broader union.
 
 ## What Happened
-In 1774 Parliament passed coercive legislation targeting Massachusetts and Boston. The Boston Port Act closed Boston's port to normal commerce, and related measures changed Massachusetts governance and legal administration. Colonists labeled them Intolerable Acts.
+In 1774 Parliament passed coercive legislation targeting Massachusetts and Boston. The Boston Port Act closed Boston's port to normal commerce beginning June 1, 1774; related measures changed Massachusetts governance, legal administration, and military quartering rules. Colonists labeled them Intolerable Acts.
 
 ## Manifested From
 - [[Boston Tea Party]]
@@ -69,9 +72,12 @@ Punishment of one colony became a continental warning about imperial authority a
 - [[Massachusetts Provincial Congress]]
 
 ## Research Notes
-Needs direct primary notes for each act: Boston Port Act, Massachusetts Government Act, Administration of Justice Act, Quartering Act, and Quebec Act context.
+The Boston Port Act and Quartering Act now have primary-source notes. A later pass should add direct source notes for the Massachusetts Government Act, Administration of Justice Act, and Quebec Act context.
 
 ## Sources
 - [[Source - UK National Archives Boston Tea Party]]
 - [[Source - Bill of Rights Institute Coercive Acts]]
+- [[Source - Avalon Boston Port Act 1774]]
+- [[Source - Avalon Quartering Act 1774]]
+- [[Source - Avalon Boston Committee Circular Letter 1774]]
 - [[Source - NPS April 19 1775]]

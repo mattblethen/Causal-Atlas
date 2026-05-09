@@ -27,6 +27,7 @@ status: researched
 confidence: medium
 sources:
   - Source - UK National Archives Boston Tea Party
+  - Source - American Battlefield Trust Tea Act 1773
 ---
 
 # 1773-05-10 - Tea Act
@@ -35,7 +36,7 @@ sources:
 The Tea Act adjusted imperial tea policy to help the East India Company and preserve Parliament's authority over tea duties. It made the collision between monopoly trade, taxation, and colonial autonomy visible.
 
 ## What Happened
-Parliament passed the Tea Act in spring 1773. The law helped the East India Company, which had unsold tea and financial problems, by giving it advantages in selling tea to the American colonies. Colonists interpreted the policy through the existing conflict over the tea tax and parliamentary authority.
+Parliament passed the Tea Act on May 10, 1773. The law helped the East India Company, which had unsold tea and financial problems, by giving it advantages in exporting tea to the American colonies. Colonists interpreted the policy through the existing conflict over the tea tax and parliamentary authority.
 
 ## Manifested From
 - [[Colonial Resistance]]
@@ -68,7 +69,8 @@ An imperial commercial rescue policy became a political test of whether colonist
 - [[Sons of Liberty]]
 
 ## Research Notes
-Needs a direct primary-source text from the Tea Act in a later pass. Current note relies on The National Archives' source set and contextual extraction.
+Later work should compare the act text against colonial reactions in New York, Philadelphia, Charleston, and Boston.
 
 ## Sources
 - [[Source - UK National Archives Boston Tea Party]]
+- [[Source - American Battlefield Trust Tea Act 1773]]

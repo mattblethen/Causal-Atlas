@@ -26,19 +26,19 @@ Use this to track what Codex or a human researcher should fill next.
 - [x] Declaration of Independence drafts, final text, and drafting context
 
 ## American Revolution Actor Notes
-- [ ] British Empire
-- [ ] British Parliament
-- [ ] East India Company
-- [ ] Colonial Assemblies
-- [ ] Sons of Liberty
-- [ ] Continental Congress
-- [ ] Patriot Movement
+- [x] British Empire
+- [x] British Parliament
+- [x] East India Company
+- [x] Colonial Assemblies
+- [x] Sons of Liberty
+- [x] Continental Congress
+- [x] Patriot Movement
 - [ ] Loyalists
 
 ## American Revolution Map Outputs
 - [x] Causal map: war debt to independence
-- [ ] Pressure map: debt, sovereignty, trade, autonomy
-- [ ] Actor map: British institutions, colonial assemblies, resistance networks
+- [x] Pressure map: debt, sovereignty, trade, autonomy
+- [x] Actor map: British institutions, colonial assemblies, resistance networks
 - [ ] Timeline zoom: 1754-1776
 
 ## Open Research Questions
@@ -47,6 +47,10 @@ Use this to track what Codex or a human researcher should fill next.
 - [ ] Where did colonial resistance defend older British rights versus develop new revolutionary claims?
 - [ ] How should the module represent slavery and Indigenous displacement without forcing them into every event note?
 - [ ] Which causal links are direct enough for `Led To`, and which should remain contextual in `Research Notes`?
+
+## Roadmap Completion Estimate
+- Whole vault roadmap: approximately 4% complete as of 2026-05-09.
+- American Revolution module: approximately 25% complete.
 
 ## Next American History Modules
 - [ ] Constitution and Early Republic
