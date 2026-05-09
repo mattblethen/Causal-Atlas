@@ -20,6 +20,8 @@ confidence: medium
 sources:
   - Source - LOC Samuel Adams Papers
   - Source - Avalon Boston Committee Circular Letter 1774
+  - Source - Avalon Massachusetts Circular Letter 1768
+  - Source - MHS Massachusetts Circular Letter
 ---
 
 # Samuel Adams
@@ -33,11 +35,13 @@ Samuel Adams was a Massachusetts Patriot organizer whose political life connecte
 3. Turn local grievances into wider political mobilization.
 
 ## Key Decisions
+- [[Massachusetts Circular Letter]]
 - [[Committees of Correspondence]]
 - [[First Continental Congress]]
 
 ## Events Involved In
 - [[Stamp Act]]
+- [[Massachusetts Circular Letter]]
 - [[Boston Massacre]]
 - [[Committees of Correspondence]]
 - [[Boston Tea Party]]
@@ -56,3 +60,5 @@ Adams's organizing helped build popular legitimacy, but resistance networks coul
 ## Sources
 - [[Source - LOC Samuel Adams Papers]]
 - [[Source - Avalon Boston Committee Circular Letter 1774]]
+- [[Source - Avalon Massachusetts Circular Letter 1768]]
+- [[Source - MHS Massachusetts Circular Letter]]

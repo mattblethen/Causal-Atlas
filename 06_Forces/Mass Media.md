@@ -7,12 +7,18 @@ threads:
   - Media and Public Opinion
 manifestations:
   - Colonial Resistance
+  - Letters from a Farmer in Pennsylvania
+  - Massachusetts Circular Letter
+  - Nonimportation Agreements
 opposed_by: []
 intensified_by:
   - Enlightenment Thought
 status: stub
 confidence: medium
-sources: []
+sources:
+  - Source - Constitution Center Letters from a Farmer
+  - Source - Avalon Massachusetts Circular Letter 1768
+  - Source - LOC True Sons Non-Importation Broadside
 ---
 
 # Mass Media
@@ -25,6 +31,9 @@ Communication technologies and publishing networks shape public opinion, coordin
 
 ## Manifested As
 - [[Colonial Resistance]]
+- [[Letters from a Farmer in Pennsylvania]]
+- [[Massachusetts Circular Letter]]
+- [[Nonimportation Agreements]]
 - [[Declaration of Independence]]
 
 ## Deeper Roots
@@ -40,4 +49,6 @@ Communication technologies and publishing networks shape public opinion, coordin
 Helps explain how local grievances become shared political causes across distance.
 
 ## Sources
--
+- [[Source - Constitution Center Letters from a Farmer]]
+- [[Source - Avalon Massachusetts Circular Letter 1768]]
+- [[Source - LOC True Sons Non-Importation Broadside]]

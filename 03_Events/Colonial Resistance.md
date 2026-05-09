@@ -20,9 +20,13 @@ forces:
 actors:
   - Colonial Assemblies
   - Sons of Liberty
+  - Daughters of Liberty
   - Patriot Movement
 related_events:
   - Stamp Act
+  - Stamp Act Congress
+  - Nonimportation Agreements
+  - Massachusetts Circular Letter
   - Tea Act
   - Boston Tea Party
 status: researched
@@ -30,6 +34,8 @@ confidence: medium
 sources:
   - Source - UK National Archives Stamp Act Resistance Source
   - Source - LOC American Revolution Primary Source Timeline
+  - Source - Colonial Williamsburg Sons and Daughters of Liberty
+  - Source - Britannica Nonimportation Agreements
 ---
 
 # 1765-1774 - Colonial Resistance
@@ -42,6 +48,7 @@ Resistance began with Stamp Act protests and continued through later disputes ov
 
 ## Manifested From
 - [[Stamp Act]]
+- [[Stamp Act Congress]]
 - [[Colonial Autonomy]]
 - [[Parliamentary Sovereignty]]
 
@@ -49,6 +56,7 @@ Resistance began with Stamp Act protests and continued through later disputes ov
 Resistance appeared as print arguments about rights, attacks on tax enforcement, nonimportation, intercolonial congresses, and organized pressure on imperial officials and merchants.
 
 ## Led To
+- [[Nonimportation Agreements]]
 - [[Tea Act]]
 - [[Boston Tea Party]]
 - [[First Continental Congress]]
@@ -67,11 +75,14 @@ Resistance appeared as print arguments about rights, attacks on tax enforcement,
 ## Key Actors
 - [[Colonial Assemblies]]
 - [[Sons of Liberty]]
+- [[Daughters of Liberty]]
 - [[Patriot Movement]]
 
 ## Research Notes
-This is a phase note rather than a single event. Later passes should split key episodes: Stamp Act Congress, nonimportation campaigns, Townshend resistance, Boston Massacre aftermath, committees of correspondence.
+This is a phase note rather than a single event. The Stamp Act Congress, nonimportation campaigns, Massachusetts Circular Letter, and homespun movement now have separate notes. Later passes should still add Boston Massacre aftermath and detailed committees of correspondence sources.
 
 ## Sources
 - [[Source - UK National Archives Stamp Act Resistance Source]]
 - [[Source - LOC American Revolution Primary Source Timeline]]
+- [[Source - Colonial Williamsburg Sons and Daughters of Liberty]]
+- [[Source - Britannica Nonimportation Agreements]]

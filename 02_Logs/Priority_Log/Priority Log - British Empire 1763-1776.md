@@ -7,6 +7,7 @@ confidence: medium
 sources:
   - Source - LOC American Revolution Primary Source Timeline
   - Source - UK National Archives Causes of the American Revolution
+  - Source - Avalon Circular Letter to Governors 1768
   - Source - UK National Archives Boston Tea Party
 ---
 
@@ -27,6 +28,7 @@ Fiscal and sovereignty priorities pushed Britain toward policies colonists exper
 Manifested In:
 - [[British Imperial Debt]]
 - [[Stamp Act]]
+- [[Massachusetts Circular Letter]]
 - [[Tea Act]]
 - [[Coercive Acts]]
 - [[Lexington and Concord]]
@@ -34,4 +36,5 @@ Manifested In:
 Sources:
 - [[Source - LOC American Revolution Primary Source Timeline]]
 - [[Source - UK National Archives Causes of the American Revolution]]
+- [[Source - Avalon Circular Letter to Governors 1768]]
 - [[Source - UK National Archives Boston Tea Party]]

@@ -19,12 +19,14 @@ actors:
   - Patriot Movement
   - Colonial Assemblies
 related_events:
+  - Massachusetts Circular Letter
   - Boston Massacre
   - Boston Tea Party
   - First Continental Congress
 status: researching
 confidence: medium
 sources:
+  - Source - Avalon Massachusetts Circular Letter 1768
   - Source - Avalon Boston Committee Circular Letter 1774
   - Source - LOC American Revolution Resource Guide
 ---
@@ -38,6 +40,7 @@ Committees of correspondence were communication networks that helped local resis
 Patriot organizers used committees, circular letters, and printed arguments to circulate news of British policy and colonial resistance. The Boston Committee's 1774 circular letter about the Boston Port Act shows how local punishment could be reframed as a continental crisis.
 
 ## Manifested From
+- [[Massachusetts Circular Letter]]
 - [[Boston Massacre]]
 - [[Colonial Resistance]]
 - [[Mass Media]]
@@ -65,8 +68,9 @@ Political communication became an organizing system for resistance.
 - [[Samuel Adams]]
 
 ## Research Notes
-Needs stronger direct primary sources for the 1772 Boston committee and colony-level networks.
+Needs stronger direct primary sources for the 1772 Boston committee and colony-level networks. The Massachusetts Circular Letter is now linked as an earlier assembly-centered precursor to correspondence politics.
 
 ## Sources
+- [[Source - Avalon Massachusetts Circular Letter 1768]]
 - [[Source - Avalon Boston Committee Circular Letter 1774]]
 - [[Source - LOC American Revolution Resource Guide]]

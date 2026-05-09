@@ -16,6 +16,8 @@ confidence: medium
 sources:
   - Source - UK National Archives Causes of the American Revolution
   - Source - UK National Archives Stamp Act Resistance Source
+  - Source - Avalon Stamp Act Congress Resolutions 1765
+  - Source - Avalon Massachusetts Circular Letter 1768
 ---
 
 # Colonial Assemblies
@@ -30,11 +32,15 @@ Colonial assemblies were local representative institutions that colonists treate
 
 ## Key Decisions
 - [[Stamp Act]]
+- [[Stamp Act Congress]]
+- [[Massachusetts Circular Letter]]
 - [[Colonial Resistance]]
 - [[First Continental Congress]]
 
 ## Events Involved In
 - [[Stamp Act]]
+- [[Stamp Act Congress]]
+- [[Massachusetts Circular Letter]]
 - [[Colonial Resistance]]
 - [[First Continental Congress]]
 
@@ -50,3 +56,5 @@ Assemblies could defend local rights while not always representing enslaved peop
 ## Sources
 - [[Source - UK National Archives Causes of the American Revolution]]
 - [[Source - UK National Archives Stamp Act Resistance Source]]
+- [[Source - Avalon Stamp Act Congress Resolutions 1765]]
+- [[Source - Avalon Massachusetts Circular Letter 1768]]

@@ -6,7 +6,11 @@ related_forces:
   - Imperial Debt
   - Mercantilism
   - Parliamentary Sovereignty
-related_events: []
+related_events:
+  - Stamp Act Congress
+  - Massachusetts Circular Letter
+  - Nonimportation Agreements
+  - First Continental Congress
 status: stub
 confidence: medium
 sources: []
@@ -21,6 +25,9 @@ Empires expand, administer territory, extract resources, justify authority, and 
 - [[Seven Years' War]]
 - [[British Imperial Debt]]
 - [[Stamp Act]]
+- [[Stamp Act Congress]]
+- [[Massachusetts Circular Letter]]
+- [[Nonimportation Agreements]]
 - [[Coercive Acts]]
 
 ## Timeline
@@ -39,6 +46,7 @@ Empires expand, administer territory, extract resources, justify authority, and 
 
 ## Branch Points
 - [[Stamp Act]]
+- [[Massachusetts Circular Letter]]
 - [[Coercive Acts]]
 - [[First Continental Congress]]
 

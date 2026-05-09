@@ -8,6 +8,9 @@ threads:
 manifestations:
   - Sugar Act
   - Gaspee Affair
+  - Nonimportation Agreements
+  - Boston Non-Importation Agreement
+  - Homespun Movement
   - Tea Act
   - Boston Tea Party
 opposed_by: []
@@ -15,7 +18,9 @@ intensified_by:
   - Mercantilism
 status: stub
 confidence: medium
-sources: []
+sources:
+  - Source - ABT Boston Non-Importation Agreement
+  - Source - Britannica Nonimportation Agreements
 ---
 
 # Atlantic Trade
@@ -29,6 +34,9 @@ The movement of goods, capital, labor, and coercive power across the Atlantic sh
 ## Manifested As
 - [[Sugar Act]]
 - [[Gaspee Affair]]
+- [[Nonimportation Agreements]]
+- [[Boston Non-Importation Agreement]]
+- [[Homespun Movement]]
 - [[Tea Act]]
 - [[Boston Tea Party]]
 
@@ -46,4 +54,5 @@ The movement of goods, capital, labor, and coercive power across the Atlantic sh
 Linked local resistance to imperial trade regulation, monopoly privileges, customs enforcement, and the wider Atlantic economy.
 
 ## Sources
--
+- [[Source - ABT Boston Non-Importation Agreement]]
+- [[Source - Britannica Nonimportation Agreements]]

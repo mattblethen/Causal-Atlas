@@ -8,6 +8,10 @@ related_forces:
   - Colonial Autonomy
 related_events:
   - Stamp Act
+  - Stamp Act Congress
+  - Letters from a Farmer in Pennsylvania
+  - Massachusetts Circular Letter
+  - Nonimportation Agreements
   - Tea Act
   - Boston Tea Party
 status: stub
@@ -22,6 +26,10 @@ Conflict over who had legitimate authority to tax the colonies and whether taxat
 
 ## Major Manifestations
 - [[Stamp Act]]
+- [[Stamp Act Congress]]
+- [[Letters from a Farmer in Pennsylvania]]
+- [[Massachusetts Circular Letter]]
+- [[Nonimportation Agreements]]
 - [[Tea Act]]
 - [[Boston Tea Party]]
 - [[Coercive Acts]]
@@ -41,6 +49,8 @@ Conflict over who had legitimate authority to tax the colonies and whether taxat
 
 ## Branch Points
 - [[Stamp Act]]
+- [[Stamp Act Congress]]
+- [[Massachusetts Circular Letter]]
 - [[Declaratory Act]]
 - [[First Continental Congress]]
 

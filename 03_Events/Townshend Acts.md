@@ -21,6 +21,9 @@ actors:
   - Colonial Assemblies
 related_events:
   - Stamp Act
+  - Letters from a Farmer in Pennsylvania
+  - Massachusetts Circular Letter
+  - Boston Non-Importation Agreement
   - Boston Massacre
   - Tea Act
 status: researched
@@ -28,6 +31,8 @@ confidence: medium
 sources:
   - Source - LOC British Reforms and Colonial Resistance 1767-1772
   - Source - American Battlefield Trust Townshend Act 1767
+  - Source - Constitution Center Letters from a Farmer
+  - Source - Avalon Massachusetts Circular Letter 1768
 ---
 
 # 1767-1770 - Townshend Acts
@@ -47,6 +52,9 @@ Parliament imposed duties on imported goods including glass, lead, paper, and te
 The revenue conflict shifted from stamped paper to customs duties, enforcement machinery, standing armies, and assembly power.
 
 ## Led To
+- [[Letters from a Farmer in Pennsylvania]]
+- [[Massachusetts Circular Letter]]
+- [[Boston Non-Importation Agreement]]
 - [[Boston Massacre]]
 - [[Tea Act]]
 
@@ -61,10 +69,13 @@ The revenue conflict shifted from stamped paper to customs duties, enforcement m
 ## Related Threads
 - [[Thread - Taxation and Representation]]
 - [[Thread - Empire]]
+- [[Thread - Media and Public Opinion]]
 
 ## Key Actors
 - [[British Parliament]]
 - [[Colonial Assemblies]]
+- [[Samuel Adams]]
+- [[John Dickinson]]
 
 ## Research Notes
 Future work should split the Revenue Act, Commissioners of Customs Act, New York Restraining Act, and Indemnity Act if the module needs finer legal detail.
@@ -72,3 +83,5 @@ Future work should split the Revenue Act, Commissioners of Customs Act, New York
 ## Sources
 - [[Source - LOC British Reforms and Colonial Resistance 1767-1772]]
 - [[Source - American Battlefield Trust Townshend Act 1767]]
+- [[Source - Constitution Center Letters from a Farmer]]
+- [[Source - Avalon Massachusetts Circular Letter 1768]]

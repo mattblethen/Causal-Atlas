@@ -15,6 +15,7 @@ status: active
 - Create event notes from [[Seven Years' War]] through [[Declaration of Independence]].
 - Link each event backward and forward.
 - Identify the visible pressure in each event.
+- Add bridge/process notes when a phase note hides important infrastructure, especially print, boycott, correspondence, and household production.
 
 ## Pass 3 - Forces and Threads
 - Expand [[Imperial Debt]], [[Parliamentary Sovereignty]], [[Colonial Autonomy]], [[Mercantilism]], and [[Atlantic Trade]].

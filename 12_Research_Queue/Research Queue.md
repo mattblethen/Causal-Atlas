@@ -19,6 +19,8 @@ Use this to track what Codex or a human researcher should fill next.
 - [x] British imperial debt and taxation sources
 - [x] Royal Proclamation, Sugar Act, Quartering Act, and Declaratory Act sources
 - [x] Stamp Act primary text and colonial responses
+- [x] Stamp Act Congress and nonimportation sources
+- [x] Massachusetts Circular Letter and Farmer letters sources
 - [x] Tea Act and East India Company context
 - [x] Boston Tea Party primary/near-contemporary accounts
 - [x] Coercive Acts primary texts
@@ -32,6 +34,7 @@ Use this to track what Codex or a human researcher should fill next.
 - [x] East India Company
 - [x] Colonial Assemblies
 - [x] Sons of Liberty
+- [x] Daughters of Liberty
 - [x] Continental Congress
 - [x] Patriot Movement
 - [x] Loyalists
@@ -50,6 +53,7 @@ Use this to track what Codex or a human researcher should fill next.
 - [x] Thomas Paine
 - [x] George Washington
 - [x] Samuel Adams
+- [x] James Otis Jr.
 - [x] John Dickinson
 - [x] Joseph Warren
 - [x] John Hancock
@@ -78,11 +82,13 @@ Use this to track what Codex or a human researcher should fill next.
 - [x] Add siege and evacuation of Boston event notes.
 - [x] Add Henry Knox, artillery train, and Dorchester Heights notes.
 - [x] Add Second Continental Congress and Ticonderoga notes.
-- [ ] Add Boston Non-Importation Agreement note.
+- [x] Add Boston Non-Importation Agreement note.
+- [ ] Add Boston occupation and "Glorious 92" rescission fight.
+- [ ] Add deeper Boston Massacre aftermath and propaganda packet.
 
 ## Roadmap Completion Estimate
-- Whole vault roadmap: approximately 9% complete as of 2026-05-09.
-- American Revolution module: approximately 64% complete.
+- Whole vault roadmap: approximately 10% complete as of 2026-05-09.
+- American Revolution module: approximately 70% complete.
 
 ## Next American History Modules
 - [ ] Constitution and Early Republic

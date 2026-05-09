@@ -7,6 +7,10 @@ sources:
   - Source - LOC British Reforms and Colonial Resistance 1763-1766
   - Source - UK National Archives Causes of the American Revolution
   - Source - Avalon Sugar Act 1764
+  - Source - Avalon Stamp Act Congress Resolutions 1765
+  - Source - Constitution Center Letters from a Farmer
+  - Source - Avalon Massachusetts Circular Letter 1768
+  - Source - ABT Boston Non-Importation Agreement
   - Source - Rhode Island Historical Society Burning of the Gaspee
   - Source - American Battlefield Trust Tea Act 1773
   - Source - Avalon Boston Port Act 1774
@@ -25,6 +29,8 @@ flowchart TD
     AB --> AC["Royal Proclamation of 1763"]
     D --> AD["Sugar Act"]
     D --> F["Stamp Act"]
+    F --> AN["Stamp Act Congress"]
+    AN --> AO["Nonimportation Agreements"]
     D --> S["Townshend Acts"]
     D --> G["Tea Act"]
     E --> H["Parliamentary Sovereignty"]
@@ -33,7 +39,14 @@ flowchart TD
     H --> I["Coercive Acts"]
     J["Colonial Autonomy"] --> K["Colonial Resistance"]
     F --> K
+    AO --> K
     S --> T["Boston Massacre"]
+    S --> AP["Letters from a Farmer in Pennsylvania"]
+    AP --> AQ["Massachusetts Circular Letter"]
+    S --> AR["Boston Non-Importation Agreement"]
+    AQ --> AR
+    AR --> AS["Homespun Movement"]
+    AS --> K
     T --> K
     AF["Customs Enforcement"] --> AD
     AF --> S
@@ -61,9 +74,13 @@ flowchart TD
     AA --> O
 
     P["Atlantic Trade"] --> G
+    P --> AO
+    P --> AR
     Q["Mercantilism"] --> G
     Q --> P
     R["Mass Media / Print Culture"] --> K
+    R --> AP
+    R --> AQ
     R --> M
 ```
 
@@ -72,6 +89,7 @@ flowchart TD
 - The sovereignty path shows how Parliament's authority claim made taxes and punishment constitutional issues.
 - The autonomy path shows why colonists interpreted policies as threats to local self-government.
 - The trade path shows why tea became more than a commodity: it carried taxation, monopoly, and imperial authority.
+- The nonimportation path shows how trade and household consumption became political pressure systems before armed conflict.
 
 ## Current Confidence
 Medium. The broad causal relationships are supported by institutional sources, but specific arrows need deeper primary-source and scholarly comparison.
@@ -80,6 +98,10 @@ Medium. The broad causal relationships are supported by institutional sources, b
 - [[Source - LOC British Reforms and Colonial Resistance 1763-1766]]
 - [[Source - UK National Archives Causes of the American Revolution]]
 - [[Source - Avalon Sugar Act 1764]]
+- [[Source - Avalon Stamp Act Congress Resolutions 1765]]
+- [[Source - Constitution Center Letters from a Farmer]]
+- [[Source - Avalon Massachusetts Circular Letter 1768]]
+- [[Source - ABT Boston Non-Importation Agreement]]
 - [[Source - Rhode Island Historical Society Burning of the Gaspee]]
 - [[Source - American Battlefield Trust Tea Act 1773]]
 - [[Source - Avalon Boston Port Act 1774]]

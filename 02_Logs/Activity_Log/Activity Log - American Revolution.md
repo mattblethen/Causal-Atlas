@@ -7,6 +7,9 @@ sources:
   - Source - LOC American Revolution Primary Source Timeline
   - Source - UK National Archives Causes of the American Revolution
   - Source - UK National Archives Boston Tea Party
+  - Source - Avalon Stamp Act Congress Resolutions 1765
+  - Source - Avalon Massachusetts Circular Letter 1768
+  - Source - ABT Boston Non-Importation Agreement
   - Source - NPS April 19 1775
   - Source - LOC Declaration of Independence Guide
 ---
@@ -64,6 +67,25 @@ Sources:
 - [[Source - UK National Archives Stamp Act Resistance Source]]
 - [[Source - American Battlefield Trust Declaratory Act 1766]]
 
+## 1765-1766 - Stamp Act Congress and Nonimportation
+
+What happened:
+Delegates from nine colonies met in New York, adopted rights-and-grievance resolutions, petitioned imperial authorities, and helped make boycott strategy part of colonial resistance.
+
+Related:
+- [[Stamp Act Congress]]
+- [[Nonimportation Agreements]]
+- [[John Dickinson]]
+- [[James Otis Jr.]]
+
+Why it matters:
+This was an early move from local resistance to intercolonial coordination, and it framed taxation as a constitutional consent problem.
+
+Sources:
+- [[Source - LOC No Taxation Without Representation]]
+- [[Source - Avalon Stamp Act Congress Resolutions 1765]]
+- [[Source - Britannica Nonimportation Agreements]]
+
 ## 1767-1770 - Townshend Acts and Boston Massacre
 
 What happened:
@@ -81,6 +103,29 @@ Sources:
 - [[Source - American Battlefield Trust Townshend Act 1767]]
 - [[Source - LOC Short Narrative of the Boston Massacre]]
 - [[Source - Rhode Island Historical Society Burning of the Gaspee]]
+
+## 1767-1768 - Print, Circular Letters, and Commercial Resistance
+
+What happened:
+Dickinson's Farmer letters circulated against the Townshend duties, Massachusetts sent a circular letter to other colonial assemblies, Boston merchants adopted nonimportation, and women participating as Daughters of Liberty made homespun and tea abstention part of resistance.
+
+Related:
+- [[Letters from a Farmer in Pennsylvania]]
+- [[Massachusetts Circular Letter]]
+- [[Boston Non-Importation Agreement]]
+- [[Homespun Movement]]
+- [[Daughters of Liberty]]
+
+Why it matters:
+This layer shows how constitutional argument, print culture, assembly action, trade discipline, and household labor formed resistance infrastructure before 1774.
+
+Sources:
+- [[Source - Wikisource Letters from a Farmer]]
+- [[Source - Constitution Center Letters from a Farmer]]
+- [[Source - Avalon Massachusetts Circular Letter 1768]]
+- [[Source - MHS Massachusetts Circular Letter]]
+- [[Source - ABT Boston Non-Importation Agreement]]
+- [[Source - Colonial Williamsburg Sons and Daughters of Liberty]]
 
 ## 1773-12-16 - Boston Tea Party
 

@@ -6,6 +6,9 @@ status: researching
 confidence: medium
 sources:
   - Source - UK National Archives Stamp Act Resistance Source
+  - Source - Avalon Stamp Act Congress Resolutions 1765
+  - Source - Britannica Nonimportation Agreements
+  - Source - Colonial Williamsburg Sons and Daughters of Liberty
   - Source - UK National Archives Boston Tea Party
   - Source - LOC Journals of the Continental Congress
 ---
@@ -26,6 +29,10 @@ Resistance often began as defense of older rights inside the empire, then moved 
 
 Manifested In:
 - [[Stamp Act]]
+- [[Stamp Act Congress]]
+- [[Nonimportation Agreements]]
+- [[Massachusetts Circular Letter]]
+- [[Homespun Movement]]
 - [[Colonial Resistance]]
 - [[Boston Tea Party]]
 - [[First Continental Congress]]
@@ -34,5 +41,8 @@ Manifested In:
 
 Sources:
 - [[Source - UK National Archives Stamp Act Resistance Source]]
+- [[Source - Avalon Stamp Act Congress Resolutions 1765]]
+- [[Source - Britannica Nonimportation Agreements]]
+- [[Source - Colonial Williamsburg Sons and Daughters of Liberty]]
 - [[Source - UK National Archives Boston Tea Party]]
 - [[Source - LOC Journals of the Continental Congress]]

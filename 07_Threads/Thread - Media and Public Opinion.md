@@ -7,6 +7,10 @@ related_forces:
   - Enlightenment Thought
 related_events:
   - Colonial Resistance
+  - Letters from a Farmer in Pennsylvania
+  - Massachusetts Circular Letter
+  - Nonimportation Agreements
+  - Homespun Movement
   - Declaration of Independence
 related_people: []
 status: stub
@@ -21,6 +25,10 @@ Media systems shape what publics know, believe, repeat, contest, and organize ar
 
 ## Major Manifestations
 - [[Colonial Resistance]]
+- [[Letters from a Farmer in Pennsylvania]]
+- [[Massachusetts Circular Letter]]
+- [[Nonimportation Agreements]]
+- [[Homespun Movement]]
 - [[Declaration of Independence]]
 
 ## Timeline
@@ -31,7 +39,10 @@ Media systems shape what publics know, believe, repeat, contest, and organize ar
 - [[Enlightenment Thought]]
 
 ## Key Actors
--
+- [[Sons of Liberty]]
+- [[Daughters of Liberty]]
+- [[John Dickinson]]
+- [[Samuel Adams]]
 
 ## Branch Points
 -

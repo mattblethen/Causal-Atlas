@@ -8,13 +8,13 @@ updated: 2026-05-09
 # Roadmap Progress
 
 ## Whole Vault Roadmap Estimate
-Approximate completion: **9%**
+Approximate completion: **10%**
 
 ## Basis
-The full roadmap includes the American Revolution proof of concept, later American history modules, later world history modules, source notes, actor notes, people notes, logs, maps, and future expansions. The vault now has the first module's researched causal spine, postwar policy roots, first bridge-event layer, stronger Coercive Acts source packet, Boston siege endpoint with Ticonderoga/Knox/Dorchester mechanics, slavery/Black Loyalist entry points, first logs, first force expansion, people and actor notes for the main early actors, and causal, pressure, actor, and timeline maps.
+The full roadmap includes the American Revolution proof of concept, later American history modules, later world history modules, source notes, actor notes, people notes, logs, maps, and future expansions. The vault now has the first module's researched causal spine, postwar policy roots, first bridge-event layer, stronger Coercive Acts source packet, Boston siege endpoint with Ticonderoga/Knox/Dorchester mechanics, slavery/Black Loyalist entry points, resistance infrastructure from the Stamp Act Congress through nonimportation and homespun, first logs, first force expansion, people and actor notes for the main early actors, and causal, pressure, actor, and timeline maps.
 
 ## American Revolution Module Estimate
-Approximate completion: **64%**
+Approximate completion: **70%**
 
 ## Completed
 - Source spine for the core causal chain
@@ -35,6 +35,7 @@ Approximate completion: **64%**
 - Siege and evacuation of Boston
 - Second Continental Congress, Ticonderoga, Knox Expedition, and Dorchester Heights mechanics
 - Henry Knox, Ethan Allen, Benedict Arnold, and Green Mountain Boys notes
+- Stamp Act Congress, nonimportation agreements, Boston Non-Importation Agreement, Massachusetts Circular Letter, Dickinson's Farmer letters, homespun movement, Daughters of Liberty, and James Otis Jr. notes
 
 ## Remaining
 - Expanded military command and campaign notes after 1776
@@ -43,4 +44,4 @@ Approximate completion: **64%**
 - Further slavery and Indigenous displacement integration
 - Scholarly interpretation pass
 - Washington command expansion after Boston
-- Boston Non-Importation Agreement and pre-1770 commercial resistance
+- Boston occupation, "Glorious 92", and post-Circular Letter escalation

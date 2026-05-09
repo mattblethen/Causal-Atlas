@@ -10,6 +10,9 @@ status: active
 - Treaty texts and parliamentary acts connected to the Seven Years' War settlement.
 - British budget, debt, and taxation records where available.
 - Stamp Act text and colonial responses.
+- Stamp Act Congress resolutions.
+- Massachusetts Circular Letter, imperial response, and related assembly records.
+- Nonimportation agreements, boycott broadsides, and homespun/Daughters of Liberty sources.
 - Tea Act text and East India Company context.
 - Coercive Acts text.
 - Continental Congress records.

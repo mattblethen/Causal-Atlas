@@ -23,12 +23,14 @@ actors:
 related_events:
   - Seven Years' War
   - Colonial Resistance
+  - Stamp Act Congress
 status: researched
 confidence: medium
 sources:
   - Source - American Battlefield Trust Stamp Act 1765
   - Source - UK National Archives Causes of the American Revolution
   - Source - UK National Archives Stamp Act Resistance Source
+  - Source - LOC No Taxation Without Representation
 ---
 
 # 1765-03-22 - Stamp Act
@@ -48,6 +50,7 @@ Parliament passed the Stamp Act on March 22, 1765. The act required stamped pape
 A revenue measure became a constitutional conflict over whether Parliament could impose internal taxes on colonies without direct representation.
 
 ## Led To
+- [[Stamp Act Congress]]
 - [[Colonial Resistance]]
 - [[Thread - Taxation and Representation]]
 
@@ -68,11 +71,13 @@ A revenue measure became a constitutional conflict over whether Parliament could
 - [[British Parliament]]
 - [[Colonial Assemblies]]
 - [[Sons of Liberty]]
+- [[John Dickinson]]
 
 ## Research Notes
-This note needs a later source pass on the Stamp Act Congress, repeal, and the Declaratory Act. Those are important branch points but outside this first chain scaffold.
+This note now has a Stamp Act Congress bridge. A later pass should still add more detail on repeal politics and British merchant pressure.
 
 ## Sources
 - [[Source - American Battlefield Trust Stamp Act 1765]]
 - [[Source - UK National Archives Causes of the American Revolution]]
 - [[Source - UK National Archives Stamp Act Resistance Source]]
+- [[Source - LOC No Taxation Without Representation]]

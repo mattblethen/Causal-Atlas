@@ -22,12 +22,14 @@ actors:
 related_events:
   - First Continental Congress
   - Coercive Acts
+  - Nonimportation Agreements
   - Lexington and Concord
 status: researched
 confidence: medium
 sources:
   - Source - LOC Journals of the Continental Congress
   - Source - Wikisource Continental Association 1774
+  - Source - Britannica Nonimportation Agreements
 ---
 
 # 1774-10-20 - Continental Association
@@ -42,6 +44,7 @@ The First Continental Congress adopted the Association on October 20, 1774. It u
 - [[First Continental Congress]]
 - [[Coercive Acts]]
 - [[Atlantic Trade]]
+- [[Nonimportation Agreements]]
 
 ## Manifested As
 Resistance became a continental economic enforcement system.
@@ -66,8 +69,9 @@ Resistance became a continental economic enforcement system.
 - [[Patriot Movement]]
 
 ## Research Notes
-Reliability is medium until the note cites specific LOC Journals pages for the Association text.
+Reliability is medium until the note cites specific LOC Journals pages for the Association text. The new nonimportation source connects the Association to the longer boycott tradition.
 
 ## Sources
 - [[Source - LOC Journals of the Continental Congress]]
 - [[Source - Wikisource Continental Association 1774]]
+- [[Source - Britannica Nonimportation Agreements]]

@@ -7,6 +7,9 @@ sources:
   - Source - UK National Archives Causes of the American Revolution
   - Source - American Battlefield Trust Stamp Act 1765
   - Source - LOC Journals of the Continental Congress
+  - Source - Avalon Stamp Act Congress Resolutions 1765
+  - Source - Avalon Massachusetts Circular Letter 1768
+  - Source - ABT Boston Non-Importation Agreement
 ---
 
 # Decision Log - American Revolution
@@ -58,6 +61,107 @@ Consequences:
 Sources:
 - [[Source - American Battlefield Trust Stamp Act 1765]]
 - [[Source - UK National Archives Causes of the American Revolution]]
+
+## 1765 - Colonies coordinate through the Stamp Act Congress
+
+Decision:
+Colonial delegates met in New York to petition the king and Parliament and to state shared rights claims against the Stamp Act.
+
+Why it mattered:
+The decision moved resistance from local protest toward intercolonial political coordination while still using loyal petitioning language.
+
+Priority conflict:
+- Colonial consent and assembly authority versus Parliament's claim to tax the colonies.
+
+Alternatives:
+- Leave each colony to petition separately.
+- Escalate directly to refusal without a congress.
+- Accept the Stamp Act while seeking later modifications.
+
+Consequences:
+- [[Stamp Act Congress]]
+- [[Nonimportation Agreements]]
+- [[Declaratory Act]]
+
+Sources:
+- [[Source - LOC No Taxation Without Representation]]
+- [[Source - Avalon Stamp Act Congress Resolutions 1765]]
+
+## 1767-1768 - Dickinson chooses constitutional persuasion through print
+
+Decision:
+John Dickinson used widely circulated letters to oppose the Townshend duties while preserving a moderate argument for rights inside the empire.
+
+Why it mattered:
+The decision helped turn a technical revenue dispute into a clearer public argument about parliamentary authority, consent, and the difference between trade regulation and revenue taxation.
+
+Priority conflict:
+- Preserving imperial connection versus resisting revenue taxation without representation.
+
+Alternatives:
+- Argue immediately for independence.
+- Treat the duties as a small economic inconvenience.
+- Leave resistance to assemblies without a public print campaign.
+
+Consequences:
+- [[Letters from a Farmer in Pennsylvania]]
+- [[Massachusetts Circular Letter]]
+- [[Nonimportation Agreements]]
+
+Sources:
+- [[Source - Wikisource Letters from a Farmer]]
+- [[Source - Constitution Center Letters from a Farmer]]
+
+## 1768 - Massachusetts circulates the Townshend dispute
+
+Decision:
+The Massachusetts House sent a circular letter asking other colonial assemblies to harmonize their response to the Townshend duties.
+
+Why it mattered:
+The decision made communication among colonial assemblies a central threat in British eyes and a central tool for colonial resistance.
+
+Priority conflict:
+- Intercolonial coordination versus imperial efforts to prevent combined opposition.
+
+Alternatives:
+- Petition London alone.
+- Keep protest within Massachusetts.
+- Move directly to extra-legal resistance without assembly backing.
+
+Consequences:
+- [[Massachusetts Circular Letter]]
+- [[Committees of Correspondence]]
+- [[Boston Massacre]]
+
+Sources:
+- [[Source - Avalon Massachusetts Circular Letter 1768]]
+- [[Source - MHS Massachusetts Circular Letter]]
+- [[Source - Avalon Circular Letter to Governors 1768]]
+
+## 1768 - Boston merchants adopt nonimportation
+
+Decision:
+Boston merchants and traders agreed to restrict imports from Great Britain and avoid goods imported in violation of the agreement.
+
+Why it mattered:
+The decision converted Atlantic trade into a pressure system and made consumer behavior part of constitutional politics.
+
+Priority conflict:
+- Commercial discipline and resistance solidarity versus trade profit and access to British goods.
+
+Alternatives:
+- Continue importing while petitioning.
+- Rely only on assembly protest.
+- Escalate to violence against customs officers and importers.
+
+Consequences:
+- [[Boston Non-Importation Agreement]]
+- [[Homespun Movement]]
+- [[Continental Association]]
+
+Sources:
+- [[Source - ABT Boston Non-Importation Agreement]]
+- [[Source - LOC True Sons Non-Importation Broadside]]
 
 ## 1773 - Parliament preserves tea duty while aiding the East India Company
 
