@@ -20,12 +20,12 @@ status: active
 - [x] Research plan exists
 - [x] Causal chain scaffold exists
 - [x] Source target list exists
-- [ ] Event notes researched
-- [ ] Source notes created
+- [x] Event notes researched
+- [x] Source notes created
 - [ ] Actor notes researched
-- [ ] Logs populated
-- [ ] Maps revised with evidence
-- [ ] Module build summary written
+- [x] Logs populated
+- [x] Maps revised with evidence
+- [x] Module build summary written
 
 ## Source Discipline
 - [ ] Each major claim has a source

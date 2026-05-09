@@ -7,6 +7,7 @@ threads:
   - Empire
   - Taxation and Representation
 manifestations:
+  - British Imperial Debt
   - Stamp Act
   - Tea Act
 opposed_by:
@@ -24,6 +25,7 @@ sources: []
 The financial burden of empire and war created pressure for states to increase taxation, enforcement, and administrative control.
 
 ## Manifested As
+- [[British Imperial Debt]]
 - [[Stamp Act]]
 - [[Townshend Acts]]
 - [[Tea Act]]

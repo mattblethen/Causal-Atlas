@@ -8,22 +8,22 @@ status: active
 Use this to track what Codex or a human researcher should fill next.
 
 ## Immediate Module
-- [ ] Build proof-of-concept module: American Revolution causal chain
-- [ ] Create source notes for each major claim
-- [ ] Link all event notes to at least one force and one thread
-- [ ] Create priority logs for British Empire and Colonial Resistance
-- [ ] Create decision log entries for key branch points
+- [x] Build proof-of-concept module: American Revolution causal chain
+- [x] Create source notes for each major claim
+- [x] Link all event notes to at least one force and one thread
+- [x] Create priority logs for British Empire and Colonial Resistance
+- [x] Create decision log entries for key branch points
 
 ## American Revolution Source Spine
-- [ ] Seven Years' War settlement sources
-- [ ] British imperial debt and taxation sources
-- [ ] Stamp Act primary text and colonial responses
-- [ ] Tea Act and East India Company context
-- [ ] Boston Tea Party primary/near-contemporary accounts
+- [x] Seven Years' War settlement sources
+- [x] British imperial debt and taxation sources
+- [x] Stamp Act primary text and colonial responses
+- [x] Tea Act and East India Company context
+- [x] Boston Tea Party primary/near-contemporary accounts
 - [ ] Coercive Acts primary texts
-- [ ] First Continental Congress records
-- [ ] Lexington and Concord primary/near-contemporary accounts
-- [ ] Declaration of Independence drafts, final text, and drafting context
+- [x] First Continental Congress records
+- [x] Lexington and Concord primary/near-contemporary accounts
+- [x] Declaration of Independence drafts, final text, and drafting context
 
 ## American Revolution Actor Notes
 - [ ] British Empire
@@ -36,7 +36,7 @@ Use this to track what Codex or a human researcher should fill next.
 - [ ] Loyalists
 
 ## American Revolution Map Outputs
-- [ ] Causal map: war debt to independence
+- [x] Causal map: war debt to independence
 - [ ] Pressure map: debt, sovereignty, trade, autonomy
 - [ ] Actor map: British institutions, colonial assemblies, resistance networks
 - [ ] Timeline zoom: 1754-1776

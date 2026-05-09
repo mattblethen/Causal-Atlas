@@ -1,7 +1,7 @@
 ---
 type: module_overview
 module: American Revolution
-status: ready_for_research
+status: first_researched_pass
 confidence: medium
 ---
 
@@ -49,6 +49,7 @@ Build the first proof-of-concept causal module for Causal Atlas: a sourced, link
 - [[Research Plan]]
 - [[Causal Chain Map]]
 - [[Source Targets]]
+- [[Module Build Summary]]
 - [[Research Standards]]
 - [[Vault Readiness Checklist]]
 

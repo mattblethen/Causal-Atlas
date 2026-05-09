@@ -1,7 +1,7 @@
 ---
 type: causal_map
 module: American Revolution
-status: scaffold
+status: researching
 ---
 
 # American Revolution Causal Chain Map
@@ -25,5 +25,7 @@ flowchart TD
 ```
 
 ## Map Notes
-- This is a scaffold, not a researched causal proof.
-- Replace or qualify arrows as source work clarifies direct, indirect, and disputed relationships.
+- This is now a first-pass researched scaffold, not a final causal proof.
+- Strongest supported links so far: Seven Years' War -> British Imperial Debt -> Stamp Act; Tea Act -> Boston Tea Party -> Coercive Acts; Coercive Acts -> First Continental Congress.
+- Lexington and Concord remains source-backed as the transition into armed conflict, but the exact first-shot question is intentionally left unresolved.
+- Future passes should qualify direct, indirect, and disputed relationships with more specific primary sources.

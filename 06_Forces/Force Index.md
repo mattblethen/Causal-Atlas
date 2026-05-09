@@ -8,6 +8,7 @@ status: scaffold
 Forces are deep pressures that manifest as events.
 
 ## Starter Forces
+- [[British Imperial Debt]]
 - [[Imperial Debt]]
 - [[Parliamentary Sovereignty]]
 - [[Colonial Autonomy]]
