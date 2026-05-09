@@ -9,6 +9,8 @@ sources:
   - Source - LOC British Reforms and Colonial Resistance 1767-1772
   - Source - MHS Boston Pamphlet 1772
   - Source - Founders Online Continental Association 1774
+  - Source - Founders Online Braintree Association 1775
+  - Source - NCpedia Committees of Safety Primary Source
   - Source - NPS April 19 1775
   - Source - LOC Declaration of Independence Guide
 ---
@@ -50,6 +52,7 @@ sources:
 - [[Coercive Acts]]
 - [[First Continental Congress]]
 - [[Continental Association]]
+- [[Local Association Enforcement]]
 - [[Committees of Inspection]]
 
 ## 1775 - Armed Conflict and Failed Reconciliation
@@ -73,4 +76,4 @@ sources:
 ## Notes
 - This timeline is a navigational zoom view, not a complete chronology.
 - Each entry should eventually link to source notes and maps.
-- Later passes should add responses to the Proclamation for Suppressing Rebellion and Sedition, local Association enforcement case studies, and evacuation refugee experiences.
+- Later passes should add responses to the Proclamation for Suppressing Rebellion and Sedition, regional Association enforcement comparisons, and evacuation refugee experiences.

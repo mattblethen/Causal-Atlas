@@ -9,6 +9,7 @@ url: https://founders.archives.gov/documents/Jefferson/01-01-02-0094
 accessed: 2026-05-09
 related_events:
   - Continental Association
+  - Local Association Enforcement
   - First Continental Congress
   - Nonimportation Agreements
 related_forces:

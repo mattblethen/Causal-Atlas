@@ -20,6 +20,10 @@ status: researched
 confidence: medium
 sources:
   - Source - Founders Online Continental Association 1774
+  - Source - Founders Online Braintree Association 1775
+  - Source - NCpedia Committees of Safety Primary Source
+  - Source - NCpedia Committees of Observation
+  - Source - LOC New York Committee Observation 1775
   - Source - Mount Vernon Committees of Correspondence
 ---
 
@@ -40,6 +44,7 @@ Committees of inspection were local enforcement bodies that watched compliance w
 
 ## Events Involved In
 - [[Continental Association]]
+- [[Local Association Enforcement]]
 - [[First Continental Congress]]
 - [[Colonial Resistance]]
 - [[Lexington and Concord]]
@@ -58,4 +63,8 @@ Inspection committees could look like patriotic self-government to supporters an
 
 ## Sources
 - [[Source - Founders Online Continental Association 1774]]
+- [[Source - Founders Online Braintree Association 1775]]
+- [[Source - NCpedia Committees of Safety Primary Source]]
+- [[Source - NCpedia Committees of Observation]]
+- [[Source - LOC New York Committee Observation 1775]]
 - [[Source - Mount Vernon Committees of Correspondence]]

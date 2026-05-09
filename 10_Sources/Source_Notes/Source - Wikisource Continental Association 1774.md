@@ -9,6 +9,7 @@ url: https://en.wikisource.org/wiki/Continental_Association
 accessed: 2026-05-09
 related_events:
   - Continental Association
+  - Local Association Enforcement
   - First Continental Congress
 related_forces:
   - Colonial Autonomy

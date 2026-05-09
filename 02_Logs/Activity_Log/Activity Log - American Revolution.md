@@ -21,6 +21,11 @@ sources:
   - Source - Avalon Virginia Committee Resolutions 1773
   - Source - Mount Vernon Committees of Correspondence
   - Source - Founders Online Continental Association 1774
+  - Source - Founders Online Braintree Association 1775
+  - Source - NCpedia Committees of Safety Primary Source
+  - Source - NCpedia Committees of Observation
+  - Source - LOC New York Committee Observation 1775
+  - Source - MHS First Continental Congress Association Enforcement
   - Source - NPS April 19 1775
   - Source - LOC Declaration of Independence Guide
 ---
@@ -234,6 +239,28 @@ Punishment of Boston helped make resistance a continental issue.
 Sources:
 - [[Source - UK National Archives Boston Tea Party]]
 - [[Source - Bill of Rights Institute Coercive Acts]]
+
+## 1774-1776 - Local Association Enforcement
+
+What happened:
+After Congress adopted the Continental Association, towns and counties translated it into local covenants, inspection committees, published proceedings, price rules, manufacturing incentives, commercial ostracism, and public conduct enforcement.
+
+Related:
+- [[Continental Association]]
+- [[Local Association Enforcement]]
+- [[Committees of Inspection]]
+- [[Committees of Safety]]
+- [[Lexington and Concord]]
+
+Why it matters:
+This layer shows resistance becoming practical local governance before open war, not just elite declarations or abstract boycotts.
+
+Sources:
+- [[Source - Founders Online Braintree Association 1775]]
+- [[Source - NCpedia Committees of Safety Primary Source]]
+- [[Source - NCpedia Committees of Observation]]
+- [[Source - LOC New York Committee Observation 1775]]
+- [[Source - MHS First Continental Congress Association Enforcement]]
 
 ## 1775-04-19 - Lexington and Concord
 

@@ -16,6 +16,8 @@ sources:
   - Source - MHS Boston Pamphlet 1772
   - Source - Avalon Virginia Committee Resolutions 1773
   - Source - Founders Online Continental Association 1774
+  - Source - Founders Online Braintree Association 1775
+  - Source - NCpedia Committees of Safety Primary Source
   - Source - UK National Archives Boston Tea Party
   - Source - LOC Journals of the Continental Congress
 ---
@@ -46,6 +48,8 @@ Manifested In:
 - [[Committees of Correspondence]]
 - [[Continental Association]]
 - [[Committees of Inspection]]
+- [[Local Association Enforcement]]
+- [[Committees of Safety]]
 - [[Colonial Resistance]]
 - [[Boston Tea Party]]
 - [[First Continental Congress]]
@@ -64,5 +68,7 @@ Sources:
 - [[Source - MHS Boston Pamphlet 1772]]
 - [[Source - Avalon Virginia Committee Resolutions 1773]]
 - [[Source - Founders Online Continental Association 1774]]
+- [[Source - Founders Online Braintree Association 1775]]
+- [[Source - NCpedia Committees of Safety Primary Source]]
 - [[Source - UK National Archives Boston Tea Party]]
 - [[Source - LOC Journals of the Continental Congress]]

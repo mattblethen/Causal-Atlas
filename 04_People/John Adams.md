@@ -21,6 +21,7 @@ sources:
   - Source - Founders Online Declaration Adopted by Congress
   - Source - LOC Declaration of Independence Guide
   - Source - NPS Boston Massacre Trial
+  - Source - Founders Online Braintree Association 1775
 ---
 
 # John Adams
@@ -36,12 +37,14 @@ John Adams was a Massachusetts lawyer, delegate, and independence advocate. His 
 
 ## Key Decisions
 - [[Boston Massacre Aftermath]]
+- [[Local Association Enforcement]]
 - [[Declaration of Independence]]
 
 ## Events Involved In
 - [[Boston Massacre]]
 - [[Boston Massacre Aftermath]]
 - [[First Continental Congress]]
+- [[Local Association Enforcement]]
 - [[Declaration of Independence]]
 
 ## Forces Embodied
@@ -58,3 +61,4 @@ Adams combined legal restraint and radical constitutional argument, a useful rem
 - [[Source - Founders Online Declaration Adopted by Congress]]
 - [[Source - LOC Declaration of Independence Guide]]
 - [[Source - NPS Boston Massacre Trial]]
+- [[Source - Founders Online Braintree Association 1775]]

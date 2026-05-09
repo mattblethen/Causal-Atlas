@@ -15,11 +15,13 @@ related_events:
   - Committees of Correspondence
   - First Continental Congress
   - Continental Association
+  - Local Association Enforcement
 status: stub
 confidence: medium
 sources:
   - Source - Avalon Virginia Committee Resolutions 1773
   - Source - Founders Online Continental Association 1774
+  - Source - NCpedia Committees of Observation
 ---
 
 # Thread - Empire
@@ -39,6 +41,7 @@ Empires expand, administer territory, extract resources, justify authority, and 
 - [[Committees of Correspondence]]
 - [[Coercive Acts]]
 - [[Continental Association]]
+- [[Local Association Enforcement]]
 
 ## Timeline
 -
@@ -60,6 +63,7 @@ Empires expand, administer territory, extract resources, justify authority, and 
 - [[Boston Occupation]]
 - [[Coercive Acts]]
 - [[Continental Association]]
+- [[Local Association Enforcement]]
 - [[First Continental Congress]]
 
 ## Long-Term Consequences
@@ -68,3 +72,4 @@ Empire links fiscal extraction, sovereignty claims, trade policy, resistance, an
 ## Sources
 - [[Source - Avalon Virginia Committee Resolutions 1773]]
 - [[Source - Founders Online Continental Association 1774]]
+- [[Source - NCpedia Committees of Observation]]

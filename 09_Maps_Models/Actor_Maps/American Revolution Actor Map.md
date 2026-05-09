@@ -11,6 +11,8 @@ sources:
   - Source - MHS Boston Pamphlet 1772
   - Source - Avalon Virginia Committee Resolutions 1773
   - Source - Founders Online Continental Association 1774
+  - Source - Founders Online Braintree Association 1775
+  - Source - NCpedia Committees of Safety Primary Source
   - Source - LOC True Sons Non-Importation Broadside
   - Source - Colonial Williamsburg Sons and Daughters of Liberty
   - Source - Commonwealth Museum Customs Commissioners and Liberty
@@ -64,6 +66,8 @@ flowchart LR
     CR --> FCC["First Continental Congress"]
     FCC --> CA["Continental Association"]
     CA --> COI["Committees of Inspection"]
+    COI --> LAE["Local Association Enforcement"]
+    LAE --> COS["Committees of Safety"]
     COI --> NIA
     COI -. pressures .-> LOY
     FCC --> SCC["Second Continental Congress"]
@@ -113,6 +117,7 @@ flowchart LR
 - Nonimportation, homespun, and circular-letter politics show resistance infrastructure before the First Continental Congress.
 - The occupation path shows British customs and army presence creating a military-public-opinion crisis in Boston.
 - The committees path shows information networks becoming Association enforcement through local inspection committees.
+- Local enforcement links boycott practice to committees of safety and militia-adjacent governance.
 - The Patriot movement is an umbrella note, not a single institution.
 
 ## Sources
@@ -123,6 +128,8 @@ flowchart LR
 - [[Source - MHS Boston Pamphlet 1772]]
 - [[Source - Avalon Virginia Committee Resolutions 1773]]
 - [[Source - Founders Online Continental Association 1774]]
+- [[Source - Founders Online Braintree Association 1775]]
+- [[Source - NCpedia Committees of Safety Primary Source]]
 - [[Source - LOC True Sons Non-Importation Broadside]]
 - [[Source - Colonial Williamsburg Sons and Daughters of Liberty]]
 - [[Source - Commonwealth Museum Customs Commissioners and Liberty]]

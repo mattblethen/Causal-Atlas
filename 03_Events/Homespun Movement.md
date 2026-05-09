@@ -27,6 +27,7 @@ related_events:
   - Boston Non-Importation Agreement
   - Townshend Acts
   - Continental Association
+  - Local Association Enforcement
   - Tea Act
 status: researched
 confidence: medium
@@ -34,6 +35,7 @@ sources:
   - Source - Colonial Williamsburg Sons and Daughters of Liberty
   - Source - Britannica Nonimportation Agreements
   - Source - Founders Online Continental Association 1774
+  - Source - NCpedia Committees of Safety Primary Source
 ---
 
 # 1766-1775 - Homespun Movement
@@ -81,3 +83,4 @@ This note should eventually distinguish spinning bees, tea substitutes, clothing
 - [[Source - Colonial Williamsburg Sons and Daughters of Liberty]]
 - [[Source - Britannica Nonimportation Agreements]]
 - [[Source - Founders Online Continental Association 1774]]
+- [[Source - NCpedia Committees of Safety Primary Source]]

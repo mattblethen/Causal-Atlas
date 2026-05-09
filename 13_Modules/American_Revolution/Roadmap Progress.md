@@ -8,13 +8,13 @@ updated: 2026-05-09
 # Roadmap Progress
 
 ## Whole Vault Roadmap Estimate
-Approximate completion: **12%**
+Approximate completion: **13%**
 
 ## Basis
-The full roadmap includes the American Revolution proof of concept, later American history modules, later world history modules, source notes, actor notes, people notes, logs, maps, and future expansions. The vault now has the first module's researched causal spine, postwar policy roots, first bridge-event layer, stronger Coercive Acts source packet, Boston occupation and Massacre aftermath layer, committees of correspondence and Association enforcement layer, Boston siege endpoint with Ticonderoga/Knox/Dorchester mechanics, slavery/Black Loyalist entry points, resistance infrastructure from the Stamp Act Congress through nonimportation and homespun, first logs, first force expansion, people and actor notes for the main early actors, and causal, pressure, actor, and timeline maps.
+The full roadmap includes the American Revolution proof of concept, later American history modules, later world history modules, source notes, actor notes, people notes, logs, maps, and future expansions. The vault now has the first module's researched causal spine, postwar policy roots, first bridge-event layer, stronger Coercive Acts source packet, Boston occupation and Massacre aftermath layer, committees of correspondence and Association enforcement layer with local case studies, Boston siege endpoint with Ticonderoga/Knox/Dorchester mechanics, slavery/Black Loyalist entry points, resistance infrastructure from the Stamp Act Congress through nonimportation and homespun, first logs, first force expansion, people and actor notes for the main early actors, and causal, pressure, actor, and timeline maps.
 
 ## American Revolution Module Estimate
-Approximate completion: **78%**
+Approximate completion: **81%**
 
 ## Completed
 - Source spine for the core causal chain
@@ -40,11 +40,13 @@ Approximate completion: **78%**
 - Boston occupation and Massacre aftermath added to activity, decision, priority, pressure, actor, causal, and timeline maps
 - Committees of Correspondence source packet with Boston, Virginia, and post-Coercive Acts phases
 - Continental Association upgraded with Founders Online source and Committees of Inspection actor note
+- Local Association Enforcement process note with Braintree, North Carolina, and New York committee examples
+- Committees of Safety actor note added as the bridge from boycott enforcement toward local governance and militia readiness
 
 ## Remaining
 - Expanded military command and campaign notes after 1776
 - Additional people notes for local actors, women writers/correspondents, Black Loyalists, Indigenous leaders, British commanders, and parliamentary figures
-- Deeper source expansion for Townshend Acts, local Association enforcement, Olive Branch Petition, Common Sense, and Black Loyalists
+- Deeper source expansion for Townshend Acts, regional committee-of-safety comparisons, Olive Branch Petition, Common Sense, and Black Loyalists
 - Further slavery and Indigenous displacement integration
 - Scholarly interpretation pass
 - Washington command expansion after Boston

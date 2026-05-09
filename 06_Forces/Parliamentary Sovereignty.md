@@ -13,6 +13,7 @@ manifestations:
   - Boston Occupation
   - Coercive Acts
   - Continental Association
+  - Local Association Enforcement
 opposed_by:
   - Colonial Autonomy
 intensified_by:
@@ -22,6 +23,7 @@ confidence: medium
 sources:
   - Source - Avalon Virginia Committee Resolutions 1773
   - Source - Founders Online Continental Association 1774
+  - Source - NCpedia Committees of Observation
 ---
 
 # Parliamentary Sovereignty
@@ -39,6 +41,7 @@ The claim that Parliament held ultimate legislative authority over the empire, i
 - [[Boston Occupation]]
 - [[Coercive Acts]]
 - [[Continental Association]]
+- [[Local Association Enforcement]]
 
 ## Deeper Roots
 - [[Thread - Empire]]
@@ -55,3 +58,4 @@ Turned revenue disputes into a broader constitutional conflict over authority, r
 ## Sources
 - [[Source - Avalon Virginia Committee Resolutions 1773]]
 - [[Source - Founders Online Continental Association 1774]]
+- [[Source - NCpedia Committees of Observation]]

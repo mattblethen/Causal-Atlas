@@ -8,11 +8,13 @@ related_events:
   - Seven Years' War
   - Boston Occupation
   - Boston Massacre
+  - Local Association Enforcement
   - Lexington and Concord
 related_people: []
 status: stub
 confidence: medium
-sources: []
+sources:
+  - Source - NCpedia Committees of Safety Primary Source
 ---
 
 # Thread - War and State Formation
@@ -25,6 +27,7 @@ War pressures states to tax, borrow, centralize administration, mobilize people,
 - [[British Imperial Debt]]
 - [[Boston Occupation]]
 - [[Boston Massacre]]
+- [[Local Association Enforcement]]
 - [[Lexington and Concord]]
 
 ## Timeline
@@ -35,15 +38,17 @@ War pressures states to tax, borrow, centralize administration, mobilize people,
 
 ## Key Actors
 - [[British Army]]
+- [[Committees of Safety]]
 - [[Massachusetts Militia]]
 - [[Continental Army]]
 
 ## Branch Points
 - [[Boston Occupation]]
+- [[Local Association Enforcement]]
 - [[Lexington and Concord]]
 
 ## Long-Term Consequences
 This thread helps connect military conflict to fiscal systems, bureaucracy, legitimacy, and revolution.
 
 ## Sources
--
+- [[Source - NCpedia Committees of Safety Primary Source]]

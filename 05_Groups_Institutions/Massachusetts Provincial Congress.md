@@ -20,6 +20,7 @@ confidence: medium
 sources:
   - Source - Massachusetts Archives Collection Overview
   - Source - LOC Massachusetts Provincial Congress Journals
+  - Source - Founders Online Braintree Association 1775
 ---
 
 # Massachusetts Provincial Congress
@@ -40,6 +41,7 @@ The Massachusetts Provincial Congress functioned as a provisional Patriot govern
 ## Events Involved In
 - [[Coercive Acts]]
 - [[Committees of Correspondence]]
+- [[Local Association Enforcement]]
 - [[Lexington and Concord]]
 
 ## Forces Embodied
@@ -56,3 +58,4 @@ The Congress acted as a government while formal imperial authority still claimed
 ## Sources
 - [[Source - Massachusetts Archives Collection Overview]]
 - [[Source - LOC Massachusetts Provincial Congress Journals]]
+- [[Source - Founders Online Braintree Association 1775]]

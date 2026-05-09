@@ -12,6 +12,7 @@ manifestations:
   - Boston Non-Importation Agreement
   - Homespun Movement
   - Continental Association
+  - Local Association Enforcement
   - Tea Act
   - Boston Tea Party
 opposed_by: []
@@ -23,6 +24,7 @@ sources:
   - Source - ABT Boston Non-Importation Agreement
   - Source - Britannica Nonimportation Agreements
   - Source - Founders Online Continental Association 1774
+  - Source - Founders Online Braintree Association 1775
 ---
 
 # Atlantic Trade
@@ -40,6 +42,7 @@ The movement of goods, capital, labor, and coercive power across the Atlantic sh
 - [[Boston Non-Importation Agreement]]
 - [[Homespun Movement]]
 - [[Continental Association]]
+- [[Local Association Enforcement]]
 - [[Tea Act]]
 - [[Boston Tea Party]]
 
@@ -60,3 +63,4 @@ Linked local resistance to imperial trade regulation, monopoly privileges, custo
 - [[Source - ABT Boston Non-Importation Agreement]]
 - [[Source - Britannica Nonimportation Agreements]]
 - [[Source - Founders Online Continental Association 1774]]
+- [[Source - Founders Online Braintree Association 1775]]

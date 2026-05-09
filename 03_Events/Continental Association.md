@@ -27,12 +27,14 @@ related_events:
   - Coercive Acts
   - Committees of Correspondence
   - Nonimportation Agreements
+  - Local Association Enforcement
   - Lexington and Concord
 status: researched
 confidence: medium
 sources:
   - Source - LOC Journals of the Continental Congress
   - Source - Founders Online Continental Association 1774
+  - Source - Founders Online Braintree Association 1775
   - Source - Wikisource Continental Association 1774
   - Source - Britannica Nonimportation Agreements
 ---
@@ -57,6 +59,7 @@ Resistance became a continental economic enforcement system.
 
 ## Led To
 - [[Committees of Inspection]]
+- [[Local Association Enforcement]]
 - [[Lexington and Concord]]
 - [[Declaration of Independence]]
 
@@ -84,5 +87,6 @@ The Founders Online text now provides the preferred primary anchor. Later work s
 ## Sources
 - [[Source - LOC Journals of the Continental Congress]]
 - [[Source - Founders Online Continental Association 1774]]
+- [[Source - Founders Online Braintree Association 1775]]
 - [[Source - Wikisource Continental Association 1774]]
 - [[Source - Britannica Nonimportation Agreements]]

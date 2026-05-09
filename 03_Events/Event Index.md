@@ -36,6 +36,7 @@ Events are visible historical moments where deeper forces become observable.
 - [[Coercive Acts]]
 - [[First Continental Congress]]
 - [[Continental Association]]
+- [[Local Association Enforcement]]
 - [[Lexington and Concord]]
 - [[Second Continental Congress]]
 - [[Capture of Fort Ticonderoga]]

@@ -13,6 +13,7 @@ manifestations:
   - Nonimportation Agreements
   - Christopher Seider Killing
   - Boston Massacre Aftermath
+  - Local Association Enforcement
 opposed_by: []
 intensified_by:
   - Enlightenment Thought
@@ -24,6 +25,7 @@ sources:
   - Source - LOC True Sons Non-Importation Broadside
   - Source - MHS Boston Pamphlet 1772
   - Source - Mount Vernon Committees of Correspondence
+  - Source - LOC New York Committee Observation 1775
   - Source - LOC Revere Bloody Massacre Engraving
   - Source - MHS Fair Account Boston Massacre
 ---
@@ -44,6 +46,7 @@ Communication technologies and publishing networks shape public opinion, coordin
 - [[Nonimportation Agreements]]
 - [[Christopher Seider Killing]]
 - [[Boston Massacre Aftermath]]
+- [[Local Association Enforcement]]
 - [[Declaration of Independence]]
 
 ## Deeper Roots
@@ -64,5 +67,6 @@ Helps explain how local grievances become shared political causes across distanc
 - [[Source - LOC True Sons Non-Importation Broadside]]
 - [[Source - MHS Boston Pamphlet 1772]]
 - [[Source - Mount Vernon Committees of Correspondence]]
+- [[Source - LOC New York Committee Observation 1775]]
 - [[Source - LOC Revere Bloody Massacre Engraving]]
 - [[Source - MHS Fair Account Boston Massacre]]

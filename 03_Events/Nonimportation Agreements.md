@@ -31,6 +31,7 @@ related_events:
   - Homespun Movement
   - Christopher Seider Killing
   - Continental Association
+  - Local Association Enforcement
 status: researched
 confidence: medium
 sources:
@@ -38,6 +39,7 @@ sources:
   - Source - ABT Boston Non-Importation Agreement
   - Source - LOC True Sons Non-Importation Broadside
   - Source - Founders Online Continental Association 1774
+  - Source - Founders Online Braintree Association 1775
 ---
 
 # 1765-1775 - Nonimportation Agreements
@@ -62,6 +64,7 @@ Economic pressure became a political instrument.
 - [[Christopher Seider Killing]]
 - [[Continental Association]]
 - [[Committees of Inspection]]
+- [[Local Association Enforcement]]
 
 ## Related Decisions
 - Merchants and Patriot organizers chose coordinated trade restriction as a pressure tactic short of armed conflict.
@@ -90,3 +93,4 @@ This note treats nonimportation as a long-running resistance pattern, not a sing
 - [[Source - ABT Boston Non-Importation Agreement]]
 - [[Source - LOC True Sons Non-Importation Broadside]]
 - [[Source - Founders Online Continental Association 1774]]
+- [[Source - Founders Online Braintree Association 1775]]

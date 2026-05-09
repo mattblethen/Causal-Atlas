@@ -18,6 +18,9 @@ sources:
   - Source - Avalon Virginia Committee Resolutions 1773
   - Source - Mount Vernon Committees of Correspondence
   - Source - Founders Online Continental Association 1774
+  - Source - Founders Online Braintree Association 1775
+  - Source - NCpedia Committees of Safety Primary Source
+  - Source - LOC New York Committee Observation 1775
 ---
 
 # Decision Log - American Revolution
@@ -371,6 +374,32 @@ Consequences:
 Sources:
 - [[Source - Founders Online Continental Association 1774]]
 - [[Source - Mount Vernon Committees of Correspondence]]
+
+## 1775 - Local committees enforce the Association
+
+Decision:
+Local committees adapted, published, and enforced Association rules through observation, public exposure, commercial exclusion, inventory control, price discipline, and domestic production incentives.
+
+Why it mattered:
+The decision made congressional resistance locally enforceable and helped committees move from boycott oversight toward de facto governance and militia-adjacent authority.
+
+Priority conflict:
+- Revolutionary unity and local self-government versus private trade, neutrality, loyalism, and royal legal authority.
+
+Alternatives:
+- Leave the Association as a voluntary pledge.
+- Depend on provincial congresses rather than town and county committees.
+- Avoid social-pressure enforcement to preserve neutrality.
+
+Consequences:
+- [[Local Association Enforcement]]
+- [[Committees of Safety]]
+- [[Lexington and Concord]]
+
+Sources:
+- [[Source - Founders Online Braintree Association 1775]]
+- [[Source - NCpedia Committees of Safety Primary Source]]
+- [[Source - LOC New York Committee Observation 1775]]
 
 ## 1775 - Gage sends troops toward Concord
 

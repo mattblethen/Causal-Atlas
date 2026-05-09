@@ -20,11 +20,13 @@ related_events:
   - Tea Act
   - Boston Tea Party
   - Continental Association
+  - Local Association Enforcement
 status: stub
 confidence: medium
 sources:
   - Source - Avalon Virginia Committee Resolutions 1773
   - Source - Founders Online Continental Association 1774
+  - Source - Founders Online Braintree Association 1775
 ---
 
 # Thread - Taxation and Representation
@@ -47,6 +49,7 @@ Conflict over who had legitimate authority to tax the colonies and whether taxat
 - [[Boston Tea Party]]
 - [[Coercive Acts]]
 - [[Continental Association]]
+- [[Local Association Enforcement]]
 
 ## Timeline
 -
@@ -70,6 +73,7 @@ Conflict over who had legitimate authority to tax the colonies and whether taxat
 - [[Declaratory Act]]
 - [[First Continental Congress]]
 - [[Continental Association]]
+- [[Local Association Enforcement]]
 
 ## Long-Term Consequences
 Taxation disputes became constitutional disputes over representation, consent, and legitimate imperial authority.
@@ -80,3 +84,4 @@ Expand with primary sources, parliamentary acts, colonial pamphlets, and institu
 ## Sources
 - [[Source - Avalon Virginia Committee Resolutions 1773]]
 - [[Source - Founders Online Continental Association 1774]]
+- [[Source - Founders Online Braintree Association 1775]]

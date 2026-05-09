@@ -17,6 +17,7 @@ sources:
   - Source - Mount Vernon Loyalists
   - Source - NARA Native Americans and American Revolution
   - Source - Founders Online Continental Association 1774
+  - Source - NCpedia Committees of Observation
 ---
 
 # Loyalists
@@ -36,6 +37,7 @@ Loyalists were colonists who supported Britain, opposed independence, rejected P
 ## Events Involved In
 - [[Colonial Resistance]]
 - [[Continental Association]]
+- [[Local Association Enforcement]]
 - [[Declaration of Independence]]
 
 ## Forces Embodied
@@ -53,3 +55,4 @@ Loyalists were not one social class or one ideology. Some were cautious moderate
 - [[Source - Mount Vernon Loyalists]]
 - [[Source - NARA Native Americans and American Revolution]]
 - [[Source - Founders Online Continental Association 1774]]
+- [[Source - NCpedia Committees of Observation]]

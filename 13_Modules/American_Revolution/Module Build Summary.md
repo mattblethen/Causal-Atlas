@@ -15,6 +15,7 @@ confidence: medium
 - Resistance infrastructure notes for [[Stamp Act Congress]], [[Nonimportation Agreements]], [[Boston Non-Importation Agreement]], [[Massachusetts Circular Letter]], [[Letters from a Farmer in Pennsylvania]], [[Homespun Movement]], [[Daughters of Liberty]], and [[James Otis Jr.]]
 - Boston escalation notes for [[Glorious 92]], [[Liberty Affair]], [[Boston Occupation]], [[Christopher Seider Killing]], and [[Boston Massacre Aftermath]]
 - Committee and enforcement expansion for [[Committees of Correspondence]], [[Continental Association]], and [[Committees of Inspection]]
+- Local enforcement notes for [[Local Association Enforcement]] and [[Committees of Safety]]
 
 ## Sources Used
 - [[Source - LOC American Revolution Primary Source Timeline]]
@@ -48,6 +49,11 @@ confidence: medium
 - [[Source - Avalon Virginia Committee Resolutions 1773]]
 - [[Source - Mount Vernon Committees of Correspondence]]
 - [[Source - Founders Online Continental Association 1774]]
+- [[Source - Founders Online Braintree Association 1775]]
+- [[Source - NCpedia Committees of Safety Primary Source]]
+- [[Source - NCpedia Committees of Observation]]
+- [[Source - LOC New York Committee Observation 1775]]
+- [[Source - MHS First Continental Congress Association Enforcement]]
 - [[Source - UK National Archives Boston Tea Party]]
 - [[Source - UK National Archives Boston Tea Party Source 3]]
 - [[Source - Bill of Rights Institute Coercive Acts]]
@@ -59,14 +65,14 @@ confidence: medium
 - Add direct primary text for the Tea Act.
 - Replace or supplement the Coercive Acts source with Parliamentary Archives, Avalon, or another archival/legal source.
 - Add exact British debt figures with a scholarly source and explain uncertainty.
-- Add local Continental Association enforcement case studies beyond the national text.
+- Add regional committee-of-safety and committee-of-observation comparisons beyond Massachusetts and North Carolina.
 - Add Boston Massacre trial transcript packet and compare Patriot/Loyalist pamphlet claims.
 - Add actor notes for Parliament, East India Company, Sons of Liberty, Continental Congress, Massachusetts militia, and Thomas Gage.
 - Expand slavery and Indigenous displacement context without forcing those threads into every event.
 
 ## Next Recommended Module Step
-Add local Association enforcement case studies and the Boston Massacre trial/legal transcript comparison before moving into post-1776 military campaigns.
+Add Boston Massacre trial/legal transcript comparison, then deepen Townshend Acts and Black Loyalist packets before moving into post-1776 military campaigns.
 
 ## Progress Estimate
-- Whole vault roadmap: about 12% complete.
-- American Revolution module: about 78% complete.
+- Whole vault roadmap: about 13% complete.
+- American Revolution module: about 81% complete.

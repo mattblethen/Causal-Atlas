@@ -22,6 +22,7 @@ actors:
 related_events:
   - Coercive Acts
   - First Continental Congress
+  - Local Association Enforcement
   - Declaration of Independence
 status: researched
 confidence: medium
@@ -29,6 +30,7 @@ sources:
   - Source - NPS April 19 1775
   - Source - NPS Concord North Bridge
   - Source - NPS Rebellion Minute Man
+  - Source - NCpedia Committees of Safety Primary Source
 ---
 
 # 1775-04-19 - Lexington and Concord
@@ -42,6 +44,7 @@ British regulars marched from Boston toward Concord to seize or destroy colonial
 ## Manifested From
 - [[Coercive Acts]]
 - [[First Continental Congress]]
+- [[Local Association Enforcement]]
 - [[Colonial Resistance]]
 
 ## Manifested As
@@ -68,6 +71,7 @@ Political resistance became armed conflict and siege warfare around Boston.
 - [[British Army]]
 - [[Massachusetts Militia]]
 - [[Massachusetts Provincial Congress]]
+- [[Committees of Safety]]
 
 ## Research Notes
 The first shot remains interpretively uncertain and should not be asserted without stronger primary-source handling. This note avoids assigning responsibility for the first shot.
@@ -76,3 +80,4 @@ The first shot remains interpretively uncertain and should not be asserted witho
 - [[Source - NPS April 19 1775]]
 - [[Source - NPS Concord North Bridge]]
 - [[Source - NPS Rebellion Minute Man]]
+- [[Source - NCpedia Committees of Safety Primary Source]]

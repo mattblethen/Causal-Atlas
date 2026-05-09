@@ -22,6 +22,8 @@ sources:
   - Source - American Battlefield Trust Tea Act 1773
   - Source - Avalon Boston Port Act 1774
   - Source - Founders Online Continental Association 1774
+  - Source - Founders Online Braintree Association 1775
+  - Source - NCpedia Committees of Safety Primary Source
   - Source - NPS Siege of Boston Overview
 ---
 
@@ -78,7 +80,8 @@ flowchart TD
     AY --> M
     M --> U["Continental Association"]
     U --> AZ["Committees of Inspection"]
-    AZ --> N["Lexington and Concord"]
+    AZ --> BA["Local Association Enforcement"]
+    BA --> N["Lexington and Concord"]
     U --> N
     N --> AJ["Second Continental Congress"]
     N --> AK["Capture of Fort Ticonderoga"]
@@ -107,8 +110,10 @@ flowchart TD
     R --> AX
     R --> AY
     R --> AZ
+    R --> BA
     R --> M
     P --> U
+    P --> BA
 ```
 
 ## Reading the Map
@@ -118,7 +123,7 @@ flowchart TD
 - The trade path shows why tea became more than a commodity: it carried taxation, monopoly, and imperial authority.
 - The nonimportation path shows how trade and household consumption became political pressure systems before armed conflict.
 - The occupation path shows how customs enforcement and assembly defiance became a daily military presence before the Boston Massacre.
-- The committee path shows how correspondence and inspection converted information sharing into enforceable continental pressure.
+- The committee path shows how correspondence and inspection converted information sharing into enforceable continental and local pressure.
 
 ## Current Confidence
 Medium. The broad causal relationships are supported by institutional sources, but specific arrows need deeper primary-source and scholarly comparison.
@@ -142,4 +147,6 @@ Medium. The broad causal relationships are supported by institutional sources, b
 - [[Source - American Battlefield Trust Tea Act 1773]]
 - [[Source - Avalon Boston Port Act 1774]]
 - [[Source - Founders Online Continental Association 1774]]
+- [[Source - Founders Online Braintree Association 1775]]
+- [[Source - NCpedia Committees of Safety Primary Source]]
 - [[Source - NPS Siege of Boston Overview]]

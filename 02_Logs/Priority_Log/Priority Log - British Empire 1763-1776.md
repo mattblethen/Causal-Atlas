@@ -12,6 +12,7 @@ sources:
   - Source - Commonwealth Museum Weight of Occupation
   - Source - Avalon Virginia Committee Resolutions 1773
   - Source - Founders Online Continental Association 1774
+  - Source - NCpedia Committees of Observation
   - Source - UK National Archives Boston Tea Party
 ---
 
@@ -38,6 +39,7 @@ Manifested In:
 - [[Boston Massacre]]
 - [[Committees of Correspondence]]
 - [[Continental Association]]
+- [[Local Association Enforcement]]
 - [[Tea Act]]
 - [[Coercive Acts]]
 - [[Lexington and Concord]]
@@ -50,4 +52,5 @@ Sources:
 - [[Source - Commonwealth Museum Weight of Occupation]]
 - [[Source - Avalon Virginia Committee Resolutions 1773]]
 - [[Source - Founders Online Continental Association 1774]]
+- [[Source - NCpedia Committees of Observation]]
 - [[Source - UK National Archives Boston Tea Party]]

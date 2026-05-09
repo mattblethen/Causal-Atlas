@@ -24,6 +24,7 @@ related_events:
   - Committees of Correspondence
   - Nonimportation Agreements
   - Continental Association
+  - Local Association Enforcement
   - Lexington and Concord
   - Declaration of Independence
 status: researched
@@ -32,6 +33,7 @@ sources:
   - Source - LOC Journals of the Continental Congress
   - Source - Mount Vernon Committees of Correspondence
   - Source - Founders Online Continental Association 1774
+  - Source - MHS First Continental Congress Association Enforcement
 ---
 
 # 1774-09-05 - First Continental Congress
@@ -55,6 +57,7 @@ Local and colony-level resistance became continental political coordination.
 ## Led To
 - [[Continental Association]]
 - [[Committees of Inspection]]
+- [[Local Association Enforcement]]
 - [[Lexington and Concord]]
 - [[Declaration of Independence]]
 
@@ -80,3 +83,4 @@ The Continental Association now has a separate note. Later expansion should extr
 - [[Source - LOC Journals of the Continental Congress]]
 - [[Source - Mount Vernon Committees of Correspondence]]
 - [[Source - Founders Online Continental Association 1774]]
+- [[Source - MHS First Continental Congress Association Enforcement]]

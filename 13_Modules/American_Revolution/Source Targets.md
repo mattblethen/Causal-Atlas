@@ -17,6 +17,7 @@ status: active
 - Boston Massacre visual, pamphlet, trial, and aftermath sources.
 - Committees of correspondence letters, pamphlets, and intercolonial resolutions.
 - Continental Association text and local inspection/enforcement records.
+- Regional committee-of-safety and committee-of-observation records.
 - Tea Act text and East India Company context.
 - Coercive Acts text.
 - Continental Congress records.

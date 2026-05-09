@@ -21,6 +21,7 @@ sources:
   - Source - Avalon Boston Committee Circular Letter 1774
   - Source - MHS Boston Pamphlet 1772
   - Source - Founders Online Continental Association 1774
+  - Source - Founders Online Braintree Association 1775
   - Source - Colonial Williamsburg Sons and Daughters of Liberty
   - Source - Britannica Nonimportation Agreements
 ---
@@ -43,6 +44,7 @@ The Patriot movement coordinated and justified resistance to imperial policy, gr
 - [[Committees of Correspondence]]
 - [[First Continental Congress]]
 - [[Continental Association]]
+- [[Local Association Enforcement]]
 - [[Lexington and Concord]]
 - [[Declaration of Independence]]
 
@@ -55,6 +57,7 @@ The Patriot movement coordinated and justified resistance to imperial policy, gr
 - [[Coercive Acts]]
 - [[First Continental Congress]]
 - [[Continental Association]]
+- [[Local Association Enforcement]]
 - [[Lexington and Concord]]
 - [[Declaration of Independence]]
 
@@ -75,5 +78,6 @@ The movement used universal rights language while colonial society remained stru
 - [[Source - Avalon Boston Committee Circular Letter 1774]]
 - [[Source - MHS Boston Pamphlet 1772]]
 - [[Source - Founders Online Continental Association 1774]]
+- [[Source - Founders Online Braintree Association 1775]]
 - [[Source - Colonial Williamsburg Sons and Daughters of Liberty]]
 - [[Source - Britannica Nonimportation Agreements]]
