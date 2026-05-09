@@ -76,12 +76,13 @@ Use this to track what Codex or a human researcher should fill next.
 - [ ] Which causal links are direct enough for `Led To`, and which should remain contextual in `Research Notes`?
 - [ ] Build deeper Black Loyalists source packet beyond Dunmore's Proclamation.
 - [x] Add siege and evacuation of Boston event notes.
-- [ ] Add Henry Knox, artillery train, and Dorchester Heights notes.
+- [x] Add Henry Knox, artillery train, and Dorchester Heights notes.
+- [x] Add Second Continental Congress and Ticonderoga notes.
 - [ ] Add Boston Non-Importation Agreement note.
 
 ## Roadmap Completion Estimate
-- Whole vault roadmap: approximately 8% complete as of 2026-05-09.
-- American Revolution module: approximately 58% complete.
+- Whole vault roadmap: approximately 9% complete as of 2026-05-09.
+- American Revolution module: approximately 64% complete.
 
 ## Next American History Modules
 - [ ] Constitution and Early Republic

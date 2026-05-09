@@ -32,7 +32,8 @@ flowchart LR
     PM["Patriot Movement"] --> CR
     CR --> BTP["Boston Tea Party"]
     CR --> FCC["First Continental Congress"]
-    FCC --> DOI["Declaration of Independence"]
+    FCC --> SCC["Second Continental Congress"]
+    SCC --> DOI["Declaration of Independence"]
     TP["Thomas Paine"] --> CS["Common Sense"]
     CS --> DOI
     G3["George III"] --> OBP["Olive Branch Petition Fails"]
@@ -46,7 +47,14 @@ flowchart LR
     LC --> CTA["Continental Army"]
     GW["George Washington"] --> CTA
     CTA --> BH["Battle of Bunker Hill"]
+    EA["Ethan Allen"] --> TIC["Capture of Fort Ticonderoga"]
+    BA2["Benedict Arnold"] --> TIC
+    GMB["Green Mountain Boys"] --> TIC
+    TIC --> HK["Henry Knox"]
+    HK --> KNOX["Knox Expedition"]
+    KNOX --> DH["Dorchester Heights"]
     CTA --> SB["Siege of Boston"]
+    DH --> EB
     SB --> EB["Evacuation of Boston"]
     LC --> OBP
     LOY["Loyalists"] -. contests .-> PM

@@ -154,6 +154,31 @@ Consequences:
 Sources:
 - [[Source - NPS Washington Appointment Commander in Chief]]
 
+## 1775-1776 - Washington and Knox turn captured artillery into siege leverage
+
+Decision:
+Washington trusted Henry Knox to retrieve heavy artillery from Fort Ticonderoga and then used cannon to fortify Dorchester Heights.
+
+Why it mattered:
+This decision transformed an early northern-frontier seizure into the operational pressure that forced the evacuation of Boston.
+
+Priority conflict:
+- Avoiding a direct assault on Boston versus finding enough force to dislodge the British army.
+
+Alternatives:
+- Attempt a direct assault on Boston.
+- Continue the siege without heavy artillery.
+- Keep the Ticonderoga guns in the north.
+
+Consequences:
+- [[Knox Expedition]]
+- [[Dorchester Heights]]
+- [[Evacuation of Boston]]
+
+Sources:
+- [[Source - Fort Ticonderoga Noble Train Context]]
+- [[Source - NPS Dorchester Heights]]
+
 ## 1775 - Dunmore offers freedom to enslaved people held by rebels
 
 Decision:

@@ -44,12 +44,17 @@ flowchart TD
     I --> M["First Continental Congress"]
     M --> U["Continental Association"]
     U --> N["Lexington and Concord"]
+    N --> AJ["Second Continental Congress"]
+    N --> AK["Capture of Fort Ticonderoga"]
+    AK --> AL["Knox Expedition"]
     N --> X["Battle of Bunker Hill"]
     X --> V["Olive Branch Petition"]
     V --> Y["Proclamation for Suppressing Rebellion and Sedition"]
     Y --> W["Common Sense"]
     X --> AH["Siege of Boston"]
-    AH --> AI["Evacuation of Boston"]
+    AL --> AM["Dorchester Heights"]
+    AH --> AM
+    AM --> AI["Evacuation of Boston"]
     AI --> O
     W --> O["Declaration of Independence"]
     Z["Slavery"] --> AA["Lord Dunmore's Proclamation"]

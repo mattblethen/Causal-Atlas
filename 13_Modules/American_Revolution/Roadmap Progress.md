@@ -8,13 +8,13 @@ updated: 2026-05-09
 # Roadmap Progress
 
 ## Whole Vault Roadmap Estimate
-Approximate completion: **8%**
+Approximate completion: **9%**
 
 ## Basis
-The full roadmap includes the American Revolution proof of concept, later American history modules, later world history modules, source notes, actor notes, people notes, logs, maps, and future expansions. The vault now has the first module's researched causal spine, postwar policy roots, first bridge-event layer, stronger Coercive Acts source packet, Boston siege endpoint, slavery/Black Loyalist entry points, first logs, first force expansion, people and actor notes for the main early actors, and causal, pressure, actor, and timeline maps.
+The full roadmap includes the American Revolution proof of concept, later American history modules, later world history modules, source notes, actor notes, people notes, logs, maps, and future expansions. The vault now has the first module's researched causal spine, postwar policy roots, first bridge-event layer, stronger Coercive Acts source packet, Boston siege endpoint with Ticonderoga/Knox/Dorchester mechanics, slavery/Black Loyalist entry points, first logs, first force expansion, people and actor notes for the main early actors, and causal, pressure, actor, and timeline maps.
 
 ## American Revolution Module Estimate
-Approximate completion: **58%**
+Approximate completion: **64%**
 
 ## Completed
 - Source spine for the core causal chain
@@ -33,6 +33,8 @@ Approximate completion: **58%**
 - Postwar policy roots: Royal Proclamation, Sugar Act, Quartering Act, Declaratory Act
 - Gaspee Affair and customs-enforcement actor layer
 - Siege and evacuation of Boston
+- Second Continental Congress, Ticonderoga, Knox Expedition, and Dorchester Heights mechanics
+- Henry Knox, Ethan Allen, Benedict Arnold, and Green Mountain Boys notes
 
 ## Remaining
 - Expanded military command and campaign notes after 1776
@@ -40,4 +42,5 @@ Approximate completion: **58%**
 - Deeper source expansion for Townshend Acts, Boston Massacre, committees of correspondence, Continental Association, Olive Branch Petition, Common Sense, and Black Loyalists
 - Further slavery and Indigenous displacement integration
 - Scholarly interpretation pass
-- Henry Knox, Dorchester Heights, and Washington command expansion
+- Washington command expansion after Boston
+- Boston Non-Importation Agreement and pre-1770 commercial resistance

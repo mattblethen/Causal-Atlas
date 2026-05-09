@@ -22,7 +22,7 @@ Actors include groups, institutions, assemblies, movements, and organized intere
 - [[Massachusetts Militia]]
 - [[Continental Army]]
 - [[Black Loyalists]]
-- [[British Customs Enforcement]]
+- [[Green Mountain Boys]]
 
 ## Researched First-Pass Actors
 - [[British Empire]]
@@ -38,6 +38,8 @@ Actors include groups, institutions, assemblies, movements, and organized intere
 - [[Massachusetts Militia]]
 - [[Continental Army]]
 - [[Black Loyalists]]
+- [[British Customs Enforcement]]
+- [[Green Mountain Boys]]
 
 ## Use
 Actor notes should make priorities visible. A good actor note answers what the actor was trying to preserve, control, expand, or resist.

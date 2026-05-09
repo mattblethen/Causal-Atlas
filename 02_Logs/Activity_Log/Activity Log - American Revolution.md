@@ -131,6 +131,25 @@ Sources:
 - [[Source - NPS Siege of Boston Overview]]
 - [[Source - NPS Evacuation of Boston 1776]]
 
+## 1775-1776 - Ticonderoga, Knox, and Dorchester Heights
+
+What happened:
+Patriot forces captured Fort Ticonderoga, Henry Knox moved captured artillery toward Boston, and Washington used cannon on Dorchester Heights to force British evacuation.
+
+Related:
+- [[Capture of Fort Ticonderoga]]
+- [[Knox Expedition]]
+- [[Dorchester Heights]]
+- [[Evacuation of Boston]]
+
+Why it matters:
+The Boston campaign turned on logistics and artillery, not only militia mobilization.
+
+Sources:
+- [[Source - Army Museum Ticonderoga Provincials Seize the Fort]]
+- [[Source - Fort Ticonderoga Noble Train Context]]
+- [[Source - NPS Dorchester Heights]]
+
 ## 1775-1776 - Failed Reconciliation and Public Independence Argument
 
 What happened:

@@ -40,12 +40,16 @@ sources:
 
 ## 1775 - Armed Conflict and Failed Reconciliation
 - [[Lexington and Concord]]
+- [[Second Continental Congress]]
+- [[Capture of Fort Ticonderoga]]
 - [[Battle of Bunker Hill]]
 - [[Continental Army]]
 - [[Olive Branch Petition]]
 - [[Proclamation for Suppressing Rebellion and Sedition]]
 - [[Lord Dunmore's Proclamation]]
 - [[Siege of Boston]]
+- [[Knox Expedition]]
+- [[Dorchester Heights]]
 - [[Evacuation of Boston]]
 
 ## 1776 - Public Independence
