@@ -17,6 +17,7 @@ status: researched
 confidence: medium
 sources:
   - Source - LOC Journals of the Continental Congress
+  - Source - Founders Online Continental Association 1774
   - Source - LOC Declaration of Independence Guide
 ---
 
@@ -33,10 +34,12 @@ The Continental Congress coordinated colonial resistance, petitioned and address
 
 ## Key Decisions
 - [[First Continental Congress]]
+- [[Continental Association]]
 - [[Declaration of Independence]]
 
 ## Events Involved In
 - [[First Continental Congress]]
+- [[Continental Association]]
 - [[Lexington and Concord]]
 - [[Declaration of Independence]]
 
@@ -52,4 +55,5 @@ Congress had to speak collectively for colonies with different interests, risk t
 
 ## Sources
 - [[Source - LOC Journals of the Continental Congress]]
+- [[Source - Founders Online Continental Association 1774]]
 - [[Source - LOC Declaration of Independence Guide]]

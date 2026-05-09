@@ -21,6 +21,7 @@ actors:
   - British Parliament
 related_events:
   - Coercive Acts
+  - Committees of Correspondence
   - Nonimportation Agreements
   - Continental Association
   - Lexington and Concord
@@ -29,6 +30,8 @@ status: researched
 confidence: medium
 sources:
   - Source - LOC Journals of the Continental Congress
+  - Source - Mount Vernon Committees of Correspondence
+  - Source - Founders Online Continental Association 1774
 ---
 
 # 1774-09-05 - First Continental Congress
@@ -41,6 +44,7 @@ The First Continental Congress met from September 5 to October 26, 1774. Delegat
 
 ## Manifested From
 - [[Coercive Acts]]
+- [[Committees of Correspondence]]
 - [[Colonial Resistance]]
 - [[Nonimportation Agreements]]
 - [[Colonial Autonomy]]
@@ -50,6 +54,7 @@ Local and colony-level resistance became continental political coordination.
 
 ## Led To
 - [[Continental Association]]
+- [[Committees of Inspection]]
 - [[Lexington and Concord]]
 - [[Declaration of Independence]]
 
@@ -66,9 +71,12 @@ Local and colony-level resistance became continental political coordination.
 ## Key Actors
 - [[Continental Congress]]
 - [[Colonial Assemblies]]
+- [[Committees of Correspondence]]
 
 ## Research Notes
 The Continental Association now has a separate note. Later expansion should extract the Declaration and Resolves, Petition to the King, and addresses from the journals.
 
 ## Sources
 - [[Source - LOC Journals of the Continental Congress]]
+- [[Source - Mount Vernon Committees of Correspondence]]
+- [[Source - Founders Online Continental Association 1774]]

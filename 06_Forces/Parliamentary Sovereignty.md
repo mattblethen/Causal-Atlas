@@ -12,13 +12,16 @@ manifestations:
   - Townshend Acts
   - Boston Occupation
   - Coercive Acts
+  - Continental Association
 opposed_by:
   - Colonial Autonomy
 intensified_by:
   - Imperial Debt
 status: stub
 confidence: medium
-sources: []
+sources:
+  - Source - Avalon Virginia Committee Resolutions 1773
+  - Source - Founders Online Continental Association 1774
 ---
 
 # Parliamentary Sovereignty
@@ -35,6 +38,7 @@ The claim that Parliament held ultimate legislative authority over the empire, i
 - [[Townshend Acts]]
 - [[Boston Occupation]]
 - [[Coercive Acts]]
+- [[Continental Association]]
 
 ## Deeper Roots
 - [[Thread - Empire]]
@@ -49,4 +53,5 @@ The claim that Parliament held ultimate legislative authority over the empire, i
 Turned revenue disputes into a broader constitutional conflict over authority, representation, and consent.
 
 ## Sources
--
+- [[Source - Avalon Virginia Committee Resolutions 1773]]
+- [[Source - Founders Online Continental Association 1774]]

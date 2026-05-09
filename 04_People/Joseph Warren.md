@@ -22,6 +22,7 @@ sources:
   - Source - LOC Short Narrative of the Boston Massacre
   - Source - MHS Fair Account Boston Massacre
   - Source - LOC Samuel Adams Papers
+  - Source - MHS Boston Pamphlet 1772
 ---
 
 # Joseph Warren
@@ -62,3 +63,4 @@ Warren's role highlights how public narrative, intelligence, and military mobili
 - [[Source - LOC Short Narrative of the Boston Massacre]]
 - [[Source - MHS Fair Account Boston Massacre]]
 - [[Source - LOC Samuel Adams Papers]]
+- [[Source - MHS Boston Pamphlet 1772]]

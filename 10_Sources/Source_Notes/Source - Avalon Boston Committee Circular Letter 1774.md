@@ -8,6 +8,7 @@ date_published: 1774-05-13
 url: https://avalon.law.yale.edu/18th_century/circ_let_boston_1774.asp
 accessed: 2026-05-09
 related_events:
+  - Committees of Correspondence
   - Coercive Acts
   - First Continental Congress
 related_forces:
@@ -29,12 +30,14 @@ Circular letter from the Boston Committee of Correspondence, May 13, 1774, hoste
 - Boston activists framed the Boston Port Act as unjust punishment imposed without a hearing.
 - The letter described the port closure as threatening subsistence and liberty.
 - It is useful primary evidence for how Coercive Acts helped create intercolonial solidarity.
+- It shows the Boston committee network acting after Parliament punished Boston.
 
 ## Relevant Quotes
 > "try, condemn, and by an Act to punish"
 
 ## Connected Notes
 - [[Coercive Acts]]
+- [[Committees of Correspondence]]
 - [[First Continental Congress]]
 - [[Colonial Resistance]]
 - [[Thread - Media and Public Opinion]]

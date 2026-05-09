@@ -16,6 +16,11 @@ sources:
   - Source - LOC Revere Bloody Massacre Engraving
   - Source - MHS Fair Account Boston Massacre
   - Source - NPS Boston Massacre Trial
+  - Source - MHS Samuel Adams James Warren Committee 1772
+  - Source - MHS Boston Pamphlet 1772
+  - Source - Avalon Virginia Committee Resolutions 1773
+  - Source - Mount Vernon Committees of Correspondence
+  - Source - Founders Online Continental Association 1774
   - Source - NPS April 19 1775
   - Source - LOC Declaration of Independence Guide
 ---
@@ -175,6 +180,28 @@ Sources:
 - [[Source - LOC Revere Bloody Massacre Engraving]]
 - [[Source - MHS Fair Account Boston Massacre]]
 - [[Source - NPS Boston Massacre Trial]]
+
+## 1772-1774 - Committees and Continental Enforcement
+
+What happened:
+Boston's Committee of Correspondence formed in 1772, produced the Boston Pamphlet, and encouraged other towns to build committees. Virginia's 1773 resolutions created a standing intercolonial correspondence committee after the Gaspee investigation, and post-Coercive Acts committee networks helped call for Congress. The Continental Association then turned coordination into local inspection and enforcement.
+
+Related:
+- [[Committees of Correspondence]]
+- [[Gaspee Affair]]
+- [[First Continental Congress]]
+- [[Continental Association]]
+- [[Committees of Inspection]]
+
+Why it matters:
+This layer explains how resistance moved from argument and protest into repeatable communication, delegate selection, boycott enforcement, and quasi-governmental local authority.
+
+Sources:
+- [[Source - MHS Samuel Adams James Warren Committee 1772]]
+- [[Source - MHS Boston Pamphlet 1772]]
+- [[Source - Avalon Virginia Committee Resolutions 1773]]
+- [[Source - Mount Vernon Committees of Correspondence]]
+- [[Source - Founders Online Continental Association 1774]]
 
 ## 1773-12-16 - Boston Tea Party
 

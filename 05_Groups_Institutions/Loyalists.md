@@ -16,6 +16,7 @@ confidence: medium
 sources:
   - Source - Mount Vernon Loyalists
   - Source - NARA Native Americans and American Revolution
+  - Source - Founders Online Continental Association 1774
 ---
 
 # Loyalists
@@ -51,3 +52,4 @@ Loyalists were not one social class or one ideology. Some were cautious moderate
 ## Sources
 - [[Source - Mount Vernon Loyalists]]
 - [[Source - NARA Native Americans and American Revolution]]
+- [[Source - Founders Online Continental Association 1774]]

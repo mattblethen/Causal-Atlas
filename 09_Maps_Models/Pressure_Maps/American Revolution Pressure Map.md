@@ -17,8 +17,11 @@ sources:
   - Source - Commonwealth Museum Weight of Occupation
   - Source - MHS Fair Account Boston Massacre
   - Source - Rhode Island Historical Society Burning of the Gaspee
+  - Source - MHS Boston Pamphlet 1772
+  - Source - Avalon Virginia Committee Resolutions 1773
   - Source - American Battlefield Trust Tea Act 1773
   - Source - Avalon Boston Port Act 1774
+  - Source - Founders Online Continental Association 1774
   - Source - NPS Siege of Boston Overview
 ---
 
@@ -67,12 +70,16 @@ flowchart TD
     AF --> S
     AF --> AU
     AF --> AG["Gaspee Affair"]
-    AG --> K
+    AG --> AY["Committees of Correspondence"]
+    AY --> K
     G --> L["Boston Tea Party"]
     L --> I
     I --> M["First Continental Congress"]
+    AY --> M
     M --> U["Continental Association"]
-    U --> N["Lexington and Concord"]
+    U --> AZ["Committees of Inspection"]
+    AZ --> N["Lexington and Concord"]
+    U --> N
     N --> AJ["Second Continental Congress"]
     N --> AK["Capture of Fort Ticonderoga"]
     AK --> AL["Knox Expedition"]
@@ -98,7 +105,10 @@ flowchart TD
     R --> AP
     R --> AQ
     R --> AX
+    R --> AY
+    R --> AZ
     R --> M
+    P --> U
 ```
 
 ## Reading the Map
@@ -108,6 +118,7 @@ flowchart TD
 - The trade path shows why tea became more than a commodity: it carried taxation, monopoly, and imperial authority.
 - The nonimportation path shows how trade and household consumption became political pressure systems before armed conflict.
 - The occupation path shows how customs enforcement and assembly defiance became a daily military presence before the Boston Massacre.
+- The committee path shows how correspondence and inspection converted information sharing into enforceable continental pressure.
 
 ## Current Confidence
 Medium. The broad causal relationships are supported by institutional sources, but specific arrows need deeper primary-source and scholarly comparison.
@@ -126,6 +137,9 @@ Medium. The broad causal relationships are supported by institutional sources, b
 - [[Source - Commonwealth Museum Weight of Occupation]]
 - [[Source - MHS Fair Account Boston Massacre]]
 - [[Source - Rhode Island Historical Society Burning of the Gaspee]]
+- [[Source - MHS Boston Pamphlet 1772]]
+- [[Source - Avalon Virginia Committee Resolutions 1773]]
 - [[Source - American Battlefield Trust Tea Act 1773]]
 - [[Source - Avalon Boston Port Act 1774]]
+- [[Source - Founders Online Continental Association 1774]]
 - [[Source - NPS Siege of Boston Overview]]

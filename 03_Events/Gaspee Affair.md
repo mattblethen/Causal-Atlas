@@ -28,6 +28,7 @@ status: researched
 confidence: medium
 sources:
   - Source - Rhode Island Historical Society Burning of the Gaspee
+  - Source - Avalon Virginia Committee Resolutions 1773
 ---
 
 # 1772-06-09 - Gaspee Affair
@@ -69,7 +70,8 @@ Customs enforcement became maritime direct action against British authority.
 - British customs officials
 
 ## Research Notes
-Needs a future source packet from Gaspee commission records and Rhode Island archival sources.
+The Virginia Committee source now anchors how the imperial Gaspee investigation helped drive intercolonial correspondence. Needs a future source packet from Gaspee commission records and Rhode Island archival sources.
 
 ## Sources
 - [[Source - Rhode Island Historical Society Burning of the Gaspee]]
+- [[Source - Avalon Virginia Committee Resolutions 1773]]

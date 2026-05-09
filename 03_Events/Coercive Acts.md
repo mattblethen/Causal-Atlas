@@ -21,7 +21,9 @@ actors:
   - Massachusetts
 related_events:
   - Boston Tea Party
+  - Committees of Correspondence
   - First Continental Congress
+  - Continental Association
   - Lexington and Concord
 status: researched
 confidence: medium
@@ -34,6 +36,7 @@ sources:
   - Source - Avalon Quartering Act 1774
   - Source - Avalon Quebec Act 1774
   - Source - Avalon Boston Committee Circular Letter 1774
+  - Source - Mount Vernon Committees of Correspondence
   - Source - NPS April 19 1775
 ---
 
@@ -54,7 +57,9 @@ In 1774 Parliament passed coercive legislation targeting Massachusetts and Bosto
 Punishment of one colony became a continental warning about imperial authority and colonial self-government.
 
 ## Led To
+- [[Committees of Correspondence]]
 - [[First Continental Congress]]
+- [[Continental Association]]
 - [[Lexington and Concord]]
 
 ## Related Decisions
@@ -86,4 +91,5 @@ The Boston Port Act, Massachusetts Government Act, Administration of Justice Act
 - [[Source - Avalon Quartering Act 1774]]
 - [[Source - Avalon Quebec Act 1774]]
 - [[Source - Avalon Boston Committee Circular Letter 1774]]
+- [[Source - Mount Vernon Committees of Correspondence]]
 - [[Source - NPS April 19 1775]]

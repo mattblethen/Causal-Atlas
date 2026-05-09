@@ -10,6 +10,8 @@ sources:
   - Source - Avalon Circular Letter to Governors 1768
   - Source - Commonwealth Museum Occupation Landing
   - Source - Commonwealth Museum Weight of Occupation
+  - Source - Avalon Virginia Committee Resolutions 1773
+  - Source - Founders Online Continental Association 1774
   - Source - UK National Archives Boston Tea Party
 ---
 
@@ -34,6 +36,8 @@ Manifested In:
 - [[Liberty Affair]]
 - [[Boston Occupation]]
 - [[Boston Massacre]]
+- [[Committees of Correspondence]]
+- [[Continental Association]]
 - [[Tea Act]]
 - [[Coercive Acts]]
 - [[Lexington and Concord]]
@@ -44,4 +48,6 @@ Sources:
 - [[Source - Avalon Circular Letter to Governors 1768]]
 - [[Source - Commonwealth Museum Occupation Landing]]
 - [[Source - Commonwealth Museum Weight of Occupation]]
+- [[Source - Avalon Virginia Committee Resolutions 1773]]
+- [[Source - Founders Online Continental Association 1774]]
 - [[Source - UK National Archives Boston Tea Party]]

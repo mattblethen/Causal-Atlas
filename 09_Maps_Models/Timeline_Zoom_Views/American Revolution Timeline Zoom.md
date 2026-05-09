@@ -7,6 +7,8 @@ sources:
   - Source - LOC American Revolution Primary Source Timeline
   - Source - LOC British Reforms and Colonial Resistance 1763-1766
   - Source - LOC British Reforms and Colonial Resistance 1767-1772
+  - Source - MHS Boston Pamphlet 1772
+  - Source - Founders Online Continental Association 1774
   - Source - NPS April 19 1775
   - Source - LOC Declaration of Independence Guide
 ---
@@ -40,14 +42,15 @@ sources:
 - [[Boston Massacre]]
 - [[Boston Massacre Aftermath]]
 - [[Gaspee Affair]]
-- [[Committees of Correspondence]]
 
 ## 1773-1774 - Tea, Punishment, and Continental Coordination
+- [[Committees of Correspondence]]
 - [[Tea Act]]
 - [[Boston Tea Party]]
 - [[Coercive Acts]]
 - [[First Continental Congress]]
 - [[Continental Association]]
+- [[Committees of Inspection]]
 
 ## 1775 - Armed Conflict and Failed Reconciliation
 - [[Lexington and Concord]]
@@ -70,4 +73,4 @@ sources:
 ## Notes
 - This timeline is a navigational zoom view, not a complete chronology.
 - Each entry should eventually link to source notes and maps.
-- Later passes should add deeper Committees of Correspondence sources, responses to the Proclamation for Suppressing Rebellion and Sedition, and evacuation refugee experiences.
+- Later passes should add responses to the Proclamation for Suppressing Rebellion and Sedition, local Association enforcement case studies, and evacuation refugee experiences.

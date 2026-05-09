@@ -12,10 +12,14 @@ related_events:
   - Nonimportation Agreements
   - Boston Occupation
   - Boston Massacre
+  - Committees of Correspondence
   - First Continental Congress
+  - Continental Association
 status: stub
 confidence: medium
-sources: []
+sources:
+  - Source - Avalon Virginia Committee Resolutions 1773
+  - Source - Founders Online Continental Association 1774
 ---
 
 # Thread - Empire
@@ -32,7 +36,9 @@ Empires expand, administer territory, extract resources, justify authority, and 
 - [[Nonimportation Agreements]]
 - [[Boston Occupation]]
 - [[Boston Massacre]]
+- [[Committees of Correspondence]]
 - [[Coercive Acts]]
+- [[Continental Association]]
 
 ## Timeline
 -
@@ -53,10 +59,12 @@ Empires expand, administer territory, extract resources, justify authority, and 
 - [[Massachusetts Circular Letter]]
 - [[Boston Occupation]]
 - [[Coercive Acts]]
+- [[Continental Association]]
 - [[First Continental Congress]]
 
 ## Long-Term Consequences
 Empire links fiscal extraction, sovereignty claims, trade policy, resistance, and revolutionary rupture across the American Revolution module.
 
 ## Sources
--
+- [[Source - Avalon Virginia Committee Resolutions 1773]]
+- [[Source - Founders Online Continental Association 1774]]

@@ -18,6 +18,7 @@ sources:
   - Source - UK National Archives Stamp Act Resistance Source
   - Source - Avalon Stamp Act Congress Resolutions 1765
   - Source - Avalon Massachusetts Circular Letter 1768
+  - Source - Avalon Virginia Committee Resolutions 1773
 ---
 
 # Colonial Assemblies
@@ -34,6 +35,7 @@ Colonial assemblies were local representative institutions that colonists treate
 - [[Stamp Act]]
 - [[Stamp Act Congress]]
 - [[Massachusetts Circular Letter]]
+- [[Committees of Correspondence]]
 - [[Colonial Resistance]]
 - [[First Continental Congress]]
 
@@ -41,6 +43,7 @@ Colonial assemblies were local representative institutions that colonists treate
 - [[Stamp Act]]
 - [[Stamp Act Congress]]
 - [[Massachusetts Circular Letter]]
+- [[Committees of Correspondence]]
 - [[Colonial Resistance]]
 - [[First Continental Congress]]
 
@@ -58,3 +61,4 @@ Assemblies could defend local rights while not always representing enslaved peop
 - [[Source - UK National Archives Stamp Act Resistance Source]]
 - [[Source - Avalon Stamp Act Congress Resolutions 1765]]
 - [[Source - Avalon Massachusetts Circular Letter 1768]]
+- [[Source - Avalon Virginia Committee Resolutions 1773]]

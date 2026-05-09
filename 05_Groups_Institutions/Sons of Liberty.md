@@ -19,6 +19,7 @@ sources:
   - Source - UK National Archives Stamp Act Resistance Source
   - Source - UK National Archives Boston Tea Party Source 3
   - Source - Avalon Boston Committee Circular Letter 1774
+  - Source - MHS Boston Pamphlet 1772
   - Source - LOC True Sons Non-Importation Broadside
   - Source - Colonial Williamsburg Sons and Daughters of Liberty
 ---
@@ -37,6 +38,7 @@ The Sons of Liberty were a colonial resistance network associated with oppositio
 ## Key Decisions
 - [[Colonial Resistance]]
 - [[Nonimportation Agreements]]
+- [[Committees of Correspondence]]
 - [[Boston Tea Party]]
 
 ## Events Involved In
@@ -44,6 +46,7 @@ The Sons of Liberty were a colonial resistance network associated with oppositio
 - [[Colonial Resistance]]
 - [[Nonimportation Agreements]]
 - [[Boston Non-Importation Agreement]]
+- [[Committees of Correspondence]]
 - [[Boston Tea Party]]
 - [[Coercive Acts]]
 
@@ -62,5 +65,6 @@ Resistance tactics could defend liberty claims while also using coercive crowd p
 - [[Source - UK National Archives Stamp Act Resistance Source]]
 - [[Source - UK National Archives Boston Tea Party Source 3]]
 - [[Source - Avalon Boston Committee Circular Letter 1774]]
+- [[Source - MHS Boston Pamphlet 1772]]
 - [[Source - LOC True Sons Non-Importation Broadside]]
 - [[Source - Colonial Williamsburg Sons and Daughters of Liberty]]

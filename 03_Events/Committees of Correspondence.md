@@ -21,13 +21,20 @@ actors:
 related_events:
   - Massachusetts Circular Letter
   - Boston Massacre
+  - Gaspee Affair
   - Boston Tea Party
+  - Coercive Acts
   - First Continental Congress
-status: researching
+  - Continental Association
+status: researched
 confidence: medium
 sources:
   - Source - Avalon Massachusetts Circular Letter 1768
   - Source - Avalon Boston Committee Circular Letter 1774
+  - Source - MHS Samuel Adams James Warren Committee 1772
+  - Source - MHS Boston Pamphlet 1772
+  - Source - Avalon Virginia Committee Resolutions 1773
+  - Source - Mount Vernon Committees of Correspondence
   - Source - LOC American Revolution Resource Guide
 ---
 
@@ -37,11 +44,12 @@ sources:
 Committees of correspondence were communication networks that helped local resistance become intercolonial coordination. They made print, letters, and shared political framing into infrastructure.
 
 ## What Happened
-Patriot organizers used committees, circular letters, and printed arguments to circulate news of British policy and colonial resistance. The Boston Committee's 1774 circular letter about the Boston Port Act shows how local punishment could be reframed as a continental crisis.
+Patriot organizers used committees, circular letters, and printed arguments to circulate news of British policy and colonial resistance. Boston's committee formed in November 1772, produced the Boston Pamphlet, and urged other Massachusetts towns to build their own committees. Virginia's House of Burgesses then created a standing intercolonial committee in March 1773, partly in response to the Gaspee investigation. After the Coercive Acts, committee networks helped call for a general congress, choose delegates, and support enforcement of the Continental Association.
 
 ## Manifested From
 - [[Massachusetts Circular Letter]]
 - [[Boston Massacre]]
+- [[Gaspee Affair]]
 - [[Colonial Resistance]]
 - [[Mass Media]]
 
@@ -51,6 +59,7 @@ Political communication became an organizing system for resistance.
 ## Led To
 - [[First Continental Congress]]
 - [[Continental Association]]
+- [[Committees of Inspection]]
 
 ## Related Decisions
 - Local resistance leaders chose sustained intercolonial communication rather than isolated protest.
@@ -66,11 +75,17 @@ Political communication became an organizing system for resistance.
 - [[Patriot Movement]]
 - [[Sons of Liberty]]
 - [[Samuel Adams]]
+- [[Joseph Warren]]
+- [[Thomas Jefferson]]
 
 ## Research Notes
-Needs stronger direct primary sources for the 1772 Boston committee and colony-level networks. The Massachusetts Circular Letter is now linked as an earlier assembly-centered precursor to correspondence politics.
+This note now separates the Boston-Massachusetts system, the Virginia/intercolonial system, and the post-Coercive Acts mobilization system. Later work should add more local committee records outside Massachusetts and Virginia.
 
 ## Sources
 - [[Source - Avalon Massachusetts Circular Letter 1768]]
 - [[Source - Avalon Boston Committee Circular Letter 1774]]
+- [[Source - MHS Samuel Adams James Warren Committee 1772]]
+- [[Source - MHS Boston Pamphlet 1772]]
+- [[Source - Avalon Virginia Committee Resolutions 1773]]
+- [[Source - Mount Vernon Committees of Correspondence]]
 - [[Source - LOC American Revolution Resource Guide]]

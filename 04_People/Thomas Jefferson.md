@@ -6,6 +6,7 @@ era: Imperial Crisis and Revolution
 roles:
   - writer
   - delegate
+  - committee_member
 locations:
   - Virginia
   - Philadelphia
@@ -20,6 +21,7 @@ confidence: medium
 sources:
   - Source - LOC Declaration of Independence Guide
   - Source - Founders Online Declaration Adopted by Congress
+  - Source - Avalon Virginia Committee Resolutions 1773
 ---
 
 # Thomas Jefferson
@@ -33,9 +35,11 @@ Thomas Jefferson drafted the Declaration of Independence within the congressiona
 3. Serve the collective decision of Congress.
 
 ## Key Decisions
+- [[Committees of Correspondence]]
 - [[Declaration of Independence]]
 
 ## Events Involved In
+- [[Committees of Correspondence]]
 - [[Declaration of Independence]]
 
 ## Forces Embodied
@@ -53,3 +57,4 @@ Jefferson's rights language sits inside the larger contradiction between revolut
 ## Sources
 - [[Source - LOC Declaration of Independence Guide]]
 - [[Source - Founders Online Declaration Adopted by Congress]]
+- [[Source - Avalon Virginia Committee Resolutions 1773]]

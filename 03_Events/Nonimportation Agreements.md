@@ -24,6 +24,7 @@ actors:
   - Daughters of Liberty
   - Colonial Assemblies
   - Patriot Movement
+  - Committees of Inspection
 related_events:
   - Stamp Act Congress
   - Boston Non-Importation Agreement
@@ -36,6 +37,7 @@ sources:
   - Source - Britannica Nonimportation Agreements
   - Source - ABT Boston Non-Importation Agreement
   - Source - LOC True Sons Non-Importation Broadside
+  - Source - Founders Online Continental Association 1774
 ---
 
 # 1765-1775 - Nonimportation Agreements
@@ -59,6 +61,7 @@ Economic pressure became a political instrument.
 - [[Homespun Movement]]
 - [[Christopher Seider Killing]]
 - [[Continental Association]]
+- [[Committees of Inspection]]
 
 ## Related Decisions
 - Merchants and Patriot organizers chose coordinated trade restriction as a pressure tactic short of armed conflict.
@@ -77,6 +80,7 @@ Economic pressure became a political instrument.
 - [[Daughters of Liberty]]
 - [[Patriot Movement]]
 - [[Colonial Assemblies]]
+- [[Committees of Inspection]]
 
 ## Research Notes
 This note treats nonimportation as a long-running resistance pattern, not a single agreement. Later passes should separate colony-level agreements and measure economic effects more carefully.
@@ -85,3 +89,4 @@ This note treats nonimportation as a long-running resistance pattern, not a sing
 - [[Source - Britannica Nonimportation Agreements]]
 - [[Source - ABT Boston Non-Importation Agreement]]
 - [[Source - LOC True Sons Non-Importation Broadside]]
+- [[Source - Founders Online Continental Association 1774]]

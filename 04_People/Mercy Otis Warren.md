@@ -18,6 +18,7 @@ confidence: medium
 sources:
   - Source - LOC American Revolution Resource Guide
   - Source - LOC Samuel Adams Papers
+  - Source - MHS Samuel Adams James Warren Committee 1772
 ---
 
 # Mercy Otis Warren
@@ -52,3 +53,4 @@ Her presence highlights the political influence of women who were excluded from 
 ## Sources
 - [[Source - LOC American Revolution Resource Guide]]
 - [[Source - LOC Samuel Adams Papers]]
+- [[Source - MHS Samuel Adams James Warren Committee 1772]]

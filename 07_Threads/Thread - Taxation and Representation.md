@@ -16,11 +16,15 @@ related_events:
   - Liberty Affair
   - Boston Occupation
   - Boston Massacre
+  - Committees of Correspondence
   - Tea Act
   - Boston Tea Party
+  - Continental Association
 status: stub
 confidence: medium
-sources: []
+sources:
+  - Source - Avalon Virginia Committee Resolutions 1773
+  - Source - Founders Online Continental Association 1774
 ---
 
 # Thread - Taxation and Representation
@@ -38,9 +42,11 @@ Conflict over who had legitimate authority to tax the colonies and whether taxat
 - [[Liberty Affair]]
 - [[Boston Occupation]]
 - [[Boston Massacre]]
+- [[Committees of Correspondence]]
 - [[Tea Act]]
 - [[Boston Tea Party]]
 - [[Coercive Acts]]
+- [[Continental Association]]
 
 ## Timeline
 -
@@ -60,8 +66,10 @@ Conflict over who had legitimate authority to tax the colonies and whether taxat
 - [[Stamp Act Congress]]
 - [[Massachusetts Circular Letter]]
 - [[Glorious 92]]
+- [[Committees of Correspondence]]
 - [[Declaratory Act]]
 - [[First Continental Congress]]
+- [[Continental Association]]
 
 ## Long-Term Consequences
 Taxation disputes became constitutional disputes over representation, consent, and legitimate imperial authority.
@@ -70,4 +78,5 @@ Taxation disputes became constitutional disputes over representation, consent, a
 Expand with primary sources, parliamentary acts, colonial pamphlets, and institutional histories.
 
 ## Sources
--
+- [[Source - Avalon Virginia Committee Resolutions 1773]]
+- [[Source - Founders Online Continental Association 1774]]

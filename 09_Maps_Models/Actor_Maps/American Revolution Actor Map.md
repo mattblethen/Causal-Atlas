@@ -8,6 +8,9 @@ sources:
   - Source - UK National Archives Boston Tea Party
   - Source - Avalon Boston Committee Circular Letter 1774
   - Source - Avalon Massachusetts Circular Letter 1768
+  - Source - MHS Boston Pamphlet 1772
+  - Source - Avalon Virginia Committee Resolutions 1773
+  - Source - Founders Online Continental Association 1774
   - Source - LOC True Sons Non-Importation Broadside
   - Source - Colonial Williamsburg Sons and Daughters of Liberty
   - Source - Commonwealth Museum Customs Commissioners and Liberty
@@ -38,8 +41,10 @@ flowchart LR
     CAS["Colonial Assemblies"] --> CR["Colonial Resistance"]
     CAS --> SAC["Stamp Act Congress"]
     SAC --> NIA["Nonimportation Agreements"]
+    CAS --> COC["Committees of Correspondence"]
     SOL["Sons of Liberty"] --> CR
     SOL --> NIA
+    SOL --> COC
     DOL["Daughters of Liberty"] --> HOME["Homespun Movement"]
     DOL --> NIA
     JD["John Dickinson"] --> FARM["Letters from a Farmer in Pennsylvania"]
@@ -48,11 +53,19 @@ flowchart LR
     JO["James Otis Jr."] --> MCL
     MCL --> G92["Glorious 92"]
     G92 --> OCC
+    SA2 --> COC
+    JO --> COC
+    TJ["Thomas Jefferson"] --> COC
     MCL --> CR
     NIA --> CR
     PM["Patriot Movement"] --> CR
     CR --> BTP["Boston Tea Party"]
+    COC --> FCC
     CR --> FCC["First Continental Congress"]
+    FCC --> CA["Continental Association"]
+    CA --> COI["Committees of Inspection"]
+    COI --> NIA
+    COI -. pressures .-> LOY
     FCC --> SCC["Second Continental Congress"]
     SCC --> DOI["Declaration of Independence"]
     TP["Thomas Paine"] --> CS["Common Sense"]
@@ -99,6 +112,7 @@ flowchart LR
 - Colonial assemblies, resistance networks, and Congress represent escalating forms of colonial coordination.
 - Nonimportation, homespun, and circular-letter politics show resistance infrastructure before the First Continental Congress.
 - The occupation path shows British customs and army presence creating a military-public-opinion crisis in Boston.
+- The committees path shows information networks becoming Association enforcement through local inspection committees.
 - The Patriot movement is an umbrella note, not a single institution.
 
 ## Sources
@@ -106,6 +120,9 @@ flowchart LR
 - [[Source - UK National Archives Boston Tea Party]]
 - [[Source - Avalon Boston Committee Circular Letter 1774]]
 - [[Source - Avalon Massachusetts Circular Letter 1768]]
+- [[Source - MHS Boston Pamphlet 1772]]
+- [[Source - Avalon Virginia Committee Resolutions 1773]]
+- [[Source - Founders Online Continental Association 1774]]
 - [[Source - LOC True Sons Non-Importation Broadside]]
 - [[Source - Colonial Williamsburg Sons and Daughters of Liberty]]
 - [[Source - Commonwealth Museum Customs Commissioners and Liberty]]

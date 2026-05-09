@@ -27,6 +27,8 @@ related_events:
   - Stamp Act Congress
   - Nonimportation Agreements
   - Massachusetts Circular Letter
+  - Committees of Correspondence
+  - Continental Association
   - Tea Act
   - Boston Tea Party
 status: researched
@@ -36,6 +38,8 @@ sources:
   - Source - LOC American Revolution Primary Source Timeline
   - Source - Colonial Williamsburg Sons and Daughters of Liberty
   - Source - Britannica Nonimportation Agreements
+  - Source - MHS Boston Pamphlet 1772
+  - Source - Founders Online Continental Association 1774
 ---
 
 # 1765-1774 - Colonial Resistance
@@ -57,6 +61,8 @@ Resistance appeared as print arguments about rights, attacks on tax enforcement,
 
 ## Led To
 - [[Nonimportation Agreements]]
+- [[Committees of Correspondence]]
+- [[Continental Association]]
 - [[Tea Act]]
 - [[Boston Tea Party]]
 - [[First Continental Congress]]
@@ -79,10 +85,12 @@ Resistance appeared as print arguments about rights, attacks on tax enforcement,
 - [[Patriot Movement]]
 
 ## Research Notes
-This is a phase note rather than a single event. The Stamp Act Congress, nonimportation campaigns, Massachusetts Circular Letter, and homespun movement now have separate notes. Later passes should still add Boston Massacre aftermath and detailed committees of correspondence sources.
+This is a phase note rather than a single event. The Stamp Act Congress, nonimportation campaigns, Massachusetts Circular Letter, Boston Massacre aftermath, committees of correspondence, and Continental Association now have separate notes. Later passes should add more local enforcement records and regional variation.
 
 ## Sources
 - [[Source - UK National Archives Stamp Act Resistance Source]]
 - [[Source - LOC American Revolution Primary Source Timeline]]
 - [[Source - Colonial Williamsburg Sons and Daughters of Liberty]]
 - [[Source - Britannica Nonimportation Agreements]]
+- [[Source - MHS Boston Pamphlet 1772]]
+- [[Source - Founders Online Continental Association 1774]]

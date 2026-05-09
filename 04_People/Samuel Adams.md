@@ -24,6 +24,9 @@ sources:
   - Source - MHS Massachusetts Circular Letter
   - Source - Commonwealth Museum Glorious 92
   - Source - Commonwealth Museum Christopher Seider
+  - Source - MHS Samuel Adams James Warren Committee 1772
+  - Source - MHS Boston Pamphlet 1772
+  - Source - Mount Vernon Committees of Correspondence
 ---
 
 # Samuel Adams
@@ -42,6 +45,7 @@ Samuel Adams was a Massachusetts Patriot organizer whose political life connecte
 - [[Christopher Seider Killing]]
 - [[Committees of Correspondence]]
 - [[First Continental Congress]]
+- [[Continental Association]]
 
 ## Events Involved In
 - [[Stamp Act]]
@@ -52,6 +56,7 @@ Samuel Adams was a Massachusetts Patriot organizer whose political life connecte
 - [[Committees of Correspondence]]
 - [[Boston Tea Party]]
 - [[First Continental Congress]]
+- [[Continental Association]]
 
 ## Forces Embodied
 - [[Colonial Autonomy]]
@@ -70,3 +75,6 @@ Adams's organizing helped build popular legitimacy, but resistance networks coul
 - [[Source - MHS Massachusetts Circular Letter]]
 - [[Source - Commonwealth Museum Glorious 92]]
 - [[Source - Commonwealth Museum Christopher Seider]]
+- [[Source - MHS Samuel Adams James Warren Committee 1772]]
+- [[Source - MHS Boston Pamphlet 1772]]
+- [[Source - Mount Vernon Committees of Correspondence]]

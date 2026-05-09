@@ -39,4 +39,4 @@ Public-domain transcription of the Continental Association adopted by the First 
 - [[Colonial Resistance]]
 
 ## Researcher Notes
-Marked medium because Wikisource is a transcription host. Replace or supplement with LOC Journals page references in a deeper pass.
+Marked medium because Wikisource is a transcription host. The Founders Online edition is now the preferred source note for citation; keep this as a public-domain comparison text.

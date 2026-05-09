@@ -19,6 +19,8 @@ sources:
   - Source - LOC American Revolution Primary Source Timeline
   - Source - UK National Archives Stamp Act Resistance Source
   - Source - Avalon Boston Committee Circular Letter 1774
+  - Source - MHS Boston Pamphlet 1772
+  - Source - Founders Online Continental Association 1774
   - Source - Colonial Williamsburg Sons and Daughters of Liberty
   - Source - Britannica Nonimportation Agreements
 ---
@@ -38,17 +40,21 @@ The Patriot movement coordinated and justified resistance to imperial policy, gr
 ## Key Decisions
 - [[Colonial Resistance]]
 - [[Nonimportation Agreements]]
+- [[Committees of Correspondence]]
 - [[First Continental Congress]]
+- [[Continental Association]]
 - [[Lexington and Concord]]
 - [[Declaration of Independence]]
 
 ## Events Involved In
 - [[Stamp Act]]
 - [[Nonimportation Agreements]]
+- [[Committees of Correspondence]]
 - [[Homespun Movement]]
 - [[Boston Tea Party]]
 - [[Coercive Acts]]
 - [[First Continental Congress]]
+- [[Continental Association]]
 - [[Lexington and Concord]]
 - [[Declaration of Independence]]
 
@@ -67,5 +73,7 @@ The movement used universal rights language while colonial society remained stru
 - [[Source - LOC American Revolution Primary Source Timeline]]
 - [[Source - UK National Archives Stamp Act Resistance Source]]
 - [[Source - Avalon Boston Committee Circular Letter 1774]]
+- [[Source - MHS Boston Pamphlet 1772]]
+- [[Source - Founders Online Continental Association 1774]]
 - [[Source - Colonial Williamsburg Sons and Daughters of Liberty]]
 - [[Source - Britannica Nonimportation Agreements]]

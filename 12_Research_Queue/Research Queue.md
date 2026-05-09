@@ -22,6 +22,7 @@ Use this to track what Codex or a human researcher should fill next.
 - [x] Stamp Act Congress and nonimportation sources
 - [x] Massachusetts Circular Letter and Farmer letters sources
 - [x] Boston occupation, Christopher Seider, and Boston Massacre aftermath sources
+- [x] Committees of Correspondence and Continental Association enforcement sources
 - [x] Tea Act and East India Company context
 - [x] Boston Tea Party primary/near-contemporary accounts
 - [x] Coercive Acts primary texts
@@ -87,11 +88,12 @@ Use this to track what Codex or a human researcher should fill next.
 - [x] Add Boston occupation and "Glorious 92" rescission fight.
 - [x] Add deeper Boston Massacre aftermath and propaganda packet.
 - [ ] Add Boston Massacre trial transcript comparison packet.
-- [ ] Add deeper Committees of Correspondence source packet.
+- [x] Add deeper Committees of Correspondence source packet.
+- [ ] Add local Continental Association enforcement case studies.
 
 ## Roadmap Completion Estimate
-- Whole vault roadmap: approximately 11% complete as of 2026-05-09.
-- American Revolution module: approximately 74% complete.
+- Whole vault roadmap: approximately 12% complete as of 2026-05-09.
+- American Revolution module: approximately 78% complete.
 
 ## Next American History Modules
 - [ ] Constitution and Early Republic

@@ -9,6 +9,8 @@ threads:
 manifestations:
   - Colonial Resistance
   - Glorious 92
+  - Committees of Correspondence
+  - Continental Association
   - Boston Occupation
   - Boston Massacre
   - First Continental Congress
@@ -18,7 +20,10 @@ intensified_by:
   - Coercive Acts
 status: stub
 confidence: medium
-sources: []
+sources:
+  - Source - MHS Boston Pamphlet 1772
+  - Source - Avalon Virginia Committee Resolutions 1773
+  - Source - Founders Online Continental Association 1774
 ---
 
 # Colonial Autonomy
@@ -32,6 +37,8 @@ Colonial institutions and political culture developed expectations of local self
 ## Manifested As
 - [[Colonial Resistance]]
 - [[Glorious 92]]
+- [[Committees of Correspondence]]
+- [[Continental Association]]
 - [[Boston Occupation]]
 - [[Boston Massacre]]
 - [[First Continental Congress]]
@@ -53,4 +60,6 @@ Colonial institutions and political culture developed expectations of local self
 Helped convert specific tax disputes into claims about consent, rights, and self-government.
 
 ## Sources
--
+- [[Source - MHS Boston Pamphlet 1772]]
+- [[Source - Avalon Virginia Committee Resolutions 1773]]
+- [[Source - Founders Online Continental Association 1774]]

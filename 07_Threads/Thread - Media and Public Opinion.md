@@ -9,6 +9,7 @@ related_events:
   - Colonial Resistance
   - Letters from a Farmer in Pennsylvania
   - Massachusetts Circular Letter
+  - Committees of Correspondence
   - Nonimportation Agreements
   - Homespun Movement
   - Christopher Seider Killing
@@ -18,7 +19,10 @@ related_events:
 related_people: []
 status: stub
 confidence: medium
-sources: []
+sources:
+  - Source - MHS Samuel Adams James Warren Committee 1772
+  - Source - MHS Boston Pamphlet 1772
+  - Source - Mount Vernon Committees of Correspondence
 ---
 
 # Thread - Media and Public Opinion
@@ -30,6 +34,7 @@ Media systems shape what publics know, believe, repeat, contest, and organize ar
 - [[Colonial Resistance]]
 - [[Letters from a Farmer in Pennsylvania]]
 - [[Massachusetts Circular Letter]]
+- [[Committees of Correspondence]]
 - [[Nonimportation Agreements]]
 - [[Homespun Movement]]
 - [[Christopher Seider Killing]]
@@ -53,10 +58,12 @@ Media systems shape what publics know, believe, repeat, contest, and organize ar
 - [[Joseph Warren]]
 
 ## Branch Points
--
+- [[Committees of Correspondence]]
 
 ## Long-Term Consequences
 Connects print culture in the American Revolution to later newspaper, radio, television, internet, and platform-era politics.
 
 ## Sources
--
+- [[Source - MHS Samuel Adams James Warren Committee 1772]]
+- [[Source - MHS Boston Pamphlet 1772]]
+- [[Source - Mount Vernon Committees of Correspondence]]

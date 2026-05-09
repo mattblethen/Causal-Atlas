@@ -29,6 +29,7 @@ Events are visible historical moments where deeper forces become observable.
 - [[Boston Massacre]]
 - [[Boston Massacre Aftermath]]
 - [[Gaspee Affair]]
+- [[Committees of Correspondence]]
 - [[Colonial Resistance]]
 - [[Tea Act]]
 - [[Boston Tea Party]]

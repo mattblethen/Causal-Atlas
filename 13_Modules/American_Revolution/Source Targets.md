@@ -15,6 +15,8 @@ status: active
 - Nonimportation agreements, boycott broadsides, and homespun/Daughters of Liberty sources.
 - Boston occupation records, customs enforcement accounts, and troop landing sources.
 - Boston Massacre visual, pamphlet, trial, and aftermath sources.
+- Committees of correspondence letters, pamphlets, and intercolonial resolutions.
+- Continental Association text and local inspection/enforcement records.
 - Tea Act text and East India Company context.
 - Coercive Acts text.
 - Continental Congress records.

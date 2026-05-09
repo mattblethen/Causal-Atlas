@@ -13,6 +13,11 @@ sources:
   - Source - Commonwealth Museum Glorious 92
   - Source - Commonwealth Museum Occupation Landing
   - Source - NPS Boston Massacre Trial
+  - Source - MHS Samuel Adams James Warren Committee 1772
+  - Source - MHS Boston Pamphlet 1772
+  - Source - Avalon Virginia Committee Resolutions 1773
+  - Source - Mount Vernon Committees of Correspondence
+  - Source - Founders Online Continental Association 1774
 ---
 
 # Decision Log - American Revolution
@@ -245,6 +250,56 @@ Sources:
 - [[Source - NPS Boston Massacre Trial]]
 - [[Source - MHS Fair Account Boston Massacre]]
 
+## 1772 - Boston creates a standing Committee of Correspondence
+
+Decision:
+Boston town leaders created a twenty-one-member Committee of Correspondence and used it to prepare rights statements, grievances, and letters to other Massachusetts towns.
+
+Why it mattered:
+The decision turned political communication into a standing local institution and made town-by-town replication part of Patriot strategy.
+
+Priority conflict:
+- Popular political instruction and local self-government versus royal administrative control over judges and officials.
+
+Alternatives:
+- Petition without creating a permanent committee.
+- Leave communication to the General Court alone.
+- Treat the judges' salary dispute as a narrow local issue.
+
+Consequences:
+- [[Committees of Correspondence]]
+- [[Colonial Resistance]]
+- [[First Continental Congress]]
+
+Sources:
+- [[Source - MHS Samuel Adams James Warren Committee 1772]]
+- [[Source - MHS Boston Pamphlet 1772]]
+
+## 1773 - Virginia creates an intercolonial correspondence committee
+
+Decision:
+The Virginia House of Burgesses created a standing committee of correspondence and inquiry to gather intelligence and communicate with sister colonies.
+
+Why it mattered:
+The decision moved correspondence from a Boston-Massachusetts town network into an intercolonial legislative model, partly in response to the Gaspee investigation.
+
+Priority conflict:
+- Colonial assemblies' need for shared intelligence versus imperial attempts to isolate and discipline resistance.
+
+Alternatives:
+- Respond to the Gaspee inquiry only inside Virginia.
+- Wait for Massachusetts or Rhode Island to lead.
+- Avoid formal correspondence to reduce imperial suspicion.
+
+Consequences:
+- [[Committees of Correspondence]]
+- [[First Continental Congress]]
+- [[Continental Association]]
+
+Sources:
+- [[Source - Avalon Virginia Committee Resolutions 1773]]
+- [[Source - Mount Vernon Committees of Correspondence]]
+
 ## 1773 - Parliament preserves tea duty while aiding the East India Company
 
 Decision:
@@ -291,6 +346,31 @@ Consequences:
 Sources:
 - [[Source - UK National Archives Boston Tea Party]]
 - [[Source - Bill of Rights Institute Coercive Acts]]
+
+## 1774 - Congress adopts the Continental Association with local enforcement
+
+Decision:
+The First Continental Congress adopted the Continental Association, including local committees to observe conduct, publish violations, and help enforce nonimportation, nonconsumption, and nonexportation.
+
+Why it mattered:
+The decision converted shared protest into a continental enforcement system that reached into local commerce, reputation, and everyday consumption.
+
+Priority conflict:
+- Peaceable economic pressure and continental unity versus individual trade interest, Loyalist dissent, and imperial authority.
+
+Alternatives:
+- Petition without enforcement machinery.
+- Move directly toward military resistance.
+- Leave boycott enforcement to informal merchant networks only.
+
+Consequences:
+- [[Continental Association]]
+- [[Committees of Inspection]]
+- [[Lexington and Concord]]
+
+Sources:
+- [[Source - Founders Online Continental Association 1774]]
+- [[Source - Mount Vernon Committees of Correspondence]]
 
 ## 1775 - Gage sends troops toward Concord
 
