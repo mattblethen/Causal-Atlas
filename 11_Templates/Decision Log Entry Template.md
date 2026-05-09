@@ -11,7 +11,7 @@ confidence: low | medium | high
 sources: []
 ---
 
-## {{date}} — {{decision_title}}
+## {{date}} - {{decision_title}}
 
 Decision:
 

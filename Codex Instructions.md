@@ -7,12 +7,12 @@ Your job is not to write generic history essays. Your job is to build a structur
 ## Core Philosophy
 Represent history as a system of:
 
-1. **Events** — what visibly happened
-2. **Forces** — deeper pressures that made events likely
-3. **Decisions** — branch points chosen by people, groups, or institutions
-4. **Priorities** — what actors cared about most at a specific time
-5. **Threads** — long-running patterns crossing eras
-6. **Sources** — evidence supporting claims
+1. **Events** - what visibly happened
+2. **Forces** - deeper pressures that made events likely
+3. **Decisions** - branch points chosen by people, groups, or institutions
+4. **Priorities** - what actors cared about most at a specific time
+5. **Threads** - long-running patterns crossing eras
+6. **Sources** - evidence supporting claims
 
 Every major event must answer:
 
@@ -24,7 +24,7 @@ Example:
 
 ## Prime Workflow
 
-### Step 1 — Inspect the Vault
+### Step 1 - Inspect the Vault
 Read:
 
 - `00_Home/Home.md`
@@ -35,21 +35,21 @@ Read:
 - `12_Research_Queue/Research Queue.md`
 - all files in `11_Templates/`
 
-### Step 2 — Preserve the Structure
+### Step 2 - Preserve the Structure
 Do not flatten this into essays. Use the existing folders and templates.
 
 When adding a note, place it in the correct folder:
 
-- Events → `03_Events/`
-- People → `04_People/`
-- Groups or institutions → `05_Groups_Institutions/`
-- Forces → `06_Forces/`
-- Threads → `07_Threads/`
-- Eras → `08_Eras/`
-- Sources → `10_Sources/Source_Notes/`
-- Module-specific overviews → `13_Modules/`
+- Events -> `03_Events/`
+- People -> `04_People/`
+- Groups or institutions -> `05_Groups_Institutions/`
+- Forces -> `06_Forces/`
+- Threads -> `07_Threads/`
+- Eras -> `08_Eras/`
+- Sources -> `10_Sources/Source_Notes/`
+- Module-specific overviews -> `13_Modules/`
 
-### Step 3 — Build the First Module
+### Step 3 - Build the First Module
 Start with the proof-of-concept module:
 
 `13_Modules/American_Revolution/`
@@ -69,7 +69,7 @@ Create researched, linked notes for this causal chain:
 
 For each event or force, create a separate Markdown note using the relevant template.
 
-### Step 4 — Create the Logs
+### Step 4 - Create the Logs
 Create or fill:
 
 - `02_Logs/Activity_Log/Activity Log - American Revolution.md`
@@ -83,7 +83,7 @@ The logs should feel like an app development log, but for history:
 - Decision Log = what choices shaped the branch
 - Priority Log = what mattered most to actors at the time
 
-### Step 5 — Required Note Pattern
+### Step 5 - Required Note Pattern
 Every major event note should include:
 
 - Summary
@@ -120,7 +120,7 @@ Every actor/group note should include:
 - Internal Tensions or Contradictions
 - Sources
 
-### Step 6 — Research Rules
+### Step 6 - Research Rules
 Use reputable historical sources only.
 
 Prefer:
@@ -142,7 +142,7 @@ If a fact is debated or uncertain:
 - set `confidence: low` or `confidence: medium`
 - explain the uncertainty in `Research Notes`
 
-### Step 7 — Linking Rules
+### Step 7 - Linking Rules
 Every event should link backward and forward.
 
 Use:
@@ -156,7 +156,7 @@ Use:
 
 Do not leave important notes isolated.
 
-### Step 8 — Keep It Expandable
+### Step 8 - Keep It Expandable
 The first pass should be structurally complete, not exhaustively long.
 
 Concise, well-sourced, well-linked notes are better than giant prose dumps.

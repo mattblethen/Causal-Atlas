@@ -13,4 +13,4 @@ Then have Codex populate the first proof-of-concept module in:
 
 The vault is designed around the pattern:
 
-**event → pressure → decision → priority → consequence → thread**
+**event -> pressure -> decision -> priority -> consequence -> thread**

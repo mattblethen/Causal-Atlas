@@ -28,5 +28,26 @@ The financial burden of empire and war created pressure for states to increase t
 - [[Townshend Acts]]
 - [[Tea Act]]
 
+## Active Periods
+- 1763-1783 in the American Revolution module.
+- Recurs across empires when military expansion creates fiscal pressure.
+
+## Deeper Roots
+- [[War and State Formation]]
+- [[Mercantilism]]
+- [[Atlantic Trade]]
+
+## Opposed By
+- [[Colonial Autonomy]]
+
+## Intensified By
+- [[Seven Years' War]]
+
+## Long-Term Effects
+Imperial debt pressure pushed Britain toward new colonial revenue measures and stricter administration, helping turn fiscal management into a constitutional conflict.
+
 ## Research Notes
 Codex should verify debt figures and policy connections using reputable sources.
+
+## Sources
+-

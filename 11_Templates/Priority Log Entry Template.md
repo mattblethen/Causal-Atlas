@@ -11,7 +11,7 @@ confidence: low | medium | high
 sources: []
 ---
 
-## {{date_or_period}} — {{actor_or_group}} Priority Stack
+## {{date_or_period}} - {{actor_or_group}} Priority Stack
 
 Priority Stack:
 1. 

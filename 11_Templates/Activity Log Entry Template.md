@@ -11,7 +11,7 @@ confidence: low | medium | high
 sources: []
 ---
 
-## {{date}} — {{activity_title}}
+## {{date}} - {{activity_title}}
 
 What happened:
 
