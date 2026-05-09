@@ -19,17 +19,23 @@ flowchart TD
     B --> D["Revenue Measures"]
     C --> E["Tighter Imperial Administration"]
     D --> F["Stamp Act"]
+    D --> S["Townshend Acts"]
     D --> G["Tea Act"]
     E --> H["Parliamentary Sovereignty"]
     H --> F
     H --> I["Coercive Acts"]
     J["Colonial Autonomy"] --> K["Colonial Resistance"]
     F --> K
+    S --> T["Boston Massacre"]
+    T --> K
     G --> L["Boston Tea Party"]
     L --> I
     I --> M["First Continental Congress"]
-    M --> N["Lexington and Concord"]
-    N --> O["Declaration of Independence"]
+    M --> U["Continental Association"]
+    U --> N["Lexington and Concord"]
+    N --> V["Olive Branch Petition"]
+    V --> W["Common Sense"]
+    W --> O["Declaration of Independence"]
 
     P["Atlantic Trade"] --> G
     Q["Mercantilism"] --> G

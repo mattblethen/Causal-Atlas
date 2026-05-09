@@ -26,6 +26,12 @@ flowchart LR
     CR --> BTP["Boston Tea Party"]
     CR --> FCC["First Continental Congress"]
     FCC --> DOI["Declaration of Independence"]
+    TP["Thomas Paine"] --> CS["Common Sense"]
+    CS --> DOI
+    G3["George III"] --> OBP["Olive Branch Petition Fails"]
+    OBP --> DOI
+    TG["Thomas Gage"] --> LC["Lexington and Concord"]
+    LC --> OBP
 
     BP -. conflicts with .-> CAS
     BE -. claims authority over .-> CAS

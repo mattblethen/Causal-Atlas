@@ -11,11 +11,21 @@ People notes should explain historical function, priority stack, decisions, even
 - [[George III]]
 - [[George Grenville]]
 - [[Benjamin Franklin]]
+- [[Thomas Paine]]
 - [[Samuel Adams]]
 - [[John Adams]]
 - [[Thomas Jefferson]]
 - [[George Washington]]
 - [[Thomas Gage]]
+
+## Researched First-Pass People
+- [[George III]]
+- [[George Grenville]]
+- [[Thomas Gage]]
+- [[Thomas Jefferson]]
+- [[John Adams]]
+- [[Benjamin Franklin]]
+- [[Thomas Paine]]
 
 ## Use
 Create people notes only when they clarify a decision, priority conflict, institution, or causal chain.

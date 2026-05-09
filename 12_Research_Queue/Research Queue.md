@@ -49,8 +49,8 @@ Use this to track what Codex or a human researcher should fill next.
 - [ ] Which causal links are direct enough for `Led To`, and which should remain contextual in `Research Notes`?
 
 ## Roadmap Completion Estimate
-- Whole vault roadmap: approximately 4% complete as of 2026-05-09.
-- American Revolution module: approximately 25% complete.
+- Whole vault roadmap: approximately 5% complete as of 2026-05-09.
+- American Revolution module: approximately 33% complete.
 
 ## Next American History Modules
 - [ ] Constitution and Early Republic

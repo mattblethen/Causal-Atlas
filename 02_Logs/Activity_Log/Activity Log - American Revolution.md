@@ -45,6 +45,23 @@ Sources:
 - [[Source - American Battlefield Trust Stamp Act 1765]]
 - [[Source - UK National Archives Stamp Act Resistance Source]]
 
+## 1767-1770 - Townshend Acts and Boston Massacre
+
+What happened:
+Parliament renewed customs-based revenue policy, and military enforcement tensions culminated in the Boston Massacre.
+
+Related:
+- [[Townshend Acts]]
+- [[Boston Massacre]]
+
+Why it matters:
+This bridge shows why resistance did not simply disappear after Stamp Act repeal.
+
+Sources:
+- [[Source - LOC British Reforms and Colonial Resistance 1767-1772]]
+- [[Source - American Battlefield Trust Townshend Act 1767]]
+- [[Source - LOC Short Narrative of the Boston Massacre]]
+
 ## 1773-12-16 - Boston Tea Party
 
 What happened:
@@ -91,6 +108,24 @@ The imperial crisis became open war.
 
 Sources:
 - [[Source - NPS April 19 1775]]
+
+## 1775-1776 - Failed Reconciliation and Public Independence Argument
+
+What happened:
+The Olive Branch Petition failed as a reconciliation path, and Common Sense helped popularize independence.
+
+Related:
+- [[Olive Branch Petition]]
+- [[Common Sense]]
+- [[Declaration of Independence]]
+
+Why it matters:
+This explains the ideological and public-opinion bridge from armed conflict to declared independence.
+
+Sources:
+- [[Source - NPS Olive Branch Petition]]
+- [[Source - National Archives Olive Branch Petition]]
+- [[Source - Constitution Center Common Sense]]
 
 ## 1776-07-04 - Declaration of Independence
 

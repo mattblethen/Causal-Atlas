@@ -15,11 +15,16 @@ status: scaffold
 - [[Seven Years' War]]
 - [[British Imperial Debt]]
 - [[Stamp Act]]
+- [[Townshend Acts]]
+- [[Boston Massacre]]
 - [[Tea Act]]
 - [[Boston Tea Party]]
 - [[Coercive Acts]]
 - [[First Continental Congress]]
+- [[Continental Association]]
 - [[Lexington and Concord]]
+- [[Olive Branch Petition]]
+- [[Common Sense]]
 - [[Declaration of Independence]]
 
 ## Constitution and Early Republic
