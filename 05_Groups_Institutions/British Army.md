@@ -20,6 +20,9 @@ sources:
   - Source - NPS Rebellion Minute Man
   - Source - NPS Concord North Bridge
   - Source - LOC British Reforms and Colonial Resistance 1767-1772
+  - Source - Commonwealth Museum Occupation Landing
+  - Source - Commonwealth Museum Weight of Occupation
+  - Source - NPS Boston Massacre Trial
 ---
 
 # British Army
@@ -34,12 +37,16 @@ The British Army enforced imperial authority and defended British control in Nor
 4. Avoid loss of control over Boston and Massachusetts.
 
 ## Key Decisions
+- [[Boston Occupation]]
 - [[Boston Massacre]]
+- [[Boston Massacre Aftermath]]
 - [[Lexington and Concord]]
 
 ## Events Involved In
 - [[Townshend Acts]]
+- [[Boston Occupation]]
 - [[Boston Massacre]]
+- [[Boston Massacre Aftermath]]
 - [[Coercive Acts]]
 - [[Lexington and Concord]]
 
@@ -58,3 +65,6 @@ Military enforcement was meant to restore order, but visible troops could intens
 - [[Source - NPS Rebellion Minute Man]]
 - [[Source - NPS Concord North Bridge]]
 - [[Source - LOC British Reforms and Colonial Resistance 1767-1772]]
+- [[Source - Commonwealth Museum Occupation Landing]]
+- [[Source - Commonwealth Museum Weight of Occupation]]
+- [[Source - NPS Boston Massacre Trial]]

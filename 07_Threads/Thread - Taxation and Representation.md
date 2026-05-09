@@ -12,6 +12,10 @@ related_events:
   - Letters from a Farmer in Pennsylvania
   - Massachusetts Circular Letter
   - Nonimportation Agreements
+  - Glorious 92
+  - Liberty Affair
+  - Boston Occupation
+  - Boston Massacre
   - Tea Act
   - Boston Tea Party
 status: stub
@@ -30,6 +34,10 @@ Conflict over who had legitimate authority to tax the colonies and whether taxat
 - [[Letters from a Farmer in Pennsylvania]]
 - [[Massachusetts Circular Letter]]
 - [[Nonimportation Agreements]]
+- [[Glorious 92]]
+- [[Liberty Affair]]
+- [[Boston Occupation]]
+- [[Boston Massacre]]
 - [[Tea Act]]
 - [[Boston Tea Party]]
 - [[Coercive Acts]]
@@ -51,6 +59,7 @@ Conflict over who had legitimate authority to tax the colonies and whether taxat
 - [[Stamp Act]]
 - [[Stamp Act Congress]]
 - [[Massachusetts Circular Letter]]
+- [[Glorious 92]]
 - [[Declaratory Act]]
 - [[First Continental Congress]]
 

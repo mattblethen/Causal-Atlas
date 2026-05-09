@@ -10,6 +10,8 @@ related_events:
   - Stamp Act Congress
   - Massachusetts Circular Letter
   - Nonimportation Agreements
+  - Boston Occupation
+  - Boston Massacre
   - First Continental Congress
 status: stub
 confidence: medium
@@ -28,6 +30,8 @@ Empires expand, administer territory, extract resources, justify authority, and 
 - [[Stamp Act Congress]]
 - [[Massachusetts Circular Letter]]
 - [[Nonimportation Agreements]]
+- [[Boston Occupation]]
+- [[Boston Massacre]]
 - [[Coercive Acts]]
 
 ## Timeline
@@ -47,6 +51,7 @@ Empires expand, administer territory, extract resources, justify authority, and 
 ## Branch Points
 - [[Stamp Act]]
 - [[Massachusetts Circular Letter]]
+- [[Boston Occupation]]
 - [[Coercive Acts]]
 - [[First Continental Congress]]
 

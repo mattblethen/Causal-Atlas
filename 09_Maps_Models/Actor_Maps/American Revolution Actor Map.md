@@ -10,6 +10,9 @@ sources:
   - Source - Avalon Massachusetts Circular Letter 1768
   - Source - LOC True Sons Non-Importation Broadside
   - Source - Colonial Williamsburg Sons and Daughters of Liberty
+  - Source - Commonwealth Museum Customs Commissioners and Liberty
+  - Source - Commonwealth Museum Weight of Occupation
+  - Source - LOC Revere Bloody Massacre Engraving
   - Source - Rhode Island Historical Society Burning of the Gaspee
   - Source - NPS Washington Appointment Commander in Chief
   - Source - NPS Rebellion Minute Man
@@ -26,6 +29,8 @@ flowchart LR
     BP --> TA["Tea Act"]
     BP --> COA["Coercive Acts"]
     BP --> BCE["British Customs Enforcement"]
+    BCE --> LIB["Liberty Affair"]
+    LIB --> OCC["Boston Occupation"]
     BCE --> GAS["Gaspee Affair"]
     TA --> EIC["East India Company"]
     COA --> BOS["Boston / Massachusetts"]
@@ -41,6 +46,8 @@ flowchart LR
     FARM --> MCL["Massachusetts Circular Letter"]
     SA2["Samuel Adams"] --> MCL
     JO["James Otis Jr."] --> MCL
+    MCL --> G92["Glorious 92"]
+    G92 --> OCC
     MCL --> CR
     NIA --> CR
     PM["Patriot Movement"] --> CR
@@ -56,6 +63,11 @@ flowchart LR
     REB --> DOI
     TG["Thomas Gage"] --> LC["Lexington and Concord"]
     BA["British Army"] --> LC
+    BA --> OCC
+    OCC --> BM["Boston Massacre"]
+    PR["Paul Revere"] --> BMA["Boston Massacre Aftermath"]
+    JA["John Adams"] --> BMA
+    BM --> BMA
     MM["Massachusetts Militia"] --> LC
     MPC["Massachusetts Provincial Congress"] --> MM
     LC --> CTA["Continental Army"]
@@ -86,6 +98,7 @@ flowchart LR
 - The East India Company is a commercial actor whose crisis became political through the Tea Act.
 - Colonial assemblies, resistance networks, and Congress represent escalating forms of colonial coordination.
 - Nonimportation, homespun, and circular-letter politics show resistance infrastructure before the First Continental Congress.
+- The occupation path shows British customs and army presence creating a military-public-opinion crisis in Boston.
 - The Patriot movement is an umbrella note, not a single institution.
 
 ## Sources
@@ -95,6 +108,9 @@ flowchart LR
 - [[Source - Avalon Massachusetts Circular Letter 1768]]
 - [[Source - LOC True Sons Non-Importation Broadside]]
 - [[Source - Colonial Williamsburg Sons and Daughters of Liberty]]
+- [[Source - Commonwealth Museum Customs Commissioners and Liberty]]
+- [[Source - Commonwealth Museum Weight of Occupation]]
+- [[Source - LOC Revere Bloody Massacre Engraving]]
 - [[Source - Rhode Island Historical Society Burning of the Gaspee]]
 - [[Source - NPS Washington Appointment Commander in Chief]]
 - [[Source - NPS Rebellion Minute Man]]

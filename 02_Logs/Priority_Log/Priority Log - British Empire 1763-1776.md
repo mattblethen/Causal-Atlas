@@ -8,6 +8,8 @@ sources:
   - Source - LOC American Revolution Primary Source Timeline
   - Source - UK National Archives Causes of the American Revolution
   - Source - Avalon Circular Letter to Governors 1768
+  - Source - Commonwealth Museum Occupation Landing
+  - Source - Commonwealth Museum Weight of Occupation
   - Source - UK National Archives Boston Tea Party
 ---
 
@@ -29,6 +31,9 @@ Manifested In:
 - [[British Imperial Debt]]
 - [[Stamp Act]]
 - [[Massachusetts Circular Letter]]
+- [[Liberty Affair]]
+- [[Boston Occupation]]
+- [[Boston Massacre]]
 - [[Tea Act]]
 - [[Coercive Acts]]
 - [[Lexington and Concord]]
@@ -37,4 +42,6 @@ Sources:
 - [[Source - LOC American Revolution Primary Source Timeline]]
 - [[Source - UK National Archives Causes of the American Revolution]]
 - [[Source - Avalon Circular Letter to Governors 1768]]
+- [[Source - Commonwealth Museum Occupation Landing]]
+- [[Source - Commonwealth Museum Weight of Occupation]]
 - [[Source - UK National Archives Boston Tea Party]]

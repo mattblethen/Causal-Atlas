@@ -21,6 +21,9 @@ actors:
   - Patriot Movement
 related_events:
   - Townshend Acts
+  - Boston Occupation
+  - Christopher Seider Killing
+  - Boston Massacre Aftermath
   - Tea Act
   - Boston Tea Party
 status: researched
@@ -29,6 +32,10 @@ sources:
   - Source - LOC British Reforms and Colonial Resistance 1767-1772
   - Source - LOC Short Narrative of the Boston Massacre
   - Source - LOC American Revolution Resource Guide
+  - Source - Commonwealth Museum Weight of Occupation
+  - Source - MHS Fair Account Boston Massacre
+  - Source - LOC Revere Bloody Massacre Engraving
+  - Source - NPS Boston Massacre Trial
 ---
 
 # 1770-03-05 - Boston Massacre
@@ -41,6 +48,8 @@ British soldiers fired into a crowd in Boston on March 5, 1770. Colonial account
 
 ## Manifested From
 - [[Townshend Acts]]
+- [[Boston Occupation]]
+- [[Christopher Seider Killing]]
 - [[Thread - War and State Formation]]
 - [[Mass Media]]
 
@@ -48,6 +57,8 @@ British soldiers fired into a crowd in Boston on March 5, 1770. Colonial account
 Military occupation, street conflict, legal controversy, and political print culture converged in one event.
 
 ## Led To
+- [[Boston Massacre Aftermath]]
+- [[Gaspee Affair]]
 - [[Tea Act]]
 - [[Boston Tea Party]]
 
@@ -67,12 +78,18 @@ Military occupation, street conflict, legal controversy, and political print cul
 - [[British Army]]
 - [[Patriot Movement]]
 - [[Samuel Adams]]
+- [[John Adams]]
+- [[Paul Revere]]
 - [[Joseph Warren]]
 
 ## Research Notes
-This note should not treat colonial propaganda as neutral fact. A deeper pass should add trial records, soldier perspectives, and Paul Revere's engraving.
+This note should not treat colonial propaganda as neutral fact. The aftermath note now separates Patriot narrative, Loyalist counter-narrative, Revere's engraving, and trial outcomes.
 
 ## Sources
 - [[Source - LOC British Reforms and Colonial Resistance 1767-1772]]
 - [[Source - LOC Short Narrative of the Boston Massacre]]
 - [[Source - LOC American Revolution Resource Guide]]
+- [[Source - Commonwealth Museum Weight of Occupation]]
+- [[Source - MHS Fair Account Boston Massacre]]
+- [[Source - LOC Revere Bloody Massacre Engraving]]
+- [[Source - NPS Boston Massacre Trial]]

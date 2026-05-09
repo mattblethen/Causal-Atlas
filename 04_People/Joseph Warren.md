@@ -20,6 +20,7 @@ status: researched
 confidence: medium
 sources:
   - Source - LOC Short Narrative of the Boston Massacre
+  - Source - MHS Fair Account Boston Massacre
   - Source - LOC Samuel Adams Papers
 ---
 
@@ -35,11 +36,13 @@ Joseph Warren was a Massachusetts Patriot leader tied to political communication
 
 ## Key Decisions
 - [[Boston Massacre]]
+- [[Boston Massacre Aftermath]]
 - [[Committees of Correspondence]]
 - [[Lexington and Concord]]
 
 ## Events Involved In
 - [[Boston Massacre]]
+- [[Boston Massacre Aftermath]]
 - [[Committees of Correspondence]]
 - [[Lexington and Concord]]
 
@@ -57,4 +60,5 @@ Warren's role highlights how public narrative, intelligence, and military mobili
 
 ## Sources
 - [[Source - LOC Short Narrative of the Boston Massacre]]
+- [[Source - MHS Fair Account Boston Massacre]]
 - [[Source - LOC Samuel Adams Papers]]

@@ -24,6 +24,9 @@ related_events:
   - Letters from a Farmer in Pennsylvania
   - Massachusetts Circular Letter
   - Boston Non-Importation Agreement
+  - Glorious 92
+  - Liberty Affair
+  - Boston Occupation
   - Boston Massacre
   - Tea Act
 status: researched
@@ -33,6 +36,8 @@ sources:
   - Source - American Battlefield Trust Townshend Act 1767
   - Source - Constitution Center Letters from a Farmer
   - Source - Avalon Massachusetts Circular Letter 1768
+  - Source - Commonwealth Museum Customs Commissioners and Liberty
+  - Source - Commonwealth Museum Occupation Landing
 ---
 
 # 1767-1770 - Townshend Acts
@@ -55,6 +60,9 @@ The revenue conflict shifted from stamped paper to customs duties, enforcement m
 - [[Letters from a Farmer in Pennsylvania]]
 - [[Massachusetts Circular Letter]]
 - [[Boston Non-Importation Agreement]]
+- [[Glorious 92]]
+- [[Liberty Affair]]
+- [[Boston Occupation]]
 - [[Boston Massacre]]
 - [[Tea Act]]
 
@@ -85,3 +93,5 @@ Future work should split the Revenue Act, Commissioners of Customs Act, New York
 - [[Source - American Battlefield Trust Townshend Act 1767]]
 - [[Source - Constitution Center Letters from a Farmer]]
 - [[Source - Avalon Massachusetts Circular Letter 1768]]
+- [[Source - Commonwealth Museum Customs Commissioners and Liberty]]
+- [[Source - Commonwealth Museum Occupation Landing]]

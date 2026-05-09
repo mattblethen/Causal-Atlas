@@ -8,6 +8,9 @@ threads:
   - Empire
 manifestations:
   - Colonial Resistance
+  - Glorious 92
+  - Boston Occupation
+  - Boston Massacre
   - First Continental Congress
 opposed_by:
   - Parliamentary Sovereignty
@@ -28,6 +31,9 @@ Colonial institutions and political culture developed expectations of local self
 
 ## Manifested As
 - [[Colonial Resistance]]
+- [[Glorious 92]]
+- [[Boston Occupation]]
+- [[Boston Massacre]]
 - [[First Continental Congress]]
 - [[Declaration of Independence]]
 
@@ -40,6 +46,7 @@ Colonial institutions and political culture developed expectations of local self
 
 ## Intensified By
 - [[Stamp Act]]
+- [[Boston Occupation]]
 - [[Coercive Acts]]
 
 ## Long-Term Effects

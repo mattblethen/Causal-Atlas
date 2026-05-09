@@ -10,6 +10,8 @@ manifestations:
   - Letters from a Farmer in Pennsylvania
   - Massachusetts Circular Letter
   - Nonimportation Agreements
+  - Christopher Seider Killing
+  - Boston Massacre Aftermath
 opposed_by: []
 intensified_by:
   - Enlightenment Thought
@@ -19,6 +21,8 @@ sources:
   - Source - Constitution Center Letters from a Farmer
   - Source - Avalon Massachusetts Circular Letter 1768
   - Source - LOC True Sons Non-Importation Broadside
+  - Source - LOC Revere Bloody Massacre Engraving
+  - Source - MHS Fair Account Boston Massacre
 ---
 
 # Mass Media
@@ -34,6 +38,8 @@ Communication technologies and publishing networks shape public opinion, coordin
 - [[Letters from a Farmer in Pennsylvania]]
 - [[Massachusetts Circular Letter]]
 - [[Nonimportation Agreements]]
+- [[Christopher Seider Killing]]
+- [[Boston Massacre Aftermath]]
 - [[Declaration of Independence]]
 
 ## Deeper Roots
@@ -52,3 +58,5 @@ Helps explain how local grievances become shared political causes across distanc
 - [[Source - Constitution Center Letters from a Farmer]]
 - [[Source - Avalon Massachusetts Circular Letter 1768]]
 - [[Source - LOC True Sons Non-Importation Broadside]]
+- [[Source - LOC Revere Bloody Massacre Engraving]]
+- [[Source - MHS Fair Account Boston Massacre]]

@@ -22,6 +22,7 @@ sources:
   - Source - LOC Journals of the Continental Congress
   - Source - Founders Online Declaration Adopted by Congress
   - Source - ABT Boston Non-Importation Agreement
+  - Source - Commonwealth Museum Customs Commissioners and Liberty
 ---
 
 # John Hancock
@@ -35,13 +36,16 @@ John Hancock connected merchant politics, Massachusetts resistance, and the Cont
 3. Lead congressional legitimacy during escalation.
 
 ## Key Decisions
+- [[Liberty Affair]]
 - [[Boston Non-Importation Agreement]]
 - [[First Continental Congress]]
 - [[Declaration of Independence]]
 
 ## Events Involved In
 - [[Colonial Resistance]]
+- [[Liberty Affair]]
 - [[Boston Non-Importation Agreement]]
+- [[Boston Occupation]]
 - [[First Continental Congress]]
 - [[Lexington and Concord]]
 - [[Declaration of Independence]]
@@ -60,3 +64,4 @@ Hancock's merchant interests show how economic autonomy and constitutional ideol
 - [[Source - LOC Journals of the Continental Congress]]
 - [[Source - Founders Online Declaration Adopted by Congress]]
 - [[Source - ABT Boston Non-Importation Agreement]]
+- [[Source - Commonwealth Museum Customs Commissioners and Liberty]]

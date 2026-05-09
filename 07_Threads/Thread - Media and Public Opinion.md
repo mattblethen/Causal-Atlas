@@ -11,6 +11,9 @@ related_events:
   - Massachusetts Circular Letter
   - Nonimportation Agreements
   - Homespun Movement
+  - Christopher Seider Killing
+  - Boston Massacre
+  - Boston Massacre Aftermath
   - Declaration of Independence
 related_people: []
 status: stub
@@ -29,6 +32,9 @@ Media systems shape what publics know, believe, repeat, contest, and organize ar
 - [[Massachusetts Circular Letter]]
 - [[Nonimportation Agreements]]
 - [[Homespun Movement]]
+- [[Christopher Seider Killing]]
+- [[Boston Massacre]]
+- [[Boston Massacre Aftermath]]
 - [[Declaration of Independence]]
 
 ## Timeline
@@ -43,6 +49,8 @@ Media systems shape what publics know, believe, repeat, contest, and organize ar
 - [[Daughters of Liberty]]
 - [[John Dickinson]]
 - [[Samuel Adams]]
+- [[Paul Revere]]
+- [[Joseph Warren]]
 
 ## Branch Points
 -

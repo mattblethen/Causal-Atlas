@@ -28,6 +28,7 @@ related_events:
   - Stamp Act Congress
   - Boston Non-Importation Agreement
   - Homespun Movement
+  - Christopher Seider Killing
   - Continental Association
 status: researched
 confidence: medium
@@ -56,6 +57,7 @@ Economic pressure became a political instrument.
 ## Led To
 - [[Boston Non-Importation Agreement]]
 - [[Homespun Movement]]
+- [[Christopher Seider Killing]]
 - [[Continental Association]]
 
 ## Related Decisions

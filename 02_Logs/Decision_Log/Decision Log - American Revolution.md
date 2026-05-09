@@ -10,6 +10,9 @@ sources:
   - Source - Avalon Stamp Act Congress Resolutions 1765
   - Source - Avalon Massachusetts Circular Letter 1768
   - Source - ABT Boston Non-Importation Agreement
+  - Source - Commonwealth Museum Glorious 92
+  - Source - Commonwealth Museum Occupation Landing
+  - Source - NPS Boston Massacre Trial
 ---
 
 # Decision Log - American Revolution
@@ -130,12 +133,39 @@ Alternatives:
 
 Consequences:
 - [[Massachusetts Circular Letter]]
+- [[Glorious 92]]
+- [[Boston Occupation]]
 - [[Committees of Correspondence]]
 - [[Boston Massacre]]
 
 Sources:
 - [[Source - Avalon Massachusetts Circular Letter 1768]]
 - [[Source - MHS Massachusetts Circular Letter]]
+- [[Source - Avalon Circular Letter to Governors 1768]]
+
+## 1768 - Massachusetts refuses to rescind the Circular Letter
+
+Decision:
+The Massachusetts House refused Governor Bernard's demand that it rescind the Circular Letter, producing the vote remembered by supporters as the "Glorious 92".
+
+Why it mattered:
+The decision made assembly coordination itself a test of imperial obedience and helped push the dispute from paper protest toward punishment, dissolution, and military enforcement.
+
+Priority conflict:
+- Colonial assembly independence and intercolonial coordination versus imperial command discipline.
+
+Alternatives:
+- Rescind the letter to preserve the House.
+- Issue a narrower clarification while maintaining the protest.
+- Shift the dispute fully outside formal assembly politics.
+
+Consequences:
+- [[Glorious 92]]
+- [[Boston Occupation]]
+- [[Boston Massacre]]
+
+Sources:
+- [[Source - Commonwealth Museum Glorious 92]]
 - [[Source - Avalon Circular Letter to Governors 1768]]
 
 ## 1768 - Boston merchants adopt nonimportation
@@ -162,6 +192,58 @@ Consequences:
 Sources:
 - [[Source - ABT Boston Non-Importation Agreement]]
 - [[Source - LOC True Sons Non-Importation Broadside]]
+
+## 1768 - British officials choose troop occupation in Boston
+
+Decision:
+After customs violence and official reports of disorder, British authorities used troops to enforce imperial order in Boston.
+
+Why it mattered:
+Military presence made ordinary street encounters part of the imperial crisis and created the occupation setting that culminated in the Boston Massacre.
+
+Priority conflict:
+- Imperial enforcement and official security versus colonial autonomy, crowd politics, and resentment of standing armies.
+
+Alternatives:
+- Rely on civil prosecution and customs seizures without troops.
+- Negotiate with Massachusetts leaders before landing troops.
+- Reduce enforcement intensity while waiting for political instructions from London.
+
+Consequences:
+- [[Boston Occupation]]
+- [[Christopher Seider Killing]]
+- [[Boston Massacre]]
+- [[Boston Massacre Aftermath]]
+
+Sources:
+- [[Source - Commonwealth Museum Occupation Landing]]
+- [[Source - Commonwealth Museum Calling for Troops]]
+- [[Source - Commonwealth Museum Weight of Occupation]]
+
+## 1770 - John Adams defends the Boston Massacre defendants
+
+Decision:
+John Adams served as defense counsel for Captain Preston and the soldiers charged after the Boston Massacre.
+
+Why it mattered:
+The decision preserved a legal legitimacy claim inside a polarized public narrative and complicates any simple Patriot-versus-British reading of the Massacre aftermath.
+
+Priority conflict:
+- Patriot opposition to occupation versus rule-of-law credibility and due process.
+
+Alternatives:
+- Refuse the case to avoid political risk.
+- Leave the defense to less prominent lawyers.
+- Treat the trials mainly as propaganda instead of legal proceedings.
+
+Consequences:
+- [[Boston Massacre Aftermath]]
+- [[John Adams]]
+- [[Patriot Movement]]
+
+Sources:
+- [[Source - NPS Boston Massacre Trial]]
+- [[Source - MHS Fair Account Boston Massacre]]
 
 ## 1773 - Parliament preserves tea duty while aiding the East India Company
 

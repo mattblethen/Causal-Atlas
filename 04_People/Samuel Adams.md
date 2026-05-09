@@ -22,6 +22,8 @@ sources:
   - Source - Avalon Boston Committee Circular Letter 1774
   - Source - Avalon Massachusetts Circular Letter 1768
   - Source - MHS Massachusetts Circular Letter
+  - Source - Commonwealth Museum Glorious 92
+  - Source - Commonwealth Museum Christopher Seider
 ---
 
 # Samuel Adams
@@ -36,13 +38,17 @@ Samuel Adams was a Massachusetts Patriot organizer whose political life connecte
 
 ## Key Decisions
 - [[Massachusetts Circular Letter]]
+- [[Glorious 92]]
+- [[Christopher Seider Killing]]
 - [[Committees of Correspondence]]
 - [[First Continental Congress]]
 
 ## Events Involved In
 - [[Stamp Act]]
 - [[Massachusetts Circular Letter]]
+- [[Glorious 92]]
 - [[Boston Massacre]]
+- [[Christopher Seider Killing]]
 - [[Committees of Correspondence]]
 - [[Boston Tea Party]]
 - [[First Continental Congress]]
@@ -62,3 +68,5 @@ Adams's organizing helped build popular legitimacy, but resistance networks coul
 - [[Source - Avalon Boston Committee Circular Letter 1774]]
 - [[Source - Avalon Massachusetts Circular Letter 1768]]
 - [[Source - MHS Massachusetts Circular Letter]]
+- [[Source - Commonwealth Museum Glorious 92]]
+- [[Source - Commonwealth Museum Christopher Seider]]

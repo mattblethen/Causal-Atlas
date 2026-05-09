@@ -9,6 +9,10 @@ sources:
   - Source - Avalon Stamp Act Congress Resolutions 1765
   - Source - Britannica Nonimportation Agreements
   - Source - Colonial Williamsburg Sons and Daughters of Liberty
+  - Source - Commonwealth Museum Glorious 92
+  - Source - Commonwealth Museum Christopher Seider
+  - Source - LOC Revere Bloody Massacre Engraving
+  - Source - MHS Fair Account Boston Massacre
   - Source - UK National Archives Boston Tea Party
   - Source - LOC Journals of the Continental Congress
 ---
@@ -33,6 +37,9 @@ Manifested In:
 - [[Nonimportation Agreements]]
 - [[Massachusetts Circular Letter]]
 - [[Homespun Movement]]
+- [[Glorious 92]]
+- [[Christopher Seider Killing]]
+- [[Boston Massacre Aftermath]]
 - [[Colonial Resistance]]
 - [[Boston Tea Party]]
 - [[First Continental Congress]]
@@ -44,5 +51,9 @@ Sources:
 - [[Source - Avalon Stamp Act Congress Resolutions 1765]]
 - [[Source - Britannica Nonimportation Agreements]]
 - [[Source - Colonial Williamsburg Sons and Daughters of Liberty]]
+- [[Source - Commonwealth Museum Glorious 92]]
+- [[Source - Commonwealth Museum Christopher Seider]]
+- [[Source - LOC Revere Bloody Massacre Engraving]]
+- [[Source - MHS Fair Account Boston Massacre]]
 - [[Source - UK National Archives Boston Tea Party]]
 - [[Source - LOC Journals of the Continental Congress]]

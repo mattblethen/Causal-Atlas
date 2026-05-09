@@ -25,6 +25,7 @@ actors:
 related_events:
   - Townshend Acts
   - Letters from a Farmer in Pennsylvania
+  - Glorious 92
   - Committees of Correspondence
   - Boston Massacre
 status: researched
@@ -33,6 +34,7 @@ sources:
   - Source - Avalon Massachusetts Circular Letter 1768
   - Source - MHS Massachusetts Circular Letter
   - Source - Avalon Circular Letter to Governors 1768
+  - Source - Commonwealth Museum Glorious 92
 ---
 
 # 1768-02-11 - Massachusetts Circular Letter
@@ -52,6 +54,7 @@ The Massachusetts House sent a circular letter to other colonial assemblies argu
 Assembly protest became intercolonial political communication.
 
 ## Led To
+- [[Glorious 92]]
 - [[Committees of Correspondence]]
 - [[Boston Massacre]]
 - [[Colonial Resistance]]
@@ -76,9 +79,10 @@ Assembly protest became intercolonial political communication.
 - [[British Empire]]
 
 ## Research Notes
-The letter is a bridge from constitutional argument to institutional coordination. Later notes should add the "Glorious 92" rescission fight and the occupation of Boston.
+The letter is a bridge from constitutional argument to institutional coordination. The "Glorious 92" note now carries the rescission fight; later notes should add more assembly responses outside Massachusetts.
 
 ## Sources
 - [[Source - Avalon Massachusetts Circular Letter 1768]]
 - [[Source - MHS Massachusetts Circular Letter]]
 - [[Source - Avalon Circular Letter to Governors 1768]]
+- [[Source - Commonwealth Museum Glorious 92]]

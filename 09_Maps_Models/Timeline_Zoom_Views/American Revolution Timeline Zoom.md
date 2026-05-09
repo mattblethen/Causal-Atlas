@@ -31,9 +31,14 @@ sources:
 - [[Townshend Acts]]
 - [[Letters from a Farmer in Pennsylvania]]
 - [[Massachusetts Circular Letter]]
+- [[Glorious 92]]
+- [[Liberty Affair]]
 - [[Boston Non-Importation Agreement]]
 - [[Homespun Movement]]
+- [[Boston Occupation]]
+- [[Christopher Seider Killing]]
 - [[Boston Massacre]]
+- [[Boston Massacre Aftermath]]
 - [[Gaspee Affair]]
 - [[Committees of Correspondence]]
 
@@ -65,4 +70,4 @@ sources:
 ## Notes
 - This timeline is a navigational zoom view, not a complete chronology.
 - Each entry should eventually link to source notes and maps.
-- Later passes should add the "Glorious 92" rescission fight, Boston occupation, responses to the Proclamation for Suppressing Rebellion and Sedition, and evacuation refugee experiences.
+- Later passes should add deeper Committees of Correspondence sources, responses to the Proclamation for Suppressing Rebellion and Sedition, and evacuation refugee experiences.

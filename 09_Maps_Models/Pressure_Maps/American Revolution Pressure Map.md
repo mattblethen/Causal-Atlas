@@ -11,6 +11,11 @@ sources:
   - Source - Constitution Center Letters from a Farmer
   - Source - Avalon Massachusetts Circular Letter 1768
   - Source - ABT Boston Non-Importation Agreement
+  - Source - Commonwealth Museum Glorious 92
+  - Source - Commonwealth Museum Customs Commissioners and Liberty
+  - Source - Commonwealth Museum Occupation Landing
+  - Source - Commonwealth Museum Weight of Occupation
+  - Source - MHS Fair Account Boston Massacre
   - Source - Rhode Island Historical Society Burning of the Gaspee
   - Source - American Battlefield Trust Tea Act 1773
   - Source - Avalon Boston Port Act 1774
@@ -43,13 +48,24 @@ flowchart TD
     S --> T["Boston Massacre"]
     S --> AP["Letters from a Farmer in Pennsylvania"]
     AP --> AQ["Massachusetts Circular Letter"]
+    AQ --> AT["Glorious 92"]
+    S --> AU["Liberty Affair"]
+    AT --> AV["Boston Occupation"]
+    AU --> AV
     S --> AR["Boston Non-Importation Agreement"]
     AQ --> AR
     AR --> AS["Homespun Movement"]
     AS --> K
+    AV --> AW["Christopher Seider Killing"]
+    AW --> T
+    AV --> T
+    AS --> AW
     T --> K
+    T --> AX["Boston Massacre Aftermath"]
+    AX --> K
     AF["Customs Enforcement"] --> AD
     AF --> S
+    AF --> AU
     AF --> AG["Gaspee Affair"]
     AG --> K
     G --> L["Boston Tea Party"]
@@ -81,6 +97,7 @@ flowchart TD
     R["Mass Media / Print Culture"] --> K
     R --> AP
     R --> AQ
+    R --> AX
     R --> M
 ```
 
@@ -90,6 +107,7 @@ flowchart TD
 - The autonomy path shows why colonists interpreted policies as threats to local self-government.
 - The trade path shows why tea became more than a commodity: it carried taxation, monopoly, and imperial authority.
 - The nonimportation path shows how trade and household consumption became political pressure systems before armed conflict.
+- The occupation path shows how customs enforcement and assembly defiance became a daily military presence before the Boston Massacre.
 
 ## Current Confidence
 Medium. The broad causal relationships are supported by institutional sources, but specific arrows need deeper primary-source and scholarly comparison.
@@ -102,6 +120,11 @@ Medium. The broad causal relationships are supported by institutional sources, b
 - [[Source - Constitution Center Letters from a Farmer]]
 - [[Source - Avalon Massachusetts Circular Letter 1768]]
 - [[Source - ABT Boston Non-Importation Agreement]]
+- [[Source - Commonwealth Museum Glorious 92]]
+- [[Source - Commonwealth Museum Customs Commissioners and Liberty]]
+- [[Source - Commonwealth Museum Occupation Landing]]
+- [[Source - Commonwealth Museum Weight of Occupation]]
+- [[Source - MHS Fair Account Boston Massacre]]
 - [[Source - Rhode Island Historical Society Burning of the Gaspee]]
 - [[Source - American Battlefield Trust Tea Act 1773]]
 - [[Source - Avalon Boston Port Act 1774]]

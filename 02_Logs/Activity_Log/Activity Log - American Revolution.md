@@ -10,6 +10,12 @@ sources:
   - Source - Avalon Stamp Act Congress Resolutions 1765
   - Source - Avalon Massachusetts Circular Letter 1768
   - Source - ABT Boston Non-Importation Agreement
+  - Source - Commonwealth Museum Glorious 92
+  - Source - Commonwealth Museum Occupation Landing
+  - Source - Commonwealth Museum Christopher Seider
+  - Source - LOC Revere Bloody Massacre Engraving
+  - Source - MHS Fair Account Boston Massacre
+  - Source - NPS Boston Massacre Trial
   - Source - NPS April 19 1775
   - Source - LOC Declaration of Independence Guide
 ---
@@ -126,6 +132,49 @@ Sources:
 - [[Source - MHS Massachusetts Circular Letter]]
 - [[Source - ABT Boston Non-Importation Agreement]]
 - [[Source - Colonial Williamsburg Sons and Daughters of Liberty]]
+
+## 1768 - Glorious 92, Liberty Affair, and Occupation
+
+What happened:
+After Massachusetts refused to rescind its Circular Letter, imperial officials dissolved the House. Boston crowds celebrated the "Glorious 92", customs conflict escalated around the seizure of Hancock's Liberty, customs commissioners withdrew to Castle William, and British troops occupied Boston.
+
+Related:
+- [[Glorious 92]]
+- [[Liberty Affair]]
+- [[Boston Occupation]]
+- [[Townshend Acts]]
+- [[Massachusetts Circular Letter]]
+
+Why it matters:
+The episode turns written constitutional resistance into an urban enforcement crisis, making occupation a key bridge between Townshend policy and the Boston Massacre.
+
+Sources:
+- [[Source - Commonwealth Museum Glorious 92]]
+- [[Source - Commonwealth Museum Customs Commissioners and Liberty]]
+- [[Source - Commonwealth Museum Occupation Landing]]
+- [[Source - Commonwealth Museum Calling for Troops]]
+
+## 1770 - Seider, Boston Massacre, and Narrative Contest
+
+What happened:
+Christopher Seider was killed in February 1770 amid nonimportation enforcement tensions. In March, soldiers fired into a Boston crowd. Competing accounts, engravings, legal defenses, funerals, and trial verdicts made the Massacre both a street violence event and a contested public narrative.
+
+Related:
+- [[Christopher Seider Killing]]
+- [[Boston Massacre]]
+- [[Boston Massacre Aftermath]]
+- [[Paul Revere]]
+- [[John Adams]]
+
+Why it matters:
+This layer shows how occupation, crowd politics, press networks, and courtroom legitimacy all shaped colonial memory of British military rule.
+
+Sources:
+- [[Source - Commonwealth Museum Christopher Seider]]
+- [[Source - LOC Short Narrative of the Boston Massacre]]
+- [[Source - LOC Revere Bloody Massacre Engraving]]
+- [[Source - MHS Fair Account Boston Massacre]]
+- [[Source - NPS Boston Massacre Trial]]
 
 ## 1773-12-16 - Boston Tea Party
 

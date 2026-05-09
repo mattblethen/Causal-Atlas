@@ -21,11 +21,20 @@ flowchart TD
     G --> H
     H --> HA["Letters from a Farmer in Pennsylvania"]
     HA --> HB["Massachusetts Circular Letter"]
+    HB --> HBA["Glorious 92"]
+    H --> HBB["Liberty Affair"]
+    HBA --> HBC["Boston Occupation"]
+    HBB --> HBC
     H --> HC["Boston Non-Importation Agreement"]
     HB --> HC
     HC --> HD["Homespun Movement"]
-    HC --> I["Boston Massacre"]
+    HBC --> HBD["Christopher Seider Killing"]
+    HBD --> I["Boston Massacre"]
+    HBC --> I
+    HD --> HBD
     I --> J["Gaspee Affair"]
+    I --> IAA["Boston Massacre Aftermath"]
+    IAA --> J
     J --> K["Colonial Resistance"]
     K --> L["Tea Act"]
     L --> M["Boston Tea Party"]
@@ -58,6 +67,6 @@ flowchart TD
 
 ## Map Notes
 - This is now a first-pass researched scaffold, not a final causal proof.
-- Strongest supported links so far: Seven Years' War -> British Imperial Debt -> Sugar Act/Stamp Act; Stamp Act -> Stamp Act Congress/nonimportation; Stamp Act -> Declaratory Act -> Townshend Acts as a sovereignty sequence; Townshend Acts -> Farmer letters/Circular Letter/nonimportation; Tea Act -> Boston Tea Party -> Coercive Acts; Coercive Acts -> First Continental Congress.
+- Strongest supported links so far: Seven Years' War -> British Imperial Debt -> Sugar Act/Stamp Act; Stamp Act -> Stamp Act Congress/nonimportation; Stamp Act -> Declaratory Act -> Townshend Acts as a sovereignty sequence; Townshend Acts -> Farmer letters/Circular Letter/nonimportation; Circular Letter/Liberty Affair -> occupation; occupation -> Boston Massacre; Tea Act -> Boston Tea Party -> Coercive Acts; Coercive Acts -> First Continental Congress.
 - Lexington and Concord remains source-backed as the transition into armed conflict, but the exact first-shot question is intentionally left unresolved.
 - Future passes should qualify direct, indirect, and disputed relationships with more specific primary sources.

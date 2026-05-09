@@ -25,6 +25,8 @@ related_events:
   - Townshend Acts
   - Nonimportation Agreements
   - Homespun Movement
+  - Liberty Affair
+  - Christopher Seider Killing
   - Boston Massacre
 status: researched
 confidence: medium
@@ -51,6 +53,7 @@ Merchants turned import discipline into a public rights strategy.
 
 ## Led To
 - [[Homespun Movement]]
+- [[Christopher Seider Killing]]
 - [[Boston Massacre]]
 - [[Continental Association]]
 

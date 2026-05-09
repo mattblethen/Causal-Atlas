@@ -8,13 +8,13 @@ updated: 2026-05-09
 # Roadmap Progress
 
 ## Whole Vault Roadmap Estimate
-Approximate completion: **10%**
+Approximate completion: **11%**
 
 ## Basis
-The full roadmap includes the American Revolution proof of concept, later American history modules, later world history modules, source notes, actor notes, people notes, logs, maps, and future expansions. The vault now has the first module's researched causal spine, postwar policy roots, first bridge-event layer, stronger Coercive Acts source packet, Boston siege endpoint with Ticonderoga/Knox/Dorchester mechanics, slavery/Black Loyalist entry points, resistance infrastructure from the Stamp Act Congress through nonimportation and homespun, first logs, first force expansion, people and actor notes for the main early actors, and causal, pressure, actor, and timeline maps.
+The full roadmap includes the American Revolution proof of concept, later American history modules, later world history modules, source notes, actor notes, people notes, logs, maps, and future expansions. The vault now has the first module's researched causal spine, postwar policy roots, first bridge-event layer, stronger Coercive Acts source packet, Boston occupation and Massacre aftermath layer, Boston siege endpoint with Ticonderoga/Knox/Dorchester mechanics, slavery/Black Loyalist entry points, resistance infrastructure from the Stamp Act Congress through nonimportation and homespun, first logs, first force expansion, people and actor notes for the main early actors, and causal, pressure, actor, and timeline maps.
 
 ## American Revolution Module Estimate
-Approximate completion: **70%**
+Approximate completion: **74%**
 
 ## Completed
 - Source spine for the core causal chain
@@ -36,12 +36,14 @@ Approximate completion: **70%**
 - Second Continental Congress, Ticonderoga, Knox Expedition, and Dorchester Heights mechanics
 - Henry Knox, Ethan Allen, Benedict Arnold, and Green Mountain Boys notes
 - Stamp Act Congress, nonimportation agreements, Boston Non-Importation Agreement, Massachusetts Circular Letter, Dickinson's Farmer letters, homespun movement, Daughters of Liberty, and James Otis Jr. notes
+- Glorious 92, Liberty Affair, Boston occupation, Christopher Seider killing, and Boston Massacre aftermath notes
+- Boston occupation and Massacre aftermath added to activity, decision, priority, pressure, actor, causal, and timeline maps
 
 ## Remaining
 - Expanded military command and campaign notes after 1776
 - Additional people notes for local actors, women writers/correspondents, Black Loyalists, Indigenous leaders, British commanders, and parliamentary figures
-- Deeper source expansion for Townshend Acts, Boston Massacre, committees of correspondence, Continental Association, Olive Branch Petition, Common Sense, and Black Loyalists
+- Deeper source expansion for Townshend Acts, committees of correspondence, Continental Association, Olive Branch Petition, Common Sense, and Black Loyalists
 - Further slavery and Indigenous displacement integration
 - Scholarly interpretation pass
 - Washington command expansion after Boston
-- Boston occupation, "Glorious 92", and post-Circular Letter escalation
+- Boston Massacre trial transcript and pamphlet comparison packet

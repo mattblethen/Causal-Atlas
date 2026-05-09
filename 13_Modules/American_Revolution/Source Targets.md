@@ -13,6 +13,8 @@ status: active
 - Stamp Act Congress resolutions.
 - Massachusetts Circular Letter, imperial response, and related assembly records.
 - Nonimportation agreements, boycott broadsides, and homespun/Daughters of Liberty sources.
+- Boston occupation records, customs enforcement accounts, and troop landing sources.
+- Boston Massacre visual, pamphlet, trial, and aftermath sources.
 - Tea Act text and East India Company context.
 - Coercive Acts text.
 - Continental Congress records.

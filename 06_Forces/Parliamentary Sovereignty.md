@@ -10,6 +10,7 @@ manifestations:
   - Stamp Act
   - Declaratory Act
   - Townshend Acts
+  - Boston Occupation
   - Coercive Acts
 opposed_by:
   - Colonial Autonomy
@@ -32,6 +33,7 @@ The claim that Parliament held ultimate legislative authority over the empire, i
 - [[Stamp Act]]
 - [[Declaratory Act]]
 - [[Townshend Acts]]
+- [[Boston Occupation]]
 - [[Coercive Acts]]
 
 ## Deeper Roots

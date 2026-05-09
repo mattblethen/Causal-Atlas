@@ -21,23 +21,28 @@ confidence: medium
 sources:
   - Source - NPS April 19 1775
   - Source - NPS Rebellion Minute Man
+  - Source - LOC Revere Bloody Massacre Engraving
+  - Source - Commonwealth Museum Occupation Landing
 ---
 
 # Paul Revere
 
 ## Historical Function
-Paul Revere represents the communications and alarm network that helped Massachusetts resistance respond quickly to British military movement.
+Paul Revere represents the communications, engraving, and alarm networks that helped Massachusetts resistance turn events into public signals and rapid mobilization.
 
 ## Priority Stack
 1. Move intelligence quickly.
 2. Alert resistance leaders and local militia.
-3. Support Patriot communication networks.
+3. Support Patriot communication networks through images, messages, and movement.
 
 ## Key Decisions
+- [[Boston Massacre Aftermath]]
 - [[Lexington and Concord]]
 
 ## Events Involved In
 - [[Committees of Correspondence]]
+- [[Boston Occupation]]
+- [[Boston Massacre Aftermath]]
 - [[Lexington and Concord]]
 
 ## Forces Embodied
@@ -53,3 +58,5 @@ Revere's role was important but should not collapse the broader alarm network in
 ## Sources
 - [[Source - NPS April 19 1775]]
 - [[Source - NPS Rebellion Minute Man]]
+- [[Source - LOC Revere Bloody Massacre Engraving]]
+- [[Source - Commonwealth Museum Occupation Landing]]

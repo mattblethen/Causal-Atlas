@@ -21,6 +21,7 @@ actors:
   - British Empire
 related_events:
   - Boston Massacre
+  - Boston Massacre Aftermath
   - Committees of Correspondence
   - Tea Act
 status: researched
@@ -41,6 +42,7 @@ The British customs schooner Gaspee ran aground while active in Rhode Island wat
 - [[Atlantic Trade]]
 - [[Mercantilism]]
 - [[Colonial Resistance]]
+- [[Boston Massacre Aftermath]]
 
 ## Manifested As
 Customs enforcement became maritime direct action against British authority.
