@@ -112,10 +112,12 @@ Sources:
 ## 1775-1776 - Failed Reconciliation and Public Independence Argument
 
 What happened:
-The Olive Branch Petition failed as a reconciliation path, and Common Sense helped popularize independence.
+The Olive Branch Petition failed as a reconciliation path, George III treated the colonies as being in rebellion, Dunmore's Proclamation exposed the slavery contradiction in wartime Virginia, and Common Sense helped popularize independence.
 
 Related:
 - [[Olive Branch Petition]]
+- [[Proclamation for Suppressing Rebellion and Sedition]]
+- [[Lord Dunmore's Proclamation]]
 - [[Common Sense]]
 - [[Declaration of Independence]]
 
@@ -125,6 +127,8 @@ This explains the ideological and public-opinion bridge from armed conflict to d
 Sources:
 - [[Source - NPS Olive Branch Petition]]
 - [[Source - National Archives Olive Branch Petition]]
+- [[Source - US House King's Proclamation for Suppressing Rebellion]]
+- [[Source - American Battlefield Trust Lord Dunmore's Proclamation]]
 - [[Source - Constitution Center Common Sense]]
 
 ## 1776-07-04 - Declaration of Independence

@@ -12,7 +12,6 @@ related_events:
 related_forces:
   - Imperial Debt
   - British Imperial Debt
-  - Empire
 related_threads:
   - Thread - Empire
   - Thread - War and State Formation

@@ -31,15 +31,21 @@ flowchart LR
     TP["Thomas Paine"] --> CS["Common Sense"]
     CS --> DOI
     G3["George III"] --> OBP["Olive Branch Petition Fails"]
+    G3 --> REB["Rebellion Proclamation"]
     OBP --> DOI
+    REB --> DOI
     TG["Thomas Gage"] --> LC["Lexington and Concord"]
     BA["British Army"] --> LC
     MM["Massachusetts Militia"] --> LC
     MPC["Massachusetts Provincial Congress"] --> MM
     LC --> CTA["Continental Army"]
     GW["George Washington"] --> CTA
+    CTA --> BH["Battle of Bunker Hill"]
     LC --> OBP
     LOY["Loyalists"] -. contests .-> PM
+    LD["Lord Dunmore"] --> DUN["Dunmore's Proclamation"]
+    DUN --> BL["Black Loyalists"]
+    DUN --> DOI
 
     BP -. conflicts with .-> CAS
     BE -. claims authority over .-> CAS

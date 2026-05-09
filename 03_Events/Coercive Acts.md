@@ -29,7 +29,10 @@ sources:
   - Source - UK National Archives Boston Tea Party
   - Source - Bill of Rights Institute Coercive Acts
   - Source - Avalon Boston Port Act 1774
+  - Source - Avalon Massachusetts Government Act 1774
+  - Source - Avalon Administration of Justice Act 1774
   - Source - Avalon Quartering Act 1774
+  - Source - Avalon Quebec Act 1774
   - Source - Avalon Boston Committee Circular Letter 1774
   - Source - NPS April 19 1775
 ---
@@ -72,12 +75,15 @@ Punishment of one colony became a continental warning about imperial authority a
 - [[Massachusetts Provincial Congress]]
 
 ## Research Notes
-The Boston Port Act and Quartering Act now have primary-source notes. A later pass should add direct source notes for the Massachusetts Government Act, Administration of Justice Act, and Quebec Act context.
+The Boston Port Act, Massachusetts Government Act, Administration of Justice Act, Quartering Act, and Quebec Act context now have primary-source notes. A later pass should compare colonial use of "Intolerable Acts" against British legal framing.
 
 ## Sources
 - [[Source - UK National Archives Boston Tea Party]]
 - [[Source - Bill of Rights Institute Coercive Acts]]
 - [[Source - Avalon Boston Port Act 1774]]
+- [[Source - Avalon Massachusetts Government Act 1774]]
+- [[Source - Avalon Administration of Justice Act 1774]]
 - [[Source - Avalon Quartering Act 1774]]
+- [[Source - Avalon Quebec Act 1774]]
 - [[Source - Avalon Boston Committee Circular Letter 1774]]
 - [[Source - NPS April 19 1775]]

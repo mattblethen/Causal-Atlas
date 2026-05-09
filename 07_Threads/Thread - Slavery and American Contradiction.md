@@ -4,11 +4,14 @@ scope: american_history
 active_period: 1619-1865
 related_forces:
   - Slavery
-related_events: []
+related_events:
+  - Lord Dunmore's Proclamation
+  - Declaration of Independence
 related_people: []
 status: stub
 confidence: medium
-sources: []
+sources:
+  - Source - American Battlefield Trust Lord Dunmore's Proclamation
 ---
 
 # Thread - Slavery and American Contradiction
@@ -18,6 +21,7 @@ American claims about liberty, rights, and self-government developed alongside s
 
 ## Major Manifestations
 - [[Declaration of Independence]]
+- [[Lord Dunmore's Proclamation]]
 
 ## Timeline
 -
@@ -36,4 +40,4 @@ American claims about liberty, rights, and self-government developed alongside s
 This thread should be revisited across the Revolution, Constitution, expansion, Civil War, Reconstruction, and Civil Rights modules.
 
 ## Sources
--
+- [[Source - American Battlefield Trust Lord Dunmore's Proclamation]]

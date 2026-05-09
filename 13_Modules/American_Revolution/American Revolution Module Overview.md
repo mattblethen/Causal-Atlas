@@ -23,9 +23,12 @@ Build the first proof-of-concept causal module for Causal Atlas: a sourced, link
 10. [[First Continental Congress]]
 11. [[Continental Association]]
 12. [[Lexington and Concord]]
-13. [[Olive Branch Petition]]
-14. [[Common Sense]]
-15. [[Declaration of Independence]]
+13. [[Battle of Bunker Hill]]
+14. [[Olive Branch Petition]]
+15. [[Proclamation for Suppressing Rebellion and Sedition]]
+16. [[Lord Dunmore's Proclamation]]
+17. [[Common Sense]]
+18. [[Declaration of Independence]]
 
 ## Core Forces
 - [[Imperial Debt]]

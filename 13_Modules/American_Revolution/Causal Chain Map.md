@@ -19,8 +19,11 @@ flowchart TD
     I --> J["First Continental Congress"]
     J --> O["Continental Association"]
     O --> P["Lexington and Concord"]
-    P --> Q["Olive Branch Petition"]
-    Q --> R["Common Sense"]
+    P --> T["Battle of Bunker Hill"]
+    T --> Q["Olive Branch Petition"]
+    Q --> U["Proclamation for Suppressing Rebellion and Sedition"]
+    U --> V["Lord Dunmore's Proclamation"]
+    V --> R["Common Sense"]
     R --> S["Declaration of Independence"]
 
     B -. manifests .-> K["Imperial Debt"]

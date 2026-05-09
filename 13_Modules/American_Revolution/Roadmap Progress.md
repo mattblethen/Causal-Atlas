@@ -8,13 +8,13 @@ updated: 2026-05-09
 # Roadmap Progress
 
 ## Whole Vault Roadmap Estimate
-Approximate completion: **6%**
+Approximate completion: **7%**
 
 ## Basis
-The full roadmap includes the American Revolution proof of concept, later American history modules, later world history modules, source notes, actor notes, people notes, logs, maps, and future expansions. The vault now has the first module's researched causal spine, first bridge-event layer, first source spine, first logs, first force expansion, people and actor notes for the main early actors, and causal, pressure, actor, and timeline maps.
+The full roadmap includes the American Revolution proof of concept, later American history modules, later world history modules, source notes, actor notes, people notes, logs, maps, and future expansions. The vault now has the first module's researched causal spine, first bridge-event layer, stronger Coercive Acts source packet, slavery/Black Loyalist entry points, first logs, first force expansion, people and actor notes for the main early actors, and causal, pressure, actor, and timeline maps.
 
 ## American Revolution Module Estimate
-Approximate completion: **42%**
+Approximate completion: **50%**
 
 ## Completed
 - Source spine for the core causal chain
@@ -27,12 +27,14 @@ Approximate completion: **42%**
 - Causal, pressure, and actor map scaffolds
 - Remaining early actor notes
 - Timeline zoom view
+- Primary-source packet for the Coercive Acts
+- Initial slavery/Black Loyalist integration through Dunmore's Proclamation
+- Additional people notes for John Hancock, Paul Revere, Mercy Otis Warren, Abigail Adams, Lord North, and Lord Dunmore
 
 ## Remaining
-- More primary sources for all Coercive Acts
 - Expanded military command and campaign notes after 1776
-- People notes for John Hancock, Paul Revere, Mercy Otis Warren, Abigail Adams, Lord North, and additional local actors
-- Deeper source expansion for Townshend Acts, Boston Massacre, committees of correspondence, Continental Association, Olive Branch Petition, and Common Sense
-- Slavery and Indigenous displacement integration
+- Additional people notes for local actors, women writers/correspondents, Black Loyalists, Indigenous leaders, British commanders, and parliamentary figures
+- Deeper source expansion for Townshend Acts, Boston Massacre, committees of correspondence, Continental Association, Olive Branch Petition, Common Sense, and Black Loyalists
+- Further slavery and Indigenous displacement integration
 - Scholarly interpretation pass
-- Timeline zoom view
+- Siege and evacuation of Boston

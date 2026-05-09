@@ -23,7 +23,10 @@ status: scaffold
 - [[First Continental Congress]]
 - [[Continental Association]]
 - [[Lexington and Concord]]
+- [[Battle of Bunker Hill]]
 - [[Olive Branch Petition]]
+- [[Proclamation for Suppressing Rebellion and Sedition]]
+- [[Lord Dunmore's Proclamation]]
 - [[Common Sense]]
 - [[Declaration of Independence]]
 

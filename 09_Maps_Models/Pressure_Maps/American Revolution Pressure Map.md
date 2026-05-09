@@ -33,9 +33,13 @@ flowchart TD
     I --> M["First Continental Congress"]
     M --> U["Continental Association"]
     U --> N["Lexington and Concord"]
-    N --> V["Olive Branch Petition"]
-    V --> W["Common Sense"]
+    N --> X["Battle of Bunker Hill"]
+    X --> V["Olive Branch Petition"]
+    V --> Y["Proclamation for Suppressing Rebellion and Sedition"]
+    Y --> W["Common Sense"]
     W --> O["Declaration of Independence"]
+    Z["Slavery"] --> AA["Lord Dunmore's Proclamation"]
+    AA --> O
 
     P["Atlantic Trade"] --> G
     Q["Mercantilism"] --> G

@@ -130,6 +130,30 @@ Consequences:
 Sources:
 - [[Source - NPS Washington Appointment Commander in Chief]]
 
+## 1775 - Dunmore offers freedom to enslaved people held by rebels
+
+Decision:
+Lord Dunmore declared martial law in Virginia and offered freedom to enslaved people held by rebels if they joined British forces.
+
+Why it mattered:
+The decision weaponized the contradiction between Patriot liberty claims and slavery, while opening a dangerous but real route toward freedom for enslaved people.
+
+Priority conflict:
+- British military strategy and royal authority versus Patriot slaveholding society and enslaved people's pursuit of freedom.
+
+Alternatives:
+- Avoid emancipation policy and rely on conventional military manpower.
+- Offer broader emancipation beyond rebel-held enslaved people.
+- Negotiate with Patriot slaveholders rather than threatening their labor system.
+
+Consequences:
+- [[Lord Dunmore's Proclamation]]
+- [[Black Loyalists]]
+- [[Thread - Slavery and American Contradiction]]
+
+Sources:
+- [[Source - American Battlefield Trust Lord Dunmore's Proclamation]]
+
 ## 1776 - Congress adopts independence
 
 Decision:

@@ -20,7 +20,7 @@ Use this to track what Codex or a human researcher should fill next.
 - [x] Stamp Act primary text and colonial responses
 - [x] Tea Act and East India Company context
 - [x] Boston Tea Party primary/near-contemporary accounts
-- [ ] Coercive Acts primary texts
+- [x] Coercive Acts primary texts
 - [x] First Continental Congress records
 - [x] Lexington and Concord primary/near-contemporary accounts
 - [x] Declaration of Independence drafts, final text, and drafting context
@@ -51,10 +51,15 @@ Use this to track what Codex or a human researcher should fill next.
 - [x] Samuel Adams
 - [x] John Dickinson
 - [x] Joseph Warren
+- [x] John Hancock
+- [x] Paul Revere
+- [x] Mercy Otis Warren
+- [x] Abigail Adams
+- [x] Lord North
+- [x] Lord Dunmore
 - [ ] George Washington expanded military command pass
-- [ ] John Hancock
-- [ ] Paul Revere
-- [ ] Mercy Otis Warren
+- [ ] Black Loyalists expanded actor/source pass
+- [ ] Indigenous leaders and nations in the Revolution
 
 ## American Revolution Map Outputs
 - [x] Causal map: war debt to independence
@@ -68,10 +73,12 @@ Use this to track what Codex or a human researcher should fill next.
 - [ ] Where did colonial resistance defend older British rights versus develop new revolutionary claims?
 - [ ] How should the module represent slavery and Indigenous displacement without forcing them into every event note?
 - [ ] Which causal links are direct enough for `Led To`, and which should remain contextual in `Research Notes`?
+- [ ] Build deeper Black Loyalists source packet beyond Dunmore's Proclamation.
+- [ ] Add siege and evacuation of Boston event notes.
 
 ## Roadmap Completion Estimate
-- Whole vault roadmap: approximately 6% complete as of 2026-05-09.
-- American Revolution module: approximately 42% complete.
+- Whole vault roadmap: approximately 7% complete as of 2026-05-09.
+- American Revolution module: approximately 50% complete.
 
 ## Next American History Modules
 - [ ] Constitution and Early Republic

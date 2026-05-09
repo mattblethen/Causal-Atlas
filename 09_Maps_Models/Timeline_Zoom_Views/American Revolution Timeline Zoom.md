@@ -35,8 +35,11 @@ sources:
 
 ## 1775 - Armed Conflict and Failed Reconciliation
 - [[Lexington and Concord]]
+- [[Battle of Bunker Hill]]
 - [[Continental Army]]
 - [[Olive Branch Petition]]
+- [[Proclamation for Suppressing Rebellion and Sedition]]
+- [[Lord Dunmore's Proclamation]]
 
 ## 1776 - Public Independence
 - [[Common Sense]]
@@ -46,3 +49,4 @@ sources:
 - This timeline is a navigational zoom view, not a complete chronology.
 - Each entry should eventually link to source notes and maps.
 - Later passes should add the Proclamation of 1763, Declaratory Act, Boston Non-Importation Agreement, Gaspee Affair, Bunker Hill, Proclamation for Suppressing Rebellion and Sedition, and the siege of Boston.
+- Later passes should add the Proclamation of 1763, Declaratory Act, Boston Non-Importation Agreement, Gaspee Affair, and the siege/evacuation of Boston.

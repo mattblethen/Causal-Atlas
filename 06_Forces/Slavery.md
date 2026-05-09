@@ -7,6 +7,7 @@ threads:
   - Slavery and American Contradiction
 manifestations:
   - Colonial Political Economy
+  - Lord Dunmore's Proclamation
 opposed_by: []
 intensified_by:
   - Atlantic Trade
@@ -25,6 +26,7 @@ Enslaved labor and racialized legal power shaped colonial wealth, political inte
 
 ## Manifested As
 - [[Colonial Political Economy]]
+- [[Lord Dunmore's Proclamation]]
 
 ## Deeper Roots
 - [[Atlantic Trade]]
@@ -39,4 +41,5 @@ Enslaved labor and racialized legal power shaped colonial wealth, political inte
 Created a central contradiction between revolutionary rights language and systems of bondage, exclusion, and racial hierarchy.
 
 ## Sources
--
+- [[Source - American Battlefield Trust Lord Dunmore's Proclamation]]
+- [[Source - NARA Native Americans and American Revolution]]
