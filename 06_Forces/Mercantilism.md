@@ -7,6 +7,8 @@ threads:
   - Empire
 manifestations:
   - Navigation Acts
+  - Sugar Act
+  - Gaspee Affair
   - Tea Act
 opposed_by:
   - Colonial Autonomy
@@ -27,6 +29,8 @@ Empires regulated trade to strengthen state power, protect favored commercial in
 
 ## Manifested As
 - [[Navigation Acts]]
+- [[Sugar Act]]
+- [[Gaspee Affair]]
 - [[Tea Act]]
 
 ## Deeper Roots

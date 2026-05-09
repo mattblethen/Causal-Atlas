@@ -29,6 +29,24 @@ Sources:
 - [[Source - Avalon Treaty of Paris 1763]]
 - [[Source - LOC American Revolution Primary Source Timeline]]
 
+## 1763-1764 - Proclamation and Sugar Act
+
+What happened:
+Britain organized its enlarged empire after the Seven Years' War, regulated western settlement, and began using revenue and customs measures to manage postwar costs.
+
+Related:
+- [[Royal Proclamation of 1763]]
+- [[Sugar Act]]
+- [[British Imperial Debt]]
+
+Why it matters:
+The postwar imperial project began before the Stamp Act and included land, Indigenous relations, revenue, trade, and administration.
+
+Sources:
+- [[Source - Wikisource Royal Proclamation 1763]]
+- [[Source - Avalon Sugar Act 1764]]
+- [[Source - LOC British Reforms and Colonial Resistance 1763-1766]]
+
 ## 1765-03-22 - Stamp Act
 
 What happened:
@@ -44,6 +62,7 @@ The act made imperial taxation a direct colonial rights conflict.
 Sources:
 - [[Source - American Battlefield Trust Stamp Act 1765]]
 - [[Source - UK National Archives Stamp Act Resistance Source]]
+- [[Source - American Battlefield Trust Declaratory Act 1766]]
 
 ## 1767-1770 - Townshend Acts and Boston Massacre
 
@@ -61,6 +80,7 @@ Sources:
 - [[Source - LOC British Reforms and Colonial Resistance 1767-1772]]
 - [[Source - American Battlefield Trust Townshend Act 1767]]
 - [[Source - LOC Short Narrative of the Boston Massacre]]
+- [[Source - Rhode Island Historical Society Burning of the Gaspee]]
 
 ## 1773-12-16 - Boston Tea Party
 
@@ -108,6 +128,8 @@ The imperial crisis became open war.
 
 Sources:
 - [[Source - NPS April 19 1775]]
+- [[Source - NPS Siege of Boston Overview]]
+- [[Source - NPS Evacuation of Boston 1776]]
 
 ## 1775-1776 - Failed Reconciliation and Public Independence Argument
 

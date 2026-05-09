@@ -16,14 +16,19 @@ sources:
 ## 1754-1763 - War and Imperial Expansion
 - [[Seven Years' War]]
 - [[British Imperial Debt]]
+- [[Royal Proclamation of 1763]]
 
 ## 1763-1766 - First Postwar Revenue Crisis
+- [[Sugar Act]]
 - [[Stamp Act]]
+- [[Quartering Act]]
+- [[Declaratory Act]]
 - [[Colonial Resistance]]
 
 ## 1767-1772 - Customs, Troops, and Public Opinion
 - [[Townshend Acts]]
 - [[Boston Massacre]]
+- [[Gaspee Affair]]
 - [[Committees of Correspondence]]
 
 ## 1773-1774 - Tea, Punishment, and Continental Coordination
@@ -40,6 +45,8 @@ sources:
 - [[Olive Branch Petition]]
 - [[Proclamation for Suppressing Rebellion and Sedition]]
 - [[Lord Dunmore's Proclamation]]
+- [[Siege of Boston]]
+- [[Evacuation of Boston]]
 
 ## 1776 - Public Independence
 - [[Common Sense]]
@@ -48,5 +55,4 @@ sources:
 ## Notes
 - This timeline is a navigational zoom view, not a complete chronology.
 - Each entry should eventually link to source notes and maps.
-- Later passes should add the Proclamation of 1763, Declaratory Act, Boston Non-Importation Agreement, Gaspee Affair, Bunker Hill, Proclamation for Suppressing Rebellion and Sedition, and the siege of Boston.
-- Later passes should add the Proclamation of 1763, Declaratory Act, Boston Non-Importation Agreement, Gaspee Affair, and the siege/evacuation of Boston.
+- Later passes should add the Boston Non-Importation Agreement, Henry Knox and the artillery train, Dorchester Heights, responses to the Proclamation for Suppressing Rebellion and Sedition, and evacuation refugee experiences.

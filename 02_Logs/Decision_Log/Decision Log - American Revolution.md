@@ -11,6 +11,30 @@ sources:
 
 # Decision Log - American Revolution
 
+## 1763 - Britain regulates western settlement after victory
+
+Decision:
+The Crown issued the Royal Proclamation of 1763 to organize new territories and regulate western settlement after the Seven Years' War.
+
+Why it mattered:
+The decision exposed tensions between imperial administration, Indigenous sovereignty, and colonial land hunger.
+
+Priority conflict:
+- Imperial stabilization and Indigenous diplomacy versus colonial expansion and land speculation.
+
+Alternatives:
+- Permit unrestricted colonial settlement west of the Appalachians.
+- Negotiate separate colony-by-colony western policies.
+- Rely on military enforcement without a formal boundary policy.
+
+Consequences:
+- [[Royal Proclamation of 1763]]
+- [[Thread - Indigenous Displacement]]
+
+Sources:
+- [[Source - Wikisource Royal Proclamation 1763]]
+- [[Source - NARA Native Americans and American Revolution]]
+
 ## 1765 - Parliament chooses direct colonial taxation
 
 Decision:

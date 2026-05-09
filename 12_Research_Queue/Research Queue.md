@@ -17,6 +17,7 @@ Use this to track what Codex or a human researcher should fill next.
 ## American Revolution Source Spine
 - [x] Seven Years' War settlement sources
 - [x] British imperial debt and taxation sources
+- [x] Royal Proclamation, Sugar Act, Quartering Act, and Declaratory Act sources
 - [x] Stamp Act primary text and colonial responses
 - [x] Tea Act and East India Company context
 - [x] Boston Tea Party primary/near-contemporary accounts
@@ -74,11 +75,13 @@ Use this to track what Codex or a human researcher should fill next.
 - [ ] How should the module represent slavery and Indigenous displacement without forcing them into every event note?
 - [ ] Which causal links are direct enough for `Led To`, and which should remain contextual in `Research Notes`?
 - [ ] Build deeper Black Loyalists source packet beyond Dunmore's Proclamation.
-- [ ] Add siege and evacuation of Boston event notes.
+- [x] Add siege and evacuation of Boston event notes.
+- [ ] Add Henry Knox, artillery train, and Dorchester Heights notes.
+- [ ] Add Boston Non-Importation Agreement note.
 
 ## Roadmap Completion Estimate
-- Whole vault roadmap: approximately 7% complete as of 2026-05-09.
-- American Revolution module: approximately 50% complete.
+- Whole vault roadmap: approximately 8% complete as of 2026-05-09.
+- American Revolution module: approximately 58% complete.
 
 ## Next American History Modules
 - [ ] Constitution and Early Republic

@@ -7,6 +7,7 @@ sources:
   - Source - LOC Journals of the Continental Congress
   - Source - UK National Archives Boston Tea Party
   - Source - Avalon Boston Committee Circular Letter 1774
+  - Source - Rhode Island Historical Society Burning of the Gaspee
   - Source - NPS Washington Appointment Commander in Chief
   - Source - NPS Rebellion Minute Man
 ---
@@ -16,9 +17,13 @@ sources:
 ```mermaid
 flowchart LR
     BE["British Empire"] --> BP["British Parliament"]
+    BP --> SUG["Sugar Act"]
     BP --> SA["Stamp Act"]
+    BP --> DA["Declaratory Act"]
     BP --> TA["Tea Act"]
     BP --> COA["Coercive Acts"]
+    BP --> BCE["British Customs Enforcement"]
+    BCE --> GAS["Gaspee Affair"]
     TA --> EIC["East India Company"]
     COA --> BOS["Boston / Massachusetts"]
 
@@ -41,6 +46,8 @@ flowchart LR
     LC --> CTA["Continental Army"]
     GW["George Washington"] --> CTA
     CTA --> BH["Battle of Bunker Hill"]
+    CTA --> SB["Siege of Boston"]
+    SB --> EB["Evacuation of Boston"]
     LC --> OBP
     LOY["Loyalists"] -. contests .-> PM
     LD["Lord Dunmore"] --> DUN["Dunmore's Proclamation"]
@@ -62,5 +69,6 @@ flowchart LR
 - [[Source - LOC Journals of the Continental Congress]]
 - [[Source - UK National Archives Boston Tea Party]]
 - [[Source - Avalon Boston Committee Circular Letter 1774]]
+- [[Source - Rhode Island Historical Society Burning of the Gaspee]]
 - [[Source - NPS Washington Appointment Commander in Chief]]
 - [[Source - NPS Rebellion Minute Man]]

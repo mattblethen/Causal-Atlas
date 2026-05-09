@@ -14,9 +14,14 @@ status: scaffold
 ## Imperial Tension and Revolution
 - [[Seven Years' War]]
 - [[British Imperial Debt]]
+- [[Royal Proclamation of 1763]]
+- [[Sugar Act]]
 - [[Stamp Act]]
+- [[Quartering Act]]
+- [[Declaratory Act]]
 - [[Townshend Acts]]
 - [[Boston Massacre]]
+- [[Gaspee Affair]]
 - [[Tea Act]]
 - [[Boston Tea Party]]
 - [[Coercive Acts]]
@@ -28,6 +33,8 @@ status: scaffold
 - [[Proclamation for Suppressing Rebellion and Sedition]]
 - [[Lord Dunmore's Proclamation]]
 - [[Common Sense]]
+- [[Siege of Boston]]
+- [[Evacuation of Boston]]
 - [[Declaration of Independence]]
 
 ## Constitution and Early Republic

@@ -10,9 +10,14 @@ Events are visible historical moments where deeper forces become observable.
 ## American Revolution Starter Chain
 - [[Seven Years' War]]
 - [[British Imperial Debt]]
+- [[Royal Proclamation of 1763]]
+- [[Sugar Act]]
 - [[Stamp Act]]
+- [[Quartering Act]]
+- [[Declaratory Act]]
 - [[Townshend Acts]]
 - [[Boston Massacre]]
+- [[Gaspee Affair]]
 - [[Colonial Resistance]]
 - [[Tea Act]]
 - [[Boston Tea Party]]
@@ -25,6 +30,8 @@ Events are visible historical moments where deeper forces become observable.
 - [[Proclamation for Suppressing Rebellion and Sedition]]
 - [[Lord Dunmore's Proclamation]]
 - [[Common Sense]]
+- [[Siege of Boston]]
+- [[Evacuation of Boston]]
 - [[Declaration of Independence]]
 
 ## Event Readiness Checklist

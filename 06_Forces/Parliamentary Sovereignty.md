@@ -9,6 +9,7 @@ threads:
 manifestations:
   - Stamp Act
   - Declaratory Act
+  - Townshend Acts
   - Coercive Acts
 opposed_by:
   - Colonial Autonomy
@@ -30,6 +31,7 @@ The claim that Parliament held ultimate legislative authority over the empire, i
 ## Manifested As
 - [[Stamp Act]]
 - [[Declaratory Act]]
+- [[Townshend Acts]]
 - [[Coercive Acts]]
 
 ## Deeper Roots

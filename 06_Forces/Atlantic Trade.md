@@ -6,6 +6,8 @@ scale: global
 threads:
   - Empire
 manifestations:
+  - Sugar Act
+  - Gaspee Affair
   - Tea Act
   - Boston Tea Party
 opposed_by: []
@@ -25,6 +27,8 @@ The movement of goods, capital, labor, and coercive power across the Atlantic sh
 - Early modern Atlantic world, especially relevant to the American Revolution module from 1763-1776.
 
 ## Manifested As
+- [[Sugar Act]]
+- [[Gaspee Affair]]
 - [[Tea Act]]
 - [[Boston Tea Party]]
 

@@ -6,6 +6,7 @@ related_forces:
   - Colonial Autonomy
 related_events:
   - Seven Years' War
+  - Royal Proclamation of 1763
   - Declaration of Independence
 related_people: []
 status: stub
@@ -21,6 +22,7 @@ Colonial and later United States expansion repeatedly converted Indigenous land,
 
 ## Major Manifestations
 - [[Seven Years' War]]
+- [[Royal Proclamation of 1763]]
 - [[Declaration of Independence]]
 
 ## Timeline

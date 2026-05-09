@@ -13,6 +13,7 @@ Actors include groups, institutions, assemblies, movements, and organized intere
 - [[Continental Congress]]
 - [[Sons of Liberty]]
 - [[East India Company]]
+- [[British Customs Enforcement]]
 - [[Massachusetts Provincial Congress]]
 - [[Colonial Assemblies]]
 - [[Patriot Movement]]
@@ -21,6 +22,7 @@ Actors include groups, institutions, assemblies, movements, and organized intere
 - [[Massachusetts Militia]]
 - [[Continental Army]]
 - [[Black Loyalists]]
+- [[British Customs Enforcement]]
 
 ## Researched First-Pass Actors
 - [[British Empire]]

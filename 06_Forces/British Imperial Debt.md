@@ -8,7 +8,9 @@ threads:
   - Thread - Taxation and Representation
   - Thread - War and State Formation
 manifestations:
+  - Sugar Act
   - Stamp Act
+  - Quartering Act
   - Tea Act
 opposed_by:
   - Colonial Autonomy
@@ -32,7 +34,9 @@ After the Seven Years' War, Britain faced the cost of victory, administration, d
 - Broader eighteenth-century British imperial finance remains a future expansion area.
 
 ## Manifested As
+- [[Sugar Act]]
 - [[Stamp Act]]
+- [[Quartering Act]]
 - [[Tea Act]]
 - [[Coercive Acts]]
 
