@@ -25,3 +25,4 @@ Use maps to show relationships that are hard to see in prose.
 - [[Causal Chain Map]]
 - [[American Revolution Pressure Map]]
 - [[American Revolution Actor Map]]
+- [[American Revolution Timeline Zoom]]

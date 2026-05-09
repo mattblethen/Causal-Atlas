@@ -14,6 +14,8 @@ People notes should explain historical function, priority stack, decisions, even
 - [[Thomas Paine]]
 - [[Samuel Adams]]
 - [[John Adams]]
+- [[John Dickinson]]
+- [[Joseph Warren]]
 - [[Thomas Jefferson]]
 - [[George Washington]]
 - [[Thomas Gage]]
@@ -26,6 +28,10 @@ People notes should explain historical function, priority stack, decisions, even
 - [[John Adams]]
 - [[Benjamin Franklin]]
 - [[Thomas Paine]]
+- [[George Washington]]
+- [[Samuel Adams]]
+- [[John Dickinson]]
+- [[Joseph Warren]]
 
 ## Use
 Create people notes only when they clarify a decision, priority conflict, institution, or causal chain.

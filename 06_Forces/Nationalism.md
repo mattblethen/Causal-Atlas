@@ -10,7 +10,7 @@ manifestations:
 opposed_by:
   - Empire
 intensified_by:
-  - War and State Formation
+  - Thread - War and State Formation
 status: stub
 confidence: medium
 sources: []

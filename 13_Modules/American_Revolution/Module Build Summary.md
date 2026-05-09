@@ -38,5 +38,5 @@ confidence: medium
 Complete actor notes and a pressure map for British debt, parliamentary sovereignty, colonial autonomy, mercantilism, and Atlantic trade before expanding individual event depth.
 
 ## Progress Estimate
-- Whole vault roadmap: about 5% complete.
-- American Revolution module: about 33% complete.
+- Whole vault roadmap: about 6% complete.
+- American Revolution module: about 42% complete.

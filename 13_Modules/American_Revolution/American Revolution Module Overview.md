@@ -56,6 +56,7 @@ Build the first proof-of-concept causal module for Causal Atlas: a sourced, link
 - [[Source Targets]]
 - [[Module Build Summary]]
 - [[Roadmap Progress]]
+- [[American Revolution Timeline Zoom]]
 - [[Research Standards]]
 - [[Vault Readiness Checklist]]
 

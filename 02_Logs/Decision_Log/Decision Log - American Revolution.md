@@ -103,6 +103,32 @@ Consequences:
 
 Sources:
 - [[Source - NPS April 19 1775]]
+- [[Source - NPS Rebellion Minute Man]]
+- [[Source - NPS Concord North Bridge]]
+
+## 1775 - Congress creates continental military command
+
+Decision:
+Congress created a Continental Army and appointed George Washington as Commander in Chief.
+
+Why it mattered:
+The decision converted local and provincial armed resistance into a continental military institution.
+
+Priority conflict:
+- Local militia autonomy versus the need for unified command.
+
+Alternatives:
+- Continue relying mostly on provincial militia.
+- Appoint a New England commander rather than a Virginian.
+- Delay continental military organization while pursuing reconciliation.
+
+Consequences:
+- [[Continental Army]]
+- [[George Washington]]
+- [[Olive Branch Petition]]
+
+Sources:
+- [[Source - NPS Washington Appointment Commander in Chief]]
 
 ## 1776 - Congress adopts independence
 

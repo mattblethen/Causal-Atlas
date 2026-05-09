@@ -8,13 +8,13 @@ updated: 2026-05-09
 # Roadmap Progress
 
 ## Whole Vault Roadmap Estimate
-Approximate completion: **5%**
+Approximate completion: **6%**
 
 ## Basis
-The full roadmap includes the American Revolution proof of concept, later American history modules, later world history modules, source notes, actor notes, people notes, logs, maps, and future expansions. The vault now has the first module's researched causal spine, first bridge-event layer, first source spine, first logs, first force expansion, first people notes, and first actor/pressure map layer.
+The full roadmap includes the American Revolution proof of concept, later American history modules, later world history modules, source notes, actor notes, people notes, logs, maps, and future expansions. The vault now has the first module's researched causal spine, first bridge-event layer, first source spine, first logs, first force expansion, people and actor notes for the main early actors, and causal, pressure, actor, and timeline maps.
 
 ## American Revolution Module Estimate
-Approximate completion: **33%**
+Approximate completion: **42%**
 
 ## Completed
 - Source spine for the core causal chain
@@ -25,11 +25,13 @@ Approximate completion: **33%**
 - First people notes
 - Bridge events between the Stamp Act and Declaration
 - Causal, pressure, and actor map scaffolds
+- Remaining early actor notes
+- Timeline zoom view
 
 ## Remaining
 - More primary sources for all Coercive Acts
-- Actor notes for Loyalists, Massachusetts Provincial Congress, British Army, and Massachusetts Militia
-- People notes for Samuel Adams, George Washington, John Dickinson, Joseph Warren, and additional local actors
+- Expanded military command and campaign notes after 1776
+- People notes for John Hancock, Paul Revere, Mercy Otis Warren, Abigail Adams, Lord North, and additional local actors
 - Deeper source expansion for Townshend Acts, Boston Massacre, committees of correspondence, Continental Association, Olive Branch Petition, and Common Sense
 - Slavery and Indigenous displacement integration
 - Scholarly interpretation pass

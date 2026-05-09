@@ -7,6 +7,8 @@ sources:
   - Source - LOC Journals of the Continental Congress
   - Source - UK National Archives Boston Tea Party
   - Source - Avalon Boston Committee Circular Letter 1774
+  - Source - NPS Washington Appointment Commander in Chief
+  - Source - NPS Rebellion Minute Man
 ---
 
 # American Revolution Actor Map
@@ -16,9 +18,9 @@ flowchart LR
     BE["British Empire"] --> BP["British Parliament"]
     BP --> SA["Stamp Act"]
     BP --> TA["Tea Act"]
-    BP --> CA["Coercive Acts"]
+    BP --> COA["Coercive Acts"]
     TA --> EIC["East India Company"]
-    CA --> BOS["Boston / Massachusetts"]
+    COA --> BOS["Boston / Massachusetts"]
 
     CAS["Colonial Assemblies"] --> CR["Colonial Resistance"]
     SOL["Sons of Liberty"] --> CR
@@ -31,7 +33,13 @@ flowchart LR
     G3["George III"] --> OBP["Olive Branch Petition Fails"]
     OBP --> DOI
     TG["Thomas Gage"] --> LC["Lexington and Concord"]
+    BA["British Army"] --> LC
+    MM["Massachusetts Militia"] --> LC
+    MPC["Massachusetts Provincial Congress"] --> MM
+    LC --> CTA["Continental Army"]
+    GW["George Washington"] --> CTA
     LC --> OBP
+    LOY["Loyalists"] -. contests .-> PM
 
     BP -. conflicts with .-> CAS
     BE -. claims authority over .-> CAS
@@ -48,3 +56,5 @@ flowchart LR
 - [[Source - LOC Journals of the Continental Congress]]
 - [[Source - UK National Archives Boston Tea Party]]
 - [[Source - Avalon Boston Committee Circular Letter 1774]]
+- [[Source - NPS Washington Appointment Commander in Chief]]
+- [[Source - NPS Rebellion Minute Man]]

@@ -33,13 +33,34 @@ Use this to track what Codex or a human researcher should fill next.
 - [x] Sons of Liberty
 - [x] Continental Congress
 - [x] Patriot Movement
-- [ ] Loyalists
+- [x] Loyalists
+- [x] Massachusetts Provincial Congress
+- [x] British Army
+- [x] Massachusetts Militia
+- [x] Continental Army
+
+## American Revolution People Notes
+- [x] George III
+- [x] George Grenville
+- [x] Thomas Gage
+- [x] Thomas Jefferson
+- [x] John Adams
+- [x] Benjamin Franklin
+- [x] Thomas Paine
+- [x] George Washington
+- [x] Samuel Adams
+- [x] John Dickinson
+- [x] Joseph Warren
+- [ ] George Washington expanded military command pass
+- [ ] John Hancock
+- [ ] Paul Revere
+- [ ] Mercy Otis Warren
 
 ## American Revolution Map Outputs
 - [x] Causal map: war debt to independence
 - [x] Pressure map: debt, sovereignty, trade, autonomy
 - [x] Actor map: British institutions, colonial assemblies, resistance networks
-- [ ] Timeline zoom: 1754-1776
+- [x] Timeline zoom: 1754-1776
 
 ## Open Research Questions
 - [ ] What debt figures are most defensible for Britain before and after the Seven Years' War?
@@ -49,8 +70,8 @@ Use this to track what Codex or a human researcher should fill next.
 - [ ] Which causal links are direct enough for `Led To`, and which should remain contextual in `Research Notes`?
 
 ## Roadmap Completion Estimate
-- Whole vault roadmap: approximately 5% complete as of 2026-05-09.
-- American Revolution module: approximately 33% complete.
+- Whole vault roadmap: approximately 6% complete as of 2026-05-09.
+- American Revolution module: approximately 42% complete.
 
 ## Next American History Modules
 - [ ] Constitution and Early Republic

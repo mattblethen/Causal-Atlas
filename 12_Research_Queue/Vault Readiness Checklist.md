@@ -26,6 +26,7 @@ status: active
 - [x] Logs populated
 - [x] Maps revised with evidence
 - [x] Module build summary written
+- [x] Timeline zoom view created
 
 ## Source Discipline
 - [ ] Each major claim has a source

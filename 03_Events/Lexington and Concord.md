@@ -27,6 +27,8 @@ status: researched
 confidence: medium
 sources:
   - Source - NPS April 19 1775
+  - Source - NPS Concord North Bridge
+  - Source - NPS Rebellion Minute Man
 ---
 
 # 1775-04-19 - Lexington and Concord
@@ -72,3 +74,5 @@ The first shot remains interpretively uncertain and should not be asserted witho
 
 ## Sources
 - [[Source - NPS April 19 1775]]
+- [[Source - NPS Concord North Bridge]]
+- [[Source - NPS Rebellion Minute Man]]

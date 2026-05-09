@@ -67,6 +67,7 @@ Military occupation, street conflict, legal controversy, and political print cul
 - [[British Army]]
 - [[Patriot Movement]]
 - [[Samuel Adams]]
+- [[Joseph Warren]]
 
 ## Research Notes
 This note should not treat colonial propaganda as neutral fact. A deeper pass should add trial records, soldier perspectives, and Paul Revere's engraving.

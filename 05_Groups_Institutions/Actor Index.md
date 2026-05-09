@@ -17,6 +17,9 @@ Actors include groups, institutions, assemblies, movements, and organized intere
 - [[Colonial Assemblies]]
 - [[Patriot Movement]]
 - [[Loyalists]]
+- [[British Army]]
+- [[Massachusetts Militia]]
+- [[Continental Army]]
 
 ## Researched First-Pass Actors
 - [[British Empire]]
@@ -26,6 +29,11 @@ Actors include groups, institutions, assemblies, movements, and organized intere
 - [[Continental Congress]]
 - [[Colonial Assemblies]]
 - [[Patriot Movement]]
+- [[Loyalists]]
+- [[Massachusetts Provincial Congress]]
+- [[British Army]]
+- [[Massachusetts Militia]]
+- [[Continental Army]]
 
 ## Use
 Actor notes should make priorities visible. A good actor note answers what the actor was trying to preserve, control, expand, or resist.
