@@ -15,6 +15,7 @@ manifestations:
   - Boston Massacre Aftermath
   - Boston Massacre Trials
   - Local Association Enforcement
+  - Declaration of the Causes and Necessity of Taking Up Arms
 opposed_by: []
 intensified_by:
   - Enlightenment Thought
@@ -27,6 +28,7 @@ sources:
   - Source - MHS Boston Pamphlet 1772
   - Source - Mount Vernon Committees of Correspondence
   - Source - LOC New York Committee Observation 1775
+  - Source - LOC Declaration Causes Broadside 1775
   - Source - LOC Revere Bloody Massacre Engraving
   - Source - MHS Fair Account Boston Massacre
   - Source - LOC Wemms Trial Transcript
@@ -50,6 +52,7 @@ Communication technologies and publishing networks shape public opinion, coordin
 - [[Boston Massacre Aftermath]]
 - [[Boston Massacre Trials]]
 - [[Local Association Enforcement]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
 - [[Declaration of Independence]]
 
 ## Deeper Roots
@@ -71,6 +74,7 @@ Helps explain how local grievances become shared political causes across distanc
 - [[Source - MHS Boston Pamphlet 1772]]
 - [[Source - Mount Vernon Committees of Correspondence]]
 - [[Source - LOC New York Committee Observation 1775]]
+- [[Source - LOC Declaration Causes Broadside 1775]]
 - [[Source - LOC Revere Bloody Massacre Engraving]]
 - [[Source - MHS Fair Account Boston Massacre]]
 - [[Source - LOC Wemms Trial Transcript]]

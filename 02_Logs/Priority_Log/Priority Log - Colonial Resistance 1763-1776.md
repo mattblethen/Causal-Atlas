@@ -23,6 +23,8 @@ sources:
   - Source - LOC Journals of the Continental Congress
   - Source - LOC Philipsburg Proclamation
   - Source - Avalon Townshend Revenue Act 1767
+  - Source - Founders Online Declaration Causes Taking Up Arms
+  - Source - Avalon Olive Branch Petition 1775
 ---
 
 # Priority Log - Colonial Resistance 1763-1776
@@ -60,6 +62,8 @@ Manifested In:
 - [[Boston Tea Party]]
 - [[First Continental Congress]]
 - [[Lexington and Concord]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
+- [[Olive Branch Petition]]
 - [[Lord Dunmore's Proclamation]]
 - [[Philipsburg Proclamation]]
 - [[Declaration of Independence]]
@@ -83,3 +87,5 @@ Sources:
 - [[Source - LOC Journals of the Continental Congress]]
 - [[Source - LOC Philipsburg Proclamation]]
 - [[Source - Avalon Townshend Revenue Act 1767]]
+- [[Source - Founders Online Declaration Causes Taking Up Arms]]
+- [[Source - Avalon Olive Branch Petition 1775]]

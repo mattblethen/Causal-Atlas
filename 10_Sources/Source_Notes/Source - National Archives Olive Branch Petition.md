@@ -9,6 +9,8 @@ url: https://visit.archives.gov/whats-on/explore-exhibits/olive-branch-petition
 accessed: 2026-05-09
 related_events:
   - Olive Branch Petition
+  - Proclamation for Suppressing Rebellion and Sedition
+  - Declaration of the Causes and Necessity of Taking Up Arms
   - Declaration of Independence
 related_forces:
   - Colonial Autonomy
@@ -35,6 +37,8 @@ National Archives Museum exhibit page on the Olive Branch Petition.
 
 ## Connected Notes
 - [[Olive Branch Petition]]
+- [[Proclamation for Suppressing Rebellion and Sedition]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
 - [[Declaration of Independence]]
 - [[George III]]
 

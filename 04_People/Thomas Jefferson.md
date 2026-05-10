@@ -21,13 +21,16 @@ confidence: medium
 sources:
   - Source - LOC Declaration of Independence Guide
   - Source - Founders Online Declaration Adopted by Congress
+  - Source - Founders Online Declaration Causes Taking Up Arms
+  - Source - Founders Online Declaration Causes Editorial Note
+  - Source - NPS Declaration Causes Taking Up Arms
   - Source - Avalon Virginia Committee Resolutions 1773
 ---
 
 # Thomas Jefferson
 
 ## Historical Function
-Thomas Jefferson drafted the Declaration of Independence within the congressional process. In this module, he represents the translation of grievances, rights claims, and independence into public political language.
+Thomas Jefferson helped translate grievances, rights claims, and independence into public political language. Before drafting the Declaration of Independence, he contributed to the committee process behind the Declaration of the Causes and Necessity of Taking Up Arms.
 
 ## Priority Stack
 1. Articulate the case for independence.
@@ -36,10 +39,12 @@ Thomas Jefferson drafted the Declaration of Independence within the congressiona
 
 ## Key Decisions
 - [[Committees of Correspondence]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
 - [[Declaration of Independence]]
 
 ## Events Involved In
 - [[Committees of Correspondence]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
 - [[Declaration of Independence]]
 
 ## Forces Embodied
@@ -57,4 +62,7 @@ Jefferson's rights language sits inside the larger contradiction between revolut
 ## Sources
 - [[Source - LOC Declaration of Independence Guide]]
 - [[Source - Founders Online Declaration Adopted by Congress]]
+- [[Source - Founders Online Declaration Causes Taking Up Arms]]
+- [[Source - Founders Online Declaration Causes Editorial Note]]
+- [[Source - NPS Declaration Causes Taking Up Arms]]
 - [[Source - Avalon Virginia Committee Resolutions 1773]]

@@ -18,13 +18,15 @@ confidence: medium
 sources:
   - Source - LOC Journals of the Continental Congress
   - Source - Founders Online Continental Association 1774
+  - Source - Founders Online Declaration Causes Taking Up Arms
+  - Source - Avalon Olive Branch Petition 1775
   - Source - LOC Declaration of Independence Guide
 ---
 
 # Continental Congress
 
 ## Function
-The Continental Congress coordinated colonial resistance, petitioned and addressed imperial authority, and eventually adopted independence.
+The Continental Congress coordinated colonial resistance, petitioned and addressed imperial authority, justified armed defense, and eventually adopted independence.
 
 ## Priority Stack
 1. Coordinate colonial response to imperial policy.
@@ -35,12 +37,16 @@ The Continental Congress coordinated colonial resistance, petitioned and address
 ## Key Decisions
 - [[First Continental Congress]]
 - [[Continental Association]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
+- [[Olive Branch Petition]]
 - [[Declaration of Independence]]
 
 ## Events Involved In
 - [[First Continental Congress]]
 - [[Continental Association]]
 - [[Lexington and Concord]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
+- [[Olive Branch Petition]]
 - [[Declaration of Independence]]
 
 ## Forces Embodied
@@ -56,4 +62,6 @@ Congress had to speak collectively for colonies with different interests, risk t
 ## Sources
 - [[Source - LOC Journals of the Continental Congress]]
 - [[Source - Founders Online Continental Association 1774]]
+- [[Source - Founders Online Declaration Causes Taking Up Arms]]
+- [[Source - Avalon Olive Branch Petition 1775]]
 - [[Source - LOC Declaration of Independence Guide]]

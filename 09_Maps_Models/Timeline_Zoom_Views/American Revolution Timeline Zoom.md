@@ -19,6 +19,9 @@ sources:
   - Source - Avalon Townshend Revenue Act 1767
   - Source - Britannica Townshend Acts Overview
   - Source - LOC Declaration of Independence Guide
+  - Source - Founders Online Declaration Causes Taking Up Arms
+  - Source - LOC Declaration Causes Broadside 1775
+  - Source - Avalon Olive Branch Petition 1775
 ---
 
 # American Revolution Timeline Zoom
@@ -69,6 +72,7 @@ sources:
 - [[Capture of Fort Ticonderoga]]
 - [[Battle of Bunker Hill]]
 - [[Continental Army]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
 - [[Olive Branch Petition]]
 - [[Proclamation for Suppressing Rebellion and Sedition]]
 - [[Lord Dunmore's Proclamation]]
@@ -88,4 +92,4 @@ sources:
 ## Notes
 - This timeline is a navigational zoom view, not a complete chronology.
 - Each entry should eventually link to source notes and maps.
-- Later passes should add responses to the Proclamation for Suppressing Rebellion and Sedition, regional Association enforcement comparisons, evacuation refugee experiences, and witness-by-witness comparison for the Boston Massacre pamphlet/trial packet.
+- Later passes should add responses to the Proclamation for Suppressing Rebellion and Sedition, regional Association enforcement comparisons, evacuation refugee experiences, Common Sense primary-text/circulation detail, and witness-by-witness comparison for the Boston Massacre pamphlet/trial packet.

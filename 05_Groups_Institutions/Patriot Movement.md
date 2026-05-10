@@ -22,6 +22,8 @@ sources:
   - Source - MHS Boston Pamphlet 1772
   - Source - Founders Online Continental Association 1774
   - Source - Founders Online Braintree Association 1775
+  - Source - Founders Online Declaration Causes Taking Up Arms
+  - Source - LOC Declaration Causes Broadside 1775
   - Source - Colonial Williamsburg Sons and Daughters of Liberty
   - Source - Britannica Nonimportation Agreements
 ---
@@ -46,6 +48,7 @@ The Patriot movement coordinated and justified resistance to imperial policy, gr
 - [[Continental Association]]
 - [[Local Association Enforcement]]
 - [[Lexington and Concord]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
 - [[Declaration of Independence]]
 
 ## Events Involved In
@@ -59,6 +62,7 @@ The Patriot movement coordinated and justified resistance to imperial policy, gr
 - [[Continental Association]]
 - [[Local Association Enforcement]]
 - [[Lexington and Concord]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
 - [[Declaration of Independence]]
 
 ## Forces Embodied
@@ -79,5 +83,7 @@ The movement used universal rights language while colonial society remained stru
 - [[Source - MHS Boston Pamphlet 1772]]
 - [[Source - Founders Online Continental Association 1774]]
 - [[Source - Founders Online Braintree Association 1775]]
+- [[Source - Founders Online Declaration Causes Taking Up Arms]]
+- [[Source - LOC Declaration Causes Broadside 1775]]
 - [[Source - Colonial Williamsburg Sons and Daughters of Liberty]]
 - [[Source - Britannica Nonimportation Agreements]]

@@ -43,6 +43,7 @@ Events are visible historical moments where deeper forces become observable.
 - [[Second Continental Congress]]
 - [[Capture of Fort Ticonderoga]]
 - [[Battle of Bunker Hill]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
 - [[Olive Branch Petition]]
 - [[Proclamation for Suppressing Rebellion and Sedition]]
 - [[Lord Dunmore's Proclamation]]

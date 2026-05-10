@@ -16,12 +16,17 @@ related_events:
   - First Continental Congress
   - Continental Association
   - Local Association Enforcement
+  - Declaration of the Causes and Necessity of Taking Up Arms
+  - Olive Branch Petition
+  - Proclamation for Suppressing Rebellion and Sedition
 status: stub
 confidence: medium
 sources:
   - Source - Avalon Virginia Committee Resolutions 1773
   - Source - Founders Online Continental Association 1774
   - Source - NCpedia Committees of Observation
+  - Source - Avalon Olive Branch Petition 1775
+  - Source - US House King's Proclamation for Suppressing Rebellion
 ---
 
 # Thread - Empire
@@ -42,6 +47,9 @@ Empires expand, administer territory, extract resources, justify authority, and 
 - [[Coercive Acts]]
 - [[Continental Association]]
 - [[Local Association Enforcement]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
+- [[Olive Branch Petition]]
+- [[Proclamation for Suppressing Rebellion and Sedition]]
 
 ## Timeline
 -
@@ -65,6 +73,8 @@ Empires expand, administer territory, extract resources, justify authority, and 
 - [[Continental Association]]
 - [[Local Association Enforcement]]
 - [[First Continental Congress]]
+- [[Olive Branch Petition]]
+- [[Proclamation for Suppressing Rebellion and Sedition]]
 
 ## Long-Term Consequences
 Empire links fiscal extraction, sovereignty claims, trade policy, resistance, and revolutionary rupture across the American Revolution module.
@@ -73,3 +83,5 @@ Empire links fiscal extraction, sovereignty claims, trade policy, resistance, an
 - [[Source - Avalon Virginia Committee Resolutions 1773]]
 - [[Source - Founders Online Continental Association 1774]]
 - [[Source - NCpedia Committees of Observation]]
+- [[Source - Avalon Olive Branch Petition 1775]]
+- [[Source - US House King's Proclamation for Suppressing Rebellion]]

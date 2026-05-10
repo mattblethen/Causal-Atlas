@@ -52,9 +52,13 @@ flowchart TD
     Q --> AE["Capture of Fort Ticonderoga"]
     AE --> AF["Knox Expedition"]
     Q --> R["Battle of Bunker Hill"]
+    AD --> RAA["Declaration of the Causes and Necessity of Taking Up Arms"]
+    R --> RAA
     R --> S["Olive Branch Petition"]
+    RAA --> T["Proclamation for Suppressing Rebellion and Sedition"]
     S --> T["Proclamation for Suppressing Rebellion and Sedition"]
     T --> U["Lord Dunmore's Proclamation"]
+    RAA --> V["Common Sense"]
     U --> V["Common Sense"]
     U --> UAA["Philipsburg Proclamation"]
     UAA --> UAB["Black Loyalist Evacuation"]
@@ -79,6 +83,6 @@ flowchart TD
 
 ## Map Notes
 - This is now a first-pass researched scaffold, not a final causal proof.
-- Strongest supported links so far: Seven Years' War -> British Imperial Debt -> Sugar Act/Stamp Act; Stamp Act -> Stamp Act Congress/nonimportation; Stamp Act -> Declaratory Act -> Townshend Acts/Townshend Revenue Act as a sovereignty and revenue sequence; Townshend Revenue Act -> Farmer letters/Circular Letter/nonimportation/customs conflict; Circular Letter/Liberty Affair -> occupation; occupation -> Boston Massacre -> aftermath/trials; Gaspee/committee networks -> First Continental Congress; Tea Act -> Boston Tea Party -> Coercive Acts; Coercive Acts -> First Continental Congress -> Continental Association -> local enforcement; Dunmore/Philipsburg freedom policies -> Black Loyalist evacuation.
+- Strongest supported links so far: Seven Years' War -> British Imperial Debt -> Sugar Act/Stamp Act; Stamp Act -> Stamp Act Congress/nonimportation; Stamp Act -> Declaratory Act -> Townshend Acts/Townshend Revenue Act as a sovereignty and revenue sequence; Townshend Revenue Act -> Farmer letters/Circular Letter/nonimportation/customs conflict; Circular Letter/Liberty Affair -> occupation; occupation -> Boston Massacre -> aftermath/trials; Gaspee/committee networks -> First Continental Congress; Tea Act -> Boston Tea Party -> Coercive Acts; Coercive Acts -> First Continental Congress -> Continental Association -> local enforcement; Lexington/Bunker Hill -> July 1775 petition and war-justification documents -> rebellion proclamation; Dunmore/Philipsburg freedom policies -> Black Loyalist evacuation.
 - Lexington and Concord remains source-backed as the transition into armed conflict, but the exact first-shot question is intentionally left unresolved.
 - Future passes should qualify direct, indirect, and disputed relationships with more specific primary sources.

@@ -16,6 +16,7 @@ manifestations:
   - Coercive Acts
   - Continental Association
   - Local Association Enforcement
+  - Proclamation for Suppressing Rebellion and Sedition
 opposed_by:
   - Colonial Autonomy
 intensified_by:
@@ -28,6 +29,7 @@ sources:
   - Source - NCpedia Committees of Observation
   - Source - MHS Wemms Trial Verdicts
   - Source - Avalon Townshend Revenue Act 1767
+  - Source - US House King's Proclamation for Suppressing Rebellion
 ---
 
 # Parliamentary Sovereignty
@@ -48,6 +50,7 @@ The claim that Parliament held ultimate legislative authority over the empire, i
 - [[Coercive Acts]]
 - [[Continental Association]]
 - [[Local Association Enforcement]]
+- [[Proclamation for Suppressing Rebellion and Sedition]]
 
 ## Deeper Roots
 - [[Thread - Empire]]
@@ -67,3 +70,4 @@ Turned revenue disputes into a broader constitutional conflict over authority, r
 - [[Source - NCpedia Committees of Observation]]
 - [[Source - MHS Wemms Trial Verdicts]]
 - [[Source - Avalon Townshend Revenue Act 1767]]
+- [[Source - US House King's Proclamation for Suppressing Rebellion]]

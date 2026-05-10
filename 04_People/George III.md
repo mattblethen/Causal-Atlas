@@ -15,6 +15,7 @@ status: researched
 confidence: medium
 sources:
   - Source - National Archives Olive Branch Petition
+  - Source - US House King's Proclamation for Suppressing Rebellion
 ---
 
 # George III
@@ -29,10 +30,12 @@ George III was the monarch to whom colonial petitions appealed and whose governm
 
 ## Key Decisions
 - [[Olive Branch Petition]]
+- [[Proclamation for Suppressing Rebellion and Sedition]]
 - [[Declaration of Independence]]
 
 ## Events Involved In
 - [[Olive Branch Petition]]
+- [[Proclamation for Suppressing Rebellion and Sedition]]
 - [[Declaration of Independence]]
 
 ## Forces Embodied
@@ -47,3 +50,4 @@ Colonists could frame themselves as loyal subjects while resisting Parliament, b
 
 ## Sources
 - [[Source - National Archives Olive Branch Petition]]
+- [[Source - US House King's Proclamation for Suppressing Rebellion]]

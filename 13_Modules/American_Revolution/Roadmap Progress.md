@@ -8,13 +8,13 @@ updated: 2026-05-09
 # Roadmap Progress
 
 ## Whole Vault Roadmap Estimate
-Approximate completion: **16%**
+Approximate completion: **17%**
 
 ## Basis
-The full roadmap includes the American Revolution proof of concept, later American history modules, later world history modules, source notes, actor notes, people notes, logs, maps, and future expansions. The vault now has the first module's researched causal spine, postwar policy roots, first bridge-event layer, stronger Townshend and Coercive Acts source packets, Boston occupation, Massacre aftermath, and Massacre trial layers, committees of correspondence and Association enforcement layer with local case studies, Boston siege endpoint with Ticonderoga/Knox/Dorchester mechanics, a Black Loyalist packet from Dunmore through Philipsburg and the 1783 evacuation, resistance infrastructure from the Stamp Act Congress through nonimportation and homespun, first logs, first force expansion, people and actor notes for the main early actors, and causal, pressure, actor, and timeline maps.
+The full roadmap includes the American Revolution proof of concept, later American history modules, later world history modules, source notes, actor notes, people notes, logs, maps, and future expansions. The vault now has the first module's researched causal spine, postwar policy roots, first bridge-event layer, stronger Townshend and Coercive Acts source packets, Boston occupation, Massacre aftermath, and Massacre trial layers, committees of correspondence and Association enforcement layer with local case studies, Boston siege endpoint with Ticonderoga/Knox/Dorchester mechanics, a Black Loyalist packet from Dunmore through Philipsburg and the 1783 evacuation, resistance infrastructure from the Stamp Act Congress through nonimportation and homespun, a July 1775 Olive Branch/Declaration of Causes reconciliation packet, first logs, first force expansion, people and actor notes for the main early actors, and causal, pressure, actor, and timeline maps.
 
 ## American Revolution Module Estimate
-Approximate completion: **88%**
+Approximate completion: **90%**
 
 ## Completed
 - Source spine for the core causal chain
@@ -45,11 +45,12 @@ Approximate completion: **88%**
 - Local Association Enforcement process note with Braintree, North Carolina, and New York committee examples
 - Committees of Safety actor note added as the bridge from boycott enforcement toward local governance and militia readiness
 - Black Loyalists expanded with Philipsburg Proclamation, Book of Negroes, and Black Loyalist evacuation source/event layer
+- Olive Branch Petition and Declaration of the Causes and Necessity of Taking Up Arms packet added with Avalon, Founders Online, NPS, and LOC source notes
 
 ## Remaining
 - Expanded military command and campaign notes after 1776
 - Additional people notes for local actors, women writers/correspondents, Black Loyalist individuals, Indigenous leaders, British commanders, and parliamentary figures
-- Deeper source expansion for regional committee-of-safety comparisons, Olive Branch Petition, and Common Sense
+- Deeper source expansion for regional committee-of-safety comparisons and Common Sense
 - Further slavery and Indigenous displacement integration
 - Scholarly interpretation pass
 - Washington command expansion after Boston

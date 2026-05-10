@@ -16,6 +16,7 @@ manifestations:
   - Boston Massacre
   - Boston Massacre Trials
   - First Continental Congress
+  - Declaration of the Causes and Necessity of Taking Up Arms
 opposed_by:
   - Parliamentary Sovereignty
 intensified_by:
@@ -27,6 +28,7 @@ sources:
   - Source - Avalon Virginia Committee Resolutions 1773
   - Source - Founders Online Continental Association 1774
   - Source - Founders Online Braintree Association 1775
+  - Source - Founders Online Declaration Causes Taking Up Arms
   - Source - NCpedia Committees of Safety Primary Source
   - Source - MHS Adams Argument Wemms Trial
 ---
@@ -49,6 +51,7 @@ Colonial institutions and political culture developed expectations of local self
 - [[Boston Massacre]]
 - [[Boston Massacre Trials]]
 - [[First Continental Congress]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
 - [[Declaration of Independence]]
 
 ## Deeper Roots
@@ -71,5 +74,6 @@ Helped convert specific tax disputes into claims about consent, rights, and self
 - [[Source - Avalon Virginia Committee Resolutions 1773]]
 - [[Source - Founders Online Continental Association 1774]]
 - [[Source - Founders Online Braintree Association 1775]]
+- [[Source - Founders Online Declaration Causes Taking Up Arms]]
 - [[Source - NCpedia Committees of Safety Primary Source]]
 - [[Source - MHS Adams Argument Wemms Trial]]

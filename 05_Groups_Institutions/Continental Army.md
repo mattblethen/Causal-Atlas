@@ -16,6 +16,7 @@ confidence: medium
 sources:
   - Source - NPS Washington Appointment Commander in Chief
   - Source - LOC Journals of the Continental Congress
+  - Source - Founders Online Declaration Causes Taking Up Arms
 ---
 
 # Continental Army
@@ -31,10 +32,12 @@ The Continental Army transformed local and provincial armed resistance into a co
 
 ## Key Decisions
 - [[Lexington and Concord]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
 - [[Olive Branch Petition]]
 
 ## Events Involved In
 - [[Lexington and Concord]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
 - [[Olive Branch Petition]]
 - [[Declaration of Independence]]
 
@@ -52,3 +55,4 @@ The army required centralized command, supplies, and discipline from colonies th
 ## Sources
 - [[Source - NPS Washington Appointment Commander in Chief]]
 - [[Source - LOC Journals of the Continental Congress]]
+- [[Source - Founders Online Declaration Causes Taking Up Arms]]

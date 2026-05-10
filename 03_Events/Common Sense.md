@@ -21,6 +21,8 @@ actors:
   - Patriot Movement
 related_events:
   - Olive Branch Petition
+  - Declaration of the Causes and Necessity of Taking Up Arms
+  - Proclamation for Suppressing Rebellion and Sedition
   - Declaration of Independence
 status: researched
 confidence: medium
@@ -34,10 +36,12 @@ sources:
 Common Sense was Thomas Paine's pamphlet arguing for independence and against monarchy. It made separation from Britain more publicly thinkable.
 
 ## What Happened
-Published in January 1776, Common Sense appeared when reconciliation seemed unlikely but independence remained controversial. Its plain pamphlet form and forceful argument against monarchy helped shift public opinion toward independence.
+Published in January 1776, Common Sense appeared after Congress's reconciliation appeal had failed and after the king had treated resistance as rebellion. Its plain pamphlet form and forceful argument against monarchy helped shift public opinion from defensive resistance toward independence.
 
 ## Manifested From
 - [[Olive Branch Petition]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
+- [[Proclamation for Suppressing Rebellion and Sedition]]
 - [[Lexington and Concord]]
 - [[Enlightenment Thought]]
 - [[Mass Media]]

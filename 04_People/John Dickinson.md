@@ -19,6 +19,9 @@ confidence: medium
 sources:
   - Source - NPS Olive Branch Petition
   - Source - National Archives Olive Branch Petition
+  - Source - Founders Online Olive Branch Petition Editorial Note
+  - Source - Founders Online Declaration Causes Editorial Note
+  - Source - NPS Declaration Causes Taking Up Arms
   - Source - LOC No Taxation Without Representation
   - Source - Wikisource Letters from a Farmer
   - Source - Constitution Center Letters from a Farmer
@@ -27,7 +30,7 @@ sources:
 # John Dickinson
 
 ## Historical Function
-John Dickinson represents the constitutional moderate branch inside colonial resistance. He helped shape the Stamp Act Congress rights argument, wrote Letters from a Farmer in Pennsylvania against the Townshend duties, and later helped draft the Olive Branch Petition.
+John Dickinson represents the constitutional moderate branch inside colonial resistance. He helped shape the Stamp Act Congress rights argument, wrote Letters from a Farmer in Pennsylvania against the Townshend duties, authored the Olive Branch Petition draft, and helped shape the Declaration of the Causes and Necessity of Taking Up Arms.
 
 ## Priority Stack
 1. Preserve colonial rights.
@@ -38,9 +41,11 @@ John Dickinson represents the constitutional moderate branch inside colonial res
 ## Key Decisions
 - [[Stamp Act Congress]]
 - [[Letters from a Farmer in Pennsylvania]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
 - [[Olive Branch Petition]]
 
 ## Events Involved In
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
 - [[Olive Branch Petition]]
 - [[Stamp Act Congress]]
 - [[Letters from a Farmer in Pennsylvania]]
@@ -60,6 +65,9 @@ Dickinson resisted imperial overreach while hesitating over independence, making
 ## Sources
 - [[Source - NPS Olive Branch Petition]]
 - [[Source - National Archives Olive Branch Petition]]
+- [[Source - Founders Online Olive Branch Petition Editorial Note]]
+- [[Source - Founders Online Declaration Causes Editorial Note]]
+- [[Source - NPS Declaration Causes Taking Up Arms]]
 - [[Source - LOC No Taxation Without Representation]]
 - [[Source - Wikisource Letters from a Farmer]]
 - [[Source - Constitution Center Letters from a Farmer]]

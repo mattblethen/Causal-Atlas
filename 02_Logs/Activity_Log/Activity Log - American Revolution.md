@@ -30,6 +30,11 @@ sources:
   - Source - LOC New York Committee Observation 1775
   - Source - MHS First Continental Congress Association Enforcement
   - Source - NPS April 19 1775
+  - Source - Founders Online Declaration Causes Taking Up Arms
+  - Source - Founders Online Declaration Causes Editorial Note
+  - Source - Avalon Olive Branch Petition 1775
+  - Source - Founders Online Olive Branch Petition Editorial Note
+  - Source - NPS Declaration Causes Taking Up Arms
   - Source - LOC Declaration of Independence Guide
   - Source - LOC Philipsburg Proclamation
   - Source - Colonial Williamsburg Philipsburg Proclamation
@@ -316,12 +321,13 @@ Sources:
 - [[Source - Fort Ticonderoga Noble Train Context]]
 - [[Source - NPS Dorchester Heights]]
 
-## 1775-1776 - Failed Reconciliation and Public Independence Argument
+## 1775-1776 - Armed Justification, Failed Reconciliation, and Public Independence Argument
 
 What happened:
-The Olive Branch Petition failed as a reconciliation path, George III treated the colonies as being in rebellion, Dunmore's Proclamation exposed the slavery contradiction in wartime Virginia, and Common Sense helped popularize independence.
+Congress adopted the Declaration of the Causes and Necessity of Taking Up Arms and the Olive Branch Petition in the same July 1775 moment, justifying armed resistance while still appealing for reconciliation. George III treated the colonies as being in rebellion, Dunmore's Proclamation exposed the slavery contradiction in wartime Virginia, and Common Sense helped popularize independence.
 
 Related:
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
 - [[Olive Branch Petition]]
 - [[Proclamation for Suppressing Rebellion and Sedition]]
 - [[Lord Dunmore's Proclamation]]
@@ -332,6 +338,11 @@ Why it matters:
 This explains the ideological and public-opinion bridge from armed conflict to declared independence.
 
 Sources:
+- [[Source - Founders Online Declaration Causes Taking Up Arms]]
+- [[Source - Founders Online Declaration Causes Editorial Note]]
+- [[Source - NPS Declaration Causes Taking Up Arms]]
+- [[Source - Avalon Olive Branch Petition 1775]]
+- [[Source - Founders Online Olive Branch Petition Editorial Note]]
 - [[Source - NPS Olive Branch Petition]]
 - [[Source - National Archives Olive Branch Petition]]
 - [[Source - US House King's Proclamation for Suppressing Rebellion]]

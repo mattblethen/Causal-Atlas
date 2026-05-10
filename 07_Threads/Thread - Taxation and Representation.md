@@ -24,6 +24,7 @@ related_events:
   - Boston Tea Party
   - Continental Association
   - Local Association Enforcement
+  - Declaration of the Causes and Necessity of Taking Up Arms
 status: stub
 confidence: medium
 sources:
@@ -32,6 +33,7 @@ sources:
   - Source - Founders Online Braintree Association 1775
   - Source - MHS Adams Argument Wemms Trial
   - Source - Avalon Townshend Revenue Act 1767
+  - Source - Founders Online Declaration Causes Taking Up Arms
 ---
 
 # Thread - Taxation and Representation
@@ -58,6 +60,7 @@ Conflict over who had legitimate authority to tax the colonies and whether taxat
 - [[Coercive Acts]]
 - [[Continental Association]]
 - [[Local Association Enforcement]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
 
 ## Timeline
 -
@@ -84,6 +87,7 @@ Conflict over who had legitimate authority to tax the colonies and whether taxat
 - [[First Continental Congress]]
 - [[Continental Association]]
 - [[Local Association Enforcement]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
 
 ## Long-Term Consequences
 Taxation disputes became constitutional disputes over representation, consent, and legitimate imperial authority.
@@ -97,3 +101,4 @@ Expand with primary sources, parliamentary acts, colonial pamphlets, and institu
 - [[Source - Founders Online Braintree Association 1775]]
 - [[Source - MHS Adams Argument Wemms Trial]]
 - [[Source - Avalon Townshend Revenue Act 1767]]
+- [[Source - Founders Online Declaration Causes Taking Up Arms]]

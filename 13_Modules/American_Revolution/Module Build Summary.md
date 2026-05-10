@@ -19,6 +19,7 @@ confidence: medium
 - Committee and enforcement expansion for [[Committees of Correspondence]], [[Continental Association]], and [[Committees of Inspection]]
 - Local enforcement notes for [[Local Association Enforcement]] and [[Committees of Safety]]
 - Black Loyalist expansion for [[Philipsburg Proclamation]], [[Black Loyalist Evacuation]], and [[Black Loyalists]]
+- Failed-reconciliation packet for [[Declaration of the Causes and Necessity of Taking Up Arms]] and [[Olive Branch Petition]]
 
 ## Sources Used
 - [[Source - LOC American Revolution Primary Source Timeline]]
@@ -75,19 +76,26 @@ confidence: medium
 - [[Source - Colonial Williamsburg Philipsburg Proclamation]]
 - [[Source - LAC Book of Negroes 1783]]
 - [[Source - Nova Scotia Archives Book of Negroes]]
+- [[Source - Avalon Olive Branch Petition 1775]]
+- [[Source - Founders Online Olive Branch Petition Editorial Note]]
+- [[Source - Founders Online Declaration Causes Taking Up Arms]]
+- [[Source - Founders Online Declaration Causes Editorial Note]]
+- [[Source - NPS Declaration Causes Taking Up Arms]]
+- [[Source - LOC Declaration Causes Broadside 1775]]
 
 ## Unresolved Research Gaps
 - Add direct primary text for the Tea Act.
 - Replace or supplement the Coercive Acts source with Parliamentary Archives, Avalon, or another archival/legal source.
 - Add exact British debt figures with a scholarly source and explain uncertainty.
 - Add regional committee-of-safety and committee-of-observation comparisons beyond Massachusetts and North Carolina.
+- Add direct primary text and circulation scholarship for Common Sense.
 - Compare Patriot/Loyalist pamphlet claims with the Boston Massacre trial transcript witness by witness.
 - Add people and command notes for British commanders, Washington's military command, local actors, women correspondents, Indigenous leaders, and Black Loyalist individuals where sources support them.
 - Expand slavery and Indigenous displacement context without forcing those threads into every event.
 
 ## Next Recommended Module Step
-Deepen Olive Branch Petition and Common Sense packets, then build the witness-by-witness Boston Massacre pamphlet/trial comparison before moving into broader post-1776 military campaigns.
+Deepen the Common Sense packet, then build the witness-by-witness Boston Massacre pamphlet/trial comparison before moving into broader post-1776 military campaigns.
 
 ## Progress Estimate
-- Whole vault roadmap: about 16% complete.
-- American Revolution module: about 88% complete.
+- Whole vault roadmap: about 17% complete.
+- American Revolution module: about 90% complete.

@@ -17,6 +17,8 @@ related_events:
   - Boston Massacre Aftermath
   - Boston Massacre Trials
   - Local Association Enforcement
+  - Declaration of the Causes and Necessity of Taking Up Arms
+  - Common Sense
   - Declaration of Independence
 related_people: []
 status: stub
@@ -26,6 +28,7 @@ sources:
   - Source - MHS Boston Pamphlet 1772
   - Source - Mount Vernon Committees of Correspondence
   - Source - LOC New York Committee Observation 1775
+  - Source - LOC Declaration Causes Broadside 1775
   - Source - LOC Wemms Trial Transcript
   - Source - MHS Wemms Trial Verdicts
 ---
@@ -47,6 +50,8 @@ Media systems shape what publics know, believe, repeat, contest, and organize ar
 - [[Boston Massacre Aftermath]]
 - [[Boston Massacre Trials]]
 - [[Local Association Enforcement]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
+- [[Common Sense]]
 - [[Declaration of Independence]]
 
 ## Timeline
@@ -68,6 +73,7 @@ Media systems shape what publics know, believe, repeat, contest, and organize ar
 - [[Committees of Correspondence]]
 - [[Boston Massacre Trials]]
 - [[Local Association Enforcement]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
 
 ## Long-Term Consequences
 Connects print culture in the American Revolution to later newspaper, radio, television, internet, and platform-era politics.
@@ -77,5 +83,6 @@ Connects print culture in the American Revolution to later newspaper, radio, tel
 - [[Source - MHS Boston Pamphlet 1772]]
 - [[Source - Mount Vernon Committees of Correspondence]]
 - [[Source - LOC New York Committee Observation 1775]]
+- [[Source - LOC Declaration Causes Broadside 1775]]
 - [[Source - LOC Wemms Trial Transcript]]
 - [[Source - MHS Wemms Trial Verdicts]]

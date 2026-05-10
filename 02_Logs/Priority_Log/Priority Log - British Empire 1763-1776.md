@@ -18,6 +18,7 @@ sources:
   - Source - LOC Philipsburg Proclamation
   - Source - LAC Book of Negroes 1783
   - Source - Avalon Townshend Revenue Act 1767
+  - Source - US House King's Proclamation for Suppressing Rebellion
 ---
 
 # Priority Log - British Empire 1763-1776
@@ -50,6 +51,7 @@ Manifested In:
 - [[Tea Act]]
 - [[Coercive Acts]]
 - [[Lexington and Concord]]
+- [[Proclamation for Suppressing Rebellion and Sedition]]
 - [[Lord Dunmore's Proclamation]]
 - [[Philipsburg Proclamation]]
 - [[Black Loyalist Evacuation]]
@@ -68,3 +70,4 @@ Sources:
 - [[Source - LOC Philipsburg Proclamation]]
 - [[Source - LAC Book of Negroes 1783]]
 - [[Source - Avalon Townshend Revenue Act 1767]]
+- [[Source - US House King's Proclamation for Suppressing Rebellion]]

@@ -21,6 +21,7 @@ actors:
   - Continental Army
 related_events:
   - Lexington and Concord
+  - Declaration of the Causes and Necessity of Taking Up Arms
   - Olive Branch Petition
   - Proclamation for Suppressing Rebellion and Sedition
 status: researched
@@ -48,6 +49,7 @@ Colonial forces fortified heights near Boston, mostly on Breed's Hill in Charles
 Local militia resistance and British enforcement escalated into major battle and siege warfare.
 
 ## Led To
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
 - [[Proclamation for Suppressing Rebellion and Sedition]]
 - [[Olive Branch Petition]]
 - [[Continental Army]]

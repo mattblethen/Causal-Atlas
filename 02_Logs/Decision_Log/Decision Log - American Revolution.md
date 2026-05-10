@@ -23,6 +23,10 @@ sources:
   - Source - Founders Online Braintree Association 1775
   - Source - NCpedia Committees of Safety Primary Source
   - Source - LOC New York Committee Observation 1775
+  - Source - Founders Online Declaration Causes Taking Up Arms
+  - Source - Founders Online Declaration Causes Editorial Note
+  - Source - Avalon Olive Branch Petition 1775
+  - Source - Founders Online Olive Branch Petition Editorial Note
   - Source - LOC Philipsburg Proclamation
   - Source - Colonial Williamsburg Philipsburg Proclamation
   - Source - LAC Book of Negroes 1783
@@ -486,6 +490,35 @@ Consequences:
 
 Sources:
 - [[Source - NPS Washington Appointment Commander in Chief]]
+
+## 1775 - Congress pairs armed justification with reconciliation
+
+Decision:
+Congress adopted the Declaration of the Causes and Necessity of Taking Up Arms and the Olive Branch Petition in the same July 1775 crisis.
+
+Why it mattered:
+The decision let Congress justify military resistance without yet declaring independence, preserving unity between delegates who wanted reconciliation and delegates moving toward rupture.
+
+Priority conflict:
+- Defensive war and colonial rights claims versus continued imperial membership and loyalty language.
+
+Alternatives:
+- Petition the king without publicly justifying armed resistance.
+- Declare independence immediately after armed conflict began.
+- Coordinate military resistance quietly while avoiding a public manifesto.
+
+Consequences:
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
+- [[Olive Branch Petition]]
+- [[Proclamation for Suppressing Rebellion and Sedition]]
+- [[Common Sense]]
+- [[Declaration of Independence]]
+
+Sources:
+- [[Source - Founders Online Declaration Causes Taking Up Arms]]
+- [[Source - Founders Online Declaration Causes Editorial Note]]
+- [[Source - Avalon Olive Branch Petition 1775]]
+- [[Source - Founders Online Olive Branch Petition Editorial Note]]
 
 ## 1775-1776 - Washington and Knox turn captured artillery into siege leverage
 

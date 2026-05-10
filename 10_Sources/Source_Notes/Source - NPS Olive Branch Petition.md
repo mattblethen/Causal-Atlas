@@ -9,6 +9,8 @@ url: https://www.nps.gov/articles/000/the-olive-branch-petition.htm
 accessed: 2026-05-09
 related_events:
   - Olive Branch Petition
+  - Declaration of the Causes and Necessity of Taking Up Arms
+  - Proclamation for Suppressing Rebellion and Sedition
   - Declaration of Independence
 related_forces:
   - Colonial Autonomy
@@ -24,7 +26,7 @@ status: extracted
 National Park Service article on the Olive Branch Petition.
 
 ## Useful Claims / Evidence
-- The petition was signed in Independence Hall on July 5, 1775.
+- Congress adopted the petition on July 5, 1775, and representatives signed it on July 8.
 - It was an attempt to prevent full war after Lexington and Concord.
 - John Dickinson and Benjamin Franklin were on the drafting committee.
 - Many in Philadelphia still did not support independence in mid-1775.
@@ -34,6 +36,8 @@ National Park Service article on the Olive Branch Petition.
 
 ## Connected Notes
 - [[Olive Branch Petition]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
+- [[Proclamation for Suppressing Rebellion and Sedition]]
 - [[Continental Congress]]
 - [[Benjamin Franklin]]
 

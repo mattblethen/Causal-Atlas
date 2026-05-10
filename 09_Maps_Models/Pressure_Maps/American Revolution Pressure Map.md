@@ -31,6 +31,8 @@ sources:
   - Source - LAC Book of Negroes 1783
   - Source - Avalon Townshend Revenue Act 1767
   - Source - Britannica Townshend Acts Overview
+  - Source - Founders Online Declaration Causes Taking Up Arms
+  - Source - Avalon Olive Branch Petition 1775
 ---
 
 # American Revolution Pressure Map
@@ -95,8 +97,12 @@ flowchart TD
     N --> AK["Capture of Fort Ticonderoga"]
     AK --> AL["Knox Expedition"]
     N --> X["Battle of Bunker Hill"]
+    AJ --> VE["Declaration of the Causes and Necessity of Taking Up Arms"]
+    X --> VE
     X --> V["Olive Branch Petition"]
+    VE --> Y["Proclamation for Suppressing Rebellion and Sedition"]
     V --> Y["Proclamation for Suppressing Rebellion and Sedition"]
+    VE --> W["Common Sense"]
     Y --> W["Common Sense"]
     X --> AH["Siege of Boston"]
     AL --> AM["Dorchester Heights"]
@@ -136,6 +142,7 @@ flowchart TD
 - The nonimportation path shows how trade and household consumption became political pressure systems before armed conflict.
 - The occupation path shows how customs enforcement and assembly defiance became a daily military presence before the Boston Massacre.
 - The trial path shows how the Massacre became courtroom testimony, verdict, and rule-of-law legitimacy as well as propaganda.
+- The July 1775 petition/declaration path shows Congress trying to hold reconciliation and armed defense together before the king's rebellion framing pushed the conflict toward independence.
 - The slavery-war path shows how British freedom policies and Black Loyalist evacuation exposed the limits of Patriot liberty claims.
 - The committee path shows how correspondence and inspection converted information sharing into enforceable continental and local pressure.
 
@@ -170,3 +177,5 @@ Medium. The broad causal relationships are supported by institutional sources, b
 - [[Source - LAC Book of Negroes 1783]]
 - [[Source - Avalon Townshend Revenue Act 1767]]
 - [[Source - Britannica Townshend Acts Overview]]
+- [[Source - Founders Online Declaration Causes Taking Up Arms]]
+- [[Source - Avalon Olive Branch Petition 1775]]

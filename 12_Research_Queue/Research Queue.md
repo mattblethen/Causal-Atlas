@@ -30,6 +30,7 @@ Use this to track what Codex or a human researcher should fill next.
 - [x] Coercive Acts primary texts
 - [x] First Continental Congress records
 - [x] Lexington and Concord primary/near-contemporary accounts
+- [x] Olive Branch Petition and Declaration of Causes source packet
 - [x] Declaration of Independence drafts, final text, and drafting context
 
 ## American Revolution Actor Notes
@@ -93,11 +94,13 @@ Use this to track what Codex or a human researcher should fill next.
 - [ ] Add witness-by-witness Boston Massacre pamphlet/trial comparison.
 - [x] Add deeper Committees of Correspondence source packet.
 - [x] Add local Continental Association enforcement case studies.
+- [x] Add Olive Branch Petition and Declaration of Causes reconciliation/war-justification packet.
 - [ ] Add regional comparison of committees of safety beyond Massachusetts and North Carolina.
+- [ ] Add Common Sense primary text and circulation/sales scholarship.
 
 ## Roadmap Completion Estimate
-- Whole vault roadmap: approximately 16% complete as of 2026-05-09.
-- American Revolution module: approximately 88% complete.
+- Whole vault roadmap: approximately 17% complete as of 2026-05-09.
+- American Revolution module: approximately 90% complete.
 
 ## Next American History Modules
 - [ ] Constitution and Early Republic

@@ -11,12 +11,16 @@ related_events:
   - Boston Massacre Trials
   - Local Association Enforcement
   - Lexington and Concord
+  - Declaration of the Causes and Necessity of Taking Up Arms
+  - Proclamation for Suppressing Rebellion and Sedition
 related_people: []
 status: stub
 confidence: medium
 sources:
   - Source - NCpedia Committees of Safety Primary Source
   - Source - MHS Wemms Trial Verdicts
+  - Source - Founders Online Declaration Causes Taking Up Arms
+  - Source - US House King's Proclamation for Suppressing Rebellion
 ---
 
 # Thread - War and State Formation
@@ -32,6 +36,8 @@ War pressures states to tax, borrow, centralize administration, mobilize people,
 - [[Boston Massacre Trials]]
 - [[Local Association Enforcement]]
 - [[Lexington and Concord]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
+- [[Proclamation for Suppressing Rebellion and Sedition]]
 
 ## Timeline
 -
@@ -50,6 +56,7 @@ War pressures states to tax, borrow, centralize administration, mobilize people,
 - [[Boston Massacre Trials]]
 - [[Local Association Enforcement]]
 - [[Lexington and Concord]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
 
 ## Long-Term Consequences
 This thread helps connect military conflict to fiscal systems, bureaucracy, legitimacy, and revolution.
@@ -57,3 +64,5 @@ This thread helps connect military conflict to fiscal systems, bureaucracy, legi
 ## Sources
 - [[Source - NCpedia Committees of Safety Primary Source]]
 - [[Source - MHS Wemms Trial Verdicts]]
+- [[Source - Founders Online Declaration Causes Taking Up Arms]]
+- [[Source - US House King's Proclamation for Suppressing Rebellion]]

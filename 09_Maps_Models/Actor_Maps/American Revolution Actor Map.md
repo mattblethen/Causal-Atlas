@@ -26,6 +26,9 @@ sources:
   - Source - LOC Philipsburg Proclamation
   - Source - LAC Book of Negroes 1783
   - Source - Avalon Townshend Revenue Act 1767
+  - Source - Founders Online Declaration Causes Taking Up Arms
+  - Source - Founders Online Declaration Causes Editorial Note
+  - Source - Avalon Olive Branch Petition 1775
 ---
 
 # American Revolution Actor Map
@@ -78,12 +81,21 @@ flowchart LR
     COI --> NIA
     COI -. pressures .-> LOY
     FCC --> SCC["Second Continental Congress"]
+    SCC --> DCA["Declaration of the Causes and Necessity of Taking Up Arms"]
+    SCC --> OBP["Olive Branch Petition"]
     SCC --> DOI["Declaration of Independence"]
+    JD --> DCA
+    JD --> OBP
+    TJ --> DCA
+    BF["Benjamin Franklin"] --> OBP
     TP["Thomas Paine"] --> CS["Common Sense"]
+    DCA --> CS
     CS --> DOI
-    G3["George III"] --> OBP["Olive Branch Petition Fails"]
+    G3["George III"] --> OBPF["Olive Branch Petition Fails"]
     G3 --> REB["Rebellion Proclamation"]
-    OBP --> DOI
+    OBP --> OBPF
+    OBPF --> DOI
+    DCA --> DOI
     REB --> DOI
     TG["Thomas Gage"] --> LC["Lexington and Concord"]
     BA["British Army"] --> LC
@@ -132,6 +144,7 @@ flowchart LR
 - The John Adams path separates the courtroom defense and verdicts from the broader Patriot and Loyalist media battle.
 - The committees path shows information networks becoming Association enforcement through local inspection committees.
 - Local enforcement links boycott practice to committees of safety and militia-adjacent governance.
+- The July 1775 Congress path separates reconciliation petitioning from the public justification for armed resistance.
 - Black Loyalists show enslaved people's freedom seeking inside British military strategy and Loyalist evacuation.
 - The Patriot movement is an umbrella note, not a single institution.
 
@@ -158,3 +171,6 @@ flowchart LR
 - [[Source - LOC Philipsburg Proclamation]]
 - [[Source - LAC Book of Negroes 1783]]
 - [[Source - Avalon Townshend Revenue Act 1767]]
+- [[Source - Founders Online Declaration Causes Taking Up Arms]]
+- [[Source - Founders Online Declaration Causes Editorial Note]]
+- [[Source - Avalon Olive Branch Petition 1775]]

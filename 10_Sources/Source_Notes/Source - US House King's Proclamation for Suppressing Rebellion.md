@@ -10,6 +10,7 @@ accessed: 2026-05-09
 related_events:
   - Proclamation for Suppressing Rebellion and Sedition
   - Olive Branch Petition
+  - Declaration of the Causes and Necessity of Taking Up Arms
 related_forces:
   - Parliamentary Sovereignty
 related_threads:
@@ -36,6 +37,7 @@ U.S. House History, Art & Archives record for George III's August 23, 1775 procl
 - [[Proclamation for Suppressing Rebellion and Sedition]]
 - [[George III]]
 - [[Olive Branch Petition]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
 
 ## Researcher Notes
-Use with National Archives Olive Branch Petition source for failed-reconciliation branch point.
+Use with National Archives Olive Branch Petition and the July 6 Declaration of Causes source packet for the failed-reconciliation branch point.

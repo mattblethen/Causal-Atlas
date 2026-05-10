@@ -21,6 +21,7 @@ actors:
   - Continental Congress
 related_events:
   - Olive Branch Petition
+  - Declaration of the Causes and Necessity of Taking Up Arms
   - Battle of Bunker Hill
   - Declaration of Independence
 status: researched
@@ -33,14 +34,15 @@ sources:
 # 1775-08-23 - Proclamation for Suppressing Rebellion and Sedition
 
 ## Summary
-George III's proclamation declared the colonies to be in rebellion. It made the imperial response to colonial resistance unmistakably punitive and helped close the reconciliation path represented by the Olive Branch Petition.
+George III's proclamation declared the colonies to be in rebellion. It made the imperial response to colonial resistance unmistakably punitive and helped close the reconciliation path represented by the Olive Branch Petition and Congress's companion war-justification declaration.
 
 ## What Happened
-After Lexington and Concord, Bunker Hill, and the Olive Branch Petition, George III issued a proclamation treating colonial resistance as rebellion. The National Archives frames this as the effective answer to Congress's petition for reconciliation.
+After Lexington and Concord, Bunker Hill, the Declaration of the Causes and Necessity of Taking Up Arms, and the Olive Branch Petition, George III issued a proclamation treating colonial resistance as rebellion. The National Archives frames this as the effective answer to Congress's petition for reconciliation.
 
 ## Manifested From
 - [[Lexington and Concord]]
 - [[Battle of Bunker Hill]]
+- [[Declaration of the Causes and Necessity of Taking Up Arms]]
 - [[Olive Branch Petition]]
 - [[Parliamentary Sovereignty]]
 
@@ -69,7 +71,7 @@ Imperial authority refused to recognize Congress as a negotiating partner and fr
 - [[Continental Congress]]
 
 ## Research Notes
-Later pass should add the full proclamation text and Patriot responses to it.
+Later work should add Patriot responses to the proclamation, especially Congress's December 1775 answer.
 
 ## Sources
 - [[Source - US House King's Proclamation for Suppressing Rebellion]]

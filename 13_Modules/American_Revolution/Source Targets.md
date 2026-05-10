@@ -22,6 +22,8 @@ status: active
 - Coercive Acts text.
 - Continental Congress records.
 - Lexington and Concord contemporary accounts.
+- Olive Branch Petition text and drafting context.
+- Declaration of the Causes and Necessity of Taking Up Arms text, drafting context, and print circulation.
 - Declaration of Independence drafts and final text.
 - Black Loyalist proclamations, evacuation registers, and settlement records.
 
