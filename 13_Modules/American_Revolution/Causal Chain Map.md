@@ -19,13 +19,14 @@ flowchart TD
     EB --> F
     F --> H["Townshend Acts"]
     G --> H
-    H --> HA["Letters from a Farmer in Pennsylvania"]
+    H --> HAA["Townshend Revenue Act"]
+    HAA --> HA["Letters from a Farmer in Pennsylvania"]
     HA --> HB["Massachusetts Circular Letter"]
     HB --> HBA["Glorious 92"]
-    H --> HBB["Liberty Affair"]
+    HAA --> HBB["Liberty Affair"]
     HBA --> HBC["Boston Occupation"]
     HBB --> HBC
-    H --> HC["Boston Non-Importation Agreement"]
+    HAA --> HC["Boston Non-Importation Agreement"]
     HB --> HC
     HC --> HD["Homespun Movement"]
     HBC --> HBD["Christopher Seider Killing"]
@@ -78,6 +79,6 @@ flowchart TD
 
 ## Map Notes
 - This is now a first-pass researched scaffold, not a final causal proof.
-- Strongest supported links so far: Seven Years' War -> British Imperial Debt -> Sugar Act/Stamp Act; Stamp Act -> Stamp Act Congress/nonimportation; Stamp Act -> Declaratory Act -> Townshend Acts as a sovereignty sequence; Townshend Acts -> Farmer letters/Circular Letter/nonimportation; Circular Letter/Liberty Affair -> occupation; occupation -> Boston Massacre -> aftermath/trials; Gaspee/committee networks -> First Continental Congress; Tea Act -> Boston Tea Party -> Coercive Acts; Coercive Acts -> First Continental Congress -> Continental Association -> local enforcement; Dunmore/Philipsburg freedom policies -> Black Loyalist evacuation.
+- Strongest supported links so far: Seven Years' War -> British Imperial Debt -> Sugar Act/Stamp Act; Stamp Act -> Stamp Act Congress/nonimportation; Stamp Act -> Declaratory Act -> Townshend Acts/Townshend Revenue Act as a sovereignty and revenue sequence; Townshend Revenue Act -> Farmer letters/Circular Letter/nonimportation/customs conflict; Circular Letter/Liberty Affair -> occupation; occupation -> Boston Massacre -> aftermath/trials; Gaspee/committee networks -> First Continental Congress; Tea Act -> Boston Tea Party -> Coercive Acts; Coercive Acts -> First Continental Congress -> Continental Association -> local enforcement; Dunmore/Philipsburg freedom policies -> Black Loyalist evacuation.
 - Lexington and Concord remains source-backed as the transition into armed conflict, but the exact first-shot question is intentionally left unresolved.
 - Future passes should qualify direct, indirect, and disputed relationships with more specific primary sources.

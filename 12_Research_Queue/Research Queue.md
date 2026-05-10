@@ -18,6 +18,7 @@ Use this to track what Codex or a human researcher should fill next.
 - [x] Seven Years' War settlement sources
 - [x] British imperial debt and taxation sources
 - [x] Royal Proclamation, Sugar Act, Quartering Act, and Declaratory Act sources
+- [x] Townshend Revenue Act primary/legal source packet
 - [x] Stamp Act primary text and colonial responses
 - [x] Stamp Act Congress and nonimportation sources
 - [x] Massachusetts Circular Letter and Farmer letters sources
@@ -95,8 +96,8 @@ Use this to track what Codex or a human researcher should fill next.
 - [ ] Add regional comparison of committees of safety beyond Massachusetts and North Carolina.
 
 ## Roadmap Completion Estimate
-- Whole vault roadmap: approximately 15% complete as of 2026-05-09.
-- American Revolution module: approximately 86% complete.
+- Whole vault roadmap: approximately 16% complete as of 2026-05-09.
+- American Revolution module: approximately 88% complete.
 
 ## Next American History Modules
 - [ ] Constitution and Early Republic

@@ -9,6 +9,8 @@ related_forces:
 related_events:
   - Stamp Act
   - Stamp Act Congress
+  - Townshend Acts
+  - Townshend Revenue Act
   - Letters from a Farmer in Pennsylvania
   - Massachusetts Circular Letter
   - Nonimportation Agreements
@@ -29,6 +31,7 @@ sources:
   - Source - Founders Online Continental Association 1774
   - Source - Founders Online Braintree Association 1775
   - Source - MHS Adams Argument Wemms Trial
+  - Source - Avalon Townshend Revenue Act 1767
 ---
 
 # Thread - Taxation and Representation
@@ -39,6 +42,8 @@ Conflict over who had legitimate authority to tax the colonies and whether taxat
 ## Major Manifestations
 - [[Stamp Act]]
 - [[Stamp Act Congress]]
+- [[Townshend Acts]]
+- [[Townshend Revenue Act]]
 - [[Letters from a Farmer in Pennsylvania]]
 - [[Massachusetts Circular Letter]]
 - [[Nonimportation Agreements]]
@@ -70,6 +75,7 @@ Conflict over who had legitimate authority to tax the colonies and whether taxat
 ## Branch Points
 - [[Stamp Act]]
 - [[Stamp Act Congress]]
+- [[Townshend Revenue Act]]
 - [[Massachusetts Circular Letter]]
 - [[Glorious 92]]
 - [[Boston Massacre Trials]]
@@ -90,3 +96,4 @@ Expand with primary sources, parliamentary acts, colonial pamphlets, and institu
 - [[Source - Founders Online Continental Association 1774]]
 - [[Source - Founders Online Braintree Association 1775]]
 - [[Source - MHS Adams Argument Wemms Trial]]
+- [[Source - Avalon Townshend Revenue Act 1767]]

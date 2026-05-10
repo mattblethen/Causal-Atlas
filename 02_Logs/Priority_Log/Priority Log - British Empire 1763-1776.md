@@ -17,6 +17,7 @@ sources:
   - Source - UK National Archives Boston Tea Party
   - Source - LOC Philipsburg Proclamation
   - Source - LAC Book of Negroes 1783
+  - Source - Avalon Townshend Revenue Act 1767
 ---
 
 # Priority Log - British Empire 1763-1776
@@ -36,6 +37,8 @@ Fiscal and sovereignty priorities pushed Britain toward policies colonists exper
 Manifested In:
 - [[British Imperial Debt]]
 - [[Stamp Act]]
+- [[Townshend Acts]]
+- [[Townshend Revenue Act]]
 - [[Massachusetts Circular Letter]]
 - [[Liberty Affair]]
 - [[Boston Occupation]]
@@ -64,3 +67,4 @@ Sources:
 - [[Source - UK National Archives Boston Tea Party]]
 - [[Source - LOC Philipsburg Proclamation]]
 - [[Source - LAC Book of Negroes 1783]]
+- [[Source - Avalon Townshend Revenue Act 1767]]

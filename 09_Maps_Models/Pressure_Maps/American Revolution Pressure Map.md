@@ -29,6 +29,8 @@ sources:
   - Source - NPS Siege of Boston Overview
   - Source - LOC Philipsburg Proclamation
   - Source - LAC Book of Negroes 1783
+  - Source - Avalon Townshend Revenue Act 1767
+  - Source - Britannica Townshend Acts Overview
 ---
 
 # American Revolution Pressure Map
@@ -46,6 +48,7 @@ flowchart TD
     F --> AN["Stamp Act Congress"]
     AN --> AO["Nonimportation Agreements"]
     D --> S["Townshend Acts"]
+    S --> SA1["Townshend Revenue Act"]
     D --> G["Tea Act"]
     E --> H["Parliamentary Sovereignty"]
     H --> AE["Declaratory Act"]
@@ -54,14 +57,14 @@ flowchart TD
     J["Colonial Autonomy"] --> K["Colonial Resistance"]
     F --> K
     AO --> K
-    S --> T["Boston Massacre"]
-    S --> AP["Letters from a Farmer in Pennsylvania"]
+    SA1 --> T["Boston Massacre"]
+    SA1 --> AP["Letters from a Farmer in Pennsylvania"]
     AP --> AQ["Massachusetts Circular Letter"]
     AQ --> AT["Glorious 92"]
-    S --> AU["Liberty Affair"]
+    SA1 --> AU["Liberty Affair"]
     AT --> AV["Boston Occupation"]
     AU --> AV
-    S --> AR["Boston Non-Importation Agreement"]
+    SA1 --> AR["Boston Non-Importation Agreement"]
     AQ --> AR
     AR --> AS["Homespun Movement"]
     AS --> K
@@ -127,6 +130,7 @@ flowchart TD
 ## Reading the Map
 - The debt path shows how war finance became revenue policy.
 - The sovereignty path shows how Parliament's authority claim made taxes and punishment constitutional issues.
+- The Townshend path now separates the broad program from the Revenue Act's specific duties, customs powers, and salary implications.
 - The autonomy path shows why colonists interpreted policies as threats to local self-government.
 - The trade path shows why tea became more than a commodity: it carried taxation, monopoly, and imperial authority.
 - The nonimportation path shows how trade and household consumption became political pressure systems before armed conflict.
@@ -164,3 +168,5 @@ Medium. The broad causal relationships are supported by institutional sources, b
 - [[Source - NPS Siege of Boston Overview]]
 - [[Source - LOC Philipsburg Proclamation]]
 - [[Source - LAC Book of Negroes 1783]]
+- [[Source - Avalon Townshend Revenue Act 1767]]
+- [[Source - Britannica Townshend Acts Overview]]

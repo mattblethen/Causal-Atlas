@@ -13,6 +13,7 @@ confidence: medium
 - Force note: [[British Imperial Debt]]
 - Logs for activity, decisions, and priorities in `02_Logs/`
 - Resistance infrastructure notes for [[Stamp Act Congress]], [[Nonimportation Agreements]], [[Boston Non-Importation Agreement]], [[Massachusetts Circular Letter]], [[Letters from a Farmer in Pennsylvania]], [[Homespun Movement]], [[Daughters of Liberty]], and [[James Otis Jr.]]
+- Townshend legal source packet for [[Townshend Revenue Act]]
 - Boston escalation notes for [[Glorious 92]], [[Liberty Affair]], [[Boston Occupation]], [[Christopher Seider Killing]], and [[Boston Massacre Aftermath]]
 - Boston legal-process packet for [[Boston Massacre Trials]], including Adams's argument, soldier-trial verdicts, and the LOC printed trial text
 - Committee and enforcement expansion for [[Committees of Correspondence]], [[Continental Association]], and [[Committees of Inspection]]
@@ -27,6 +28,10 @@ confidence: medium
 - [[Source - UK National Archives Stamp Act Resistance Source]]
 - [[Source - LOC No Taxation Without Representation]]
 - [[Source - Avalon Stamp Act Congress Resolutions 1765]]
+- [[Source - Avalon Townshend Revenue Act 1767]]
+- [[Source - UNL Townshend Revenue Act 1767]]
+- [[Source - Britannica Townshend Acts Overview]]
+- [[Source - American Battlefield Trust Townshend Act 1767]]
 - [[Source - Wikisource Letters from a Farmer]]
 - [[Source - Constitution Center Letters from a Farmer]]
 - [[Source - Avalon Massachusetts Circular Letter 1768]]
@@ -81,8 +86,8 @@ confidence: medium
 - Expand slavery and Indigenous displacement context without forcing those threads into every event.
 
 ## Next Recommended Module Step
-Deepen Townshend Acts, Olive Branch Petition, and Common Sense packets, then build the witness-by-witness Boston Massacre pamphlet/trial comparison before moving into broader post-1776 military campaigns.
+Deepen Olive Branch Petition and Common Sense packets, then build the witness-by-witness Boston Massacre pamphlet/trial comparison before moving into broader post-1776 military campaigns.
 
 ## Progress Estimate
-- Whole vault roadmap: about 15% complete.
-- American Revolution module: about 86% complete.
+- Whole vault roadmap: about 16% complete.
+- American Revolution module: about 88% complete.

@@ -9,14 +9,16 @@ threads:
 manifestations:
   - British Imperial Debt
   - Stamp Act
+  - Townshend Revenue Act
   - Tea Act
 opposed_by:
   - Colonial Autonomy
 intensified_by:
   - Seven Years' War
-status: stub
+status: researching
 confidence: medium
-sources: []
+sources:
+  - Source - Avalon Townshend Revenue Act 1767
 ---
 
 # Imperial Debt
@@ -28,6 +30,7 @@ The financial burden of empire and war created pressure for states to increase t
 - [[British Imperial Debt]]
 - [[Stamp Act]]
 - [[Townshend Acts]]
+- [[Townshend Revenue Act]]
 - [[Tea Act]]
 
 ## Active Periods
@@ -52,4 +55,4 @@ Imperial debt pressure pushed Britain toward new colonial revenue measures and s
 Codex should verify debt figures and policy connections using reputable sources.
 
 ## Sources
--
+- [[Source - Avalon Townshend Revenue Act 1767]]

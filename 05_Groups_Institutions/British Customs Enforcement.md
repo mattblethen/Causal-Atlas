@@ -21,6 +21,8 @@ confidence: medium
 sources:
   - Source - Avalon Sugar Act 1764
   - Source - Rhode Island Historical Society Burning of the Gaspee
+  - Source - Avalon Townshend Revenue Act 1767
+  - Source - Britannica Townshend Acts Overview
   - Source - American Battlefield Trust Townshend Act 1767
   - Source - Commonwealth Museum Customs Commissioners and Liberty
 ---
@@ -39,12 +41,14 @@ British customs enforcement made imperial trade rules visible in ports, ships, s
 ## Key Decisions
 - [[Sugar Act]]
 - [[Townshend Acts]]
+- [[Townshend Revenue Act]]
 - [[Liberty Affair]]
 - [[Gaspee Affair]]
 
 ## Events Involved In
 - [[Sugar Act]]
 - [[Townshend Acts]]
+- [[Townshend Revenue Act]]
 - [[Liberty Affair]]
 - [[Boston Occupation]]
 - [[Gaspee Affair]]
@@ -60,10 +64,12 @@ British customs enforcement made imperial trade rules visible in ports, ships, s
 - [[Patriot Movement]]
 
 ## Internal Tensions
-Customs enforcement could look like ordinary imperial administration in London and like intrusive, corrupt, or illegitimate power in colonial port communities.
+Customs enforcement could look like ordinary imperial administration in London and like intrusive, corrupt, or illegitimate power in colonial port communities. The Townshend Revenue Act tightened port reporting and search authority, while the Boston customs board made enforcement more concentrated and visible.
 
 ## Sources
 - [[Source - Avalon Sugar Act 1764]]
 - [[Source - Rhode Island Historical Society Burning of the Gaspee]]
+- [[Source - Avalon Townshend Revenue Act 1767]]
+- [[Source - Britannica Townshend Acts Overview]]
 - [[Source - American Battlefield Trust Townshend Act 1767]]
 - [[Source - Commonwealth Museum Customs Commissioners and Liberty]]

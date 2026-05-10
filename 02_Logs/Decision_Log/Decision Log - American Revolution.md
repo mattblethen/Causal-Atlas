@@ -26,6 +26,8 @@ sources:
   - Source - LOC Philipsburg Proclamation
   - Source - Colonial Williamsburg Philipsburg Proclamation
   - Source - LAC Book of Negroes 1783
+  - Source - Avalon Townshend Revenue Act 1767
+  - Source - Britannica Townshend Acts Overview
 ---
 
 # Decision Log - American Revolution
@@ -127,6 +129,34 @@ Consequences:
 Sources:
 - [[Source - Wikisource Letters from a Farmer]]
 - [[Source - Constitution Center Letters from a Farmer]]
+
+## 1767 - Parliament chooses the Townshend revenue program
+
+Decision:
+Parliament adopted the Townshend program, including colonial revenue duties and tighter customs enforcement after the Stamp Act repeal.
+
+Why it mattered:
+The decision tried to preserve imperial revenue and parliamentary authority while avoiding another stamp-tax form, but colonists still treated revenue duties as taxation without consent.
+
+Priority conflict:
+- Imperial revenue and official salary control versus colonial assembly consent and local fiscal leverage.
+
+Alternatives:
+- Request funds through colonial assemblies.
+- Repeal revenue pressure after the Stamp Act crisis.
+- Restrict the measures to trade regulation without revenue use.
+
+Consequences:
+- [[Townshend Acts]]
+- [[Townshend Revenue Act]]
+- [[Letters from a Farmer in Pennsylvania]]
+- [[Massachusetts Circular Letter]]
+- [[Boston Non-Importation Agreement]]
+- [[Liberty Affair]]
+
+Sources:
+- [[Source - Avalon Townshend Revenue Act 1767]]
+- [[Source - Britannica Townshend Acts Overview]]
 
 ## 1768 - Massachusetts circulates the Townshend dispute
 

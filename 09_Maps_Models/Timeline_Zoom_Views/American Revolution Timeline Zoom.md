@@ -16,6 +16,8 @@ sources:
   - Source - MHS Wemms Trial Verdicts
   - Source - LOC Philipsburg Proclamation
   - Source - LAC Book of Negroes 1783
+  - Source - Avalon Townshend Revenue Act 1767
+  - Source - Britannica Townshend Acts Overview
   - Source - LOC Declaration of Independence Guide
 ---
 
@@ -37,6 +39,7 @@ sources:
 
 ## 1767-1772 - Customs, Troops, and Public Opinion
 - [[Townshend Acts]]
+- [[Townshend Revenue Act]]
 - [[Letters from a Farmer in Pennsylvania]]
 - [[Massachusetts Circular Letter]]
 - [[Glorious 92]]

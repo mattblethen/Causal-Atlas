@@ -35,6 +35,9 @@ sources:
   - Source - Colonial Williamsburg Philipsburg Proclamation
   - Source - LAC Book of Negroes 1783
   - Source - Nova Scotia Archives Book of Negroes
+  - Source - Avalon Townshend Revenue Act 1767
+  - Source - UNL Townshend Revenue Act 1767
+  - Source - Britannica Townshend Acts Overview
 ---
 
 # Activity Log - American Revolution
@@ -112,17 +115,21 @@ Sources:
 ## 1767-1770 - Townshend Acts and Boston Massacre
 
 What happened:
-Parliament renewed customs-based revenue policy, and military enforcement tensions culminated in the Boston Massacre.
+Parliament renewed customs-based revenue policy through the Townshend program. The Revenue Act imposed duties on imported glass, lead, painters' colors, paper, and tea, while the wider program included assembly suspension pressure, stricter customs machinery, and tea-trade changes. Enforcement tensions eventually culminated in the Boston Massacre.
 
 Related:
 - [[Townshend Acts]]
+- [[Townshend Revenue Act]]
 - [[Boston Massacre]]
 
 Why it matters:
-This bridge shows why resistance did not simply disappear after Stamp Act repeal.
+This bridge shows why resistance did not simply disappear after Stamp Act repeal: the conflict shifted from stamped paper to customs duties, port enforcement, official salaries, and assembly autonomy.
 
 Sources:
 - [[Source - LOC British Reforms and Colonial Resistance 1767-1772]]
+- [[Source - Avalon Townshend Revenue Act 1767]]
+- [[Source - UNL Townshend Revenue Act 1767]]
+- [[Source - Britannica Townshend Acts Overview]]
 - [[Source - American Battlefield Trust Townshend Act 1767]]
 - [[Source - LOC Short Narrative of the Boston Massacre]]
 - [[Source - Rhode Island Historical Society Burning of the Gaspee]]

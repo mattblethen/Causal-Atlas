@@ -11,7 +11,7 @@ status: active
 - British budget, debt, and taxation records where available.
 - Stamp Act text and colonial responses.
 - Stamp Act Congress resolutions.
-- Massachusetts Circular Letter, imperial response, and related assembly records.
+- Townshend Revenue Act, Massachusetts Circular Letter, imperial response, and related assembly records.
 - Nonimportation agreements, boycott broadsides, and homespun/Daughters of Liberty sources.
 - Boston occupation records, customs enforcement accounts, and troop landing sources.
 - Boston Massacre visual, pamphlet, trial, and aftermath sources; next layer should compare witness claims across them.

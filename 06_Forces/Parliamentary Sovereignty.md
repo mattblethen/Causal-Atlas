@@ -10,6 +10,7 @@ manifestations:
   - Stamp Act
   - Declaratory Act
   - Townshend Acts
+  - Townshend Revenue Act
   - Boston Occupation
   - Boston Massacre Trials
   - Coercive Acts
@@ -26,6 +27,7 @@ sources:
   - Source - Founders Online Continental Association 1774
   - Source - NCpedia Committees of Observation
   - Source - MHS Wemms Trial Verdicts
+  - Source - Avalon Townshend Revenue Act 1767
 ---
 
 # Parliamentary Sovereignty
@@ -40,6 +42,7 @@ The claim that Parliament held ultimate legislative authority over the empire, i
 - [[Stamp Act]]
 - [[Declaratory Act]]
 - [[Townshend Acts]]
+- [[Townshend Revenue Act]]
 - [[Boston Occupation]]
 - [[Boston Massacre Trials]]
 - [[Coercive Acts]]
@@ -63,3 +66,4 @@ Turned revenue disputes into a broader constitutional conflict over authority, r
 - [[Source - Founders Online Continental Association 1774]]
 - [[Source - NCpedia Committees of Observation]]
 - [[Source - MHS Wemms Trial Verdicts]]
+- [[Source - Avalon Townshend Revenue Act 1767]]

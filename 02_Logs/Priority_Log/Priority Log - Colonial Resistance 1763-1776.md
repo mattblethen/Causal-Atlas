@@ -22,6 +22,7 @@ sources:
   - Source - UK National Archives Boston Tea Party
   - Source - LOC Journals of the Continental Congress
   - Source - LOC Philipsburg Proclamation
+  - Source - Avalon Townshend Revenue Act 1767
 ---
 
 # Priority Log - Colonial Resistance 1763-1776
@@ -42,6 +43,8 @@ Manifested In:
 - [[Stamp Act]]
 - [[Stamp Act Congress]]
 - [[Nonimportation Agreements]]
+- [[Townshend Acts]]
+- [[Townshend Revenue Act]]
 - [[Massachusetts Circular Letter]]
 - [[Homespun Movement]]
 - [[Glorious 92]]
@@ -79,3 +82,4 @@ Sources:
 - [[Source - UK National Archives Boston Tea Party]]
 - [[Source - LOC Journals of the Continental Congress]]
 - [[Source - LOC Philipsburg Proclamation]]
+- [[Source - Avalon Townshend Revenue Act 1767]]

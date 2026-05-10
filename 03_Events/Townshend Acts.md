@@ -21,6 +21,7 @@ actors:
   - Colonial Assemblies
 related_events:
   - Stamp Act
+  - Townshend Revenue Act
   - Letters from a Farmer in Pennsylvania
   - Massachusetts Circular Letter
   - Boston Non-Importation Agreement
@@ -33,6 +34,9 @@ status: researched
 confidence: medium
 sources:
   - Source - LOC British Reforms and Colonial Resistance 1767-1772
+  - Source - Avalon Townshend Revenue Act 1767
+  - Source - UNL Townshend Revenue Act 1767
+  - Source - Britannica Townshend Acts Overview
   - Source - American Battlefield Trust Townshend Act 1767
   - Source - Constitution Center Letters from a Farmer
   - Source - Avalon Massachusetts Circular Letter 1768
@@ -46,7 +50,7 @@ sources:
 The Townshend Acts renewed the taxation and representation conflict after the Stamp Act repeal. They made customs enforcement, revenue, and assembly autonomy central to the imperial crisis.
 
 ## What Happened
-Parliament imposed duties on imported goods including glass, lead, paper, and tea. The revenue was connected to civil government, justice, and defense in America. The British also suspended the New York Assembly after resistance to quartering requirements.
+Parliament's Townshend program included the suspension threat against New York's assembly, revenue duties on imported goods, stricter customs collection machinery, and the Indemnity Act's tea-trade adjustment. The Revenue Act placed duties on goods including glass, lead, painters' colors, paper, and tea, and tied revenue to civil government, justice, and defense in America.
 
 ## Manifested From
 - [[Stamp Act]]
@@ -54,9 +58,10 @@ Parliament imposed duties on imported goods including glass, lead, paper, and te
 - [[Parliamentary Sovereignty]]
 
 ## Manifested As
-The revenue conflict shifted from stamped paper to customs duties, enforcement machinery, standing armies, and assembly power.
+The revenue conflict shifted from stamped paper to customs duties, enforcement machinery, standing armies, assembly power, and control over salaries for governors and judges.
 
 ## Led To
+- [[Townshend Revenue Act]]
 - [[Letters from a Farmer in Pennsylvania]]
 - [[Massachusetts Circular Letter]]
 - [[Boston Non-Importation Agreement]]
@@ -68,6 +73,7 @@ The revenue conflict shifted from stamped paper to customs duties, enforcement m
 
 ## Related Decisions
 - Parliament chose customs duties and tighter enforcement after the Stamp Act crisis.
+- Parliament chose to suspend New York's assembly authority until it complied with quartering requirements.
 - Colonists renewed nonimportation and political resistance.
 
 ## Related Priorities
@@ -86,10 +92,13 @@ The revenue conflict shifted from stamped paper to customs duties, enforcement m
 - [[John Dickinson]]
 
 ## Research Notes
-Future work should split the Revenue Act, Commissioners of Customs Act, New York Restraining Act, and Indemnity Act if the module needs finer legal detail.
+The Revenue Act now has its own source-backed note. Later work can still split the Commissioners of Customs Act, New York Restraining Act, and Indemnity Act if the module needs finer legal detail.
 
 ## Sources
 - [[Source - LOC British Reforms and Colonial Resistance 1767-1772]]
+- [[Source - Avalon Townshend Revenue Act 1767]]
+- [[Source - UNL Townshend Revenue Act 1767]]
+- [[Source - Britannica Townshend Acts Overview]]
 - [[Source - American Battlefield Trust Townshend Act 1767]]
 - [[Source - Constitution Center Letters from a Farmer]]
 - [[Source - Avalon Massachusetts Circular Letter 1768]]

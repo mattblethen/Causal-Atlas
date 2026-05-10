@@ -22,6 +22,7 @@ status: scaffold
 - [[Quartering Act]]
 - [[Declaratory Act]]
 - [[Townshend Acts]]
+- [[Townshend Revenue Act]]
 - [[Letters from a Farmer in Pennsylvania]]
 - [[Massachusetts Circular Letter]]
 - [[Glorious 92]]

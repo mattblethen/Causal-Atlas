@@ -25,6 +25,7 @@ sources:
   - Source - NPS Rebellion Minute Man
   - Source - LOC Philipsburg Proclamation
   - Source - LAC Book of Negroes 1783
+  - Source - Avalon Townshend Revenue Act 1767
 ---
 
 # American Revolution Actor Map
@@ -35,9 +36,11 @@ flowchart LR
     BP --> SUG["Sugar Act"]
     BP --> SA["Stamp Act"]
     BP --> DA["Declaratory Act"]
+    BP --> TRA["Townshend Revenue Act"]
     BP --> TA["Tea Act"]
     BP --> COA["Coercive Acts"]
     BP --> BCE["British Customs Enforcement"]
+    TRA --> BCE
     BCE --> LIB["Liberty Affair"]
     LIB --> OCC["Boston Occupation"]
     BCE --> GAS["Gaspee Affair"]
@@ -121,6 +124,7 @@ flowchart LR
 
 ## Reading the Map
 - Parliament is the legal mechanism for imperial policy.
+- The Townshend Revenue Act links Parliament directly to customs enforcement and colonial assembly resistance.
 - The East India Company is a commercial actor whose crisis became political through the Tea Act.
 - Colonial assemblies, resistance networks, and Congress represent escalating forms of colonial coordination.
 - Nonimportation, homespun, and circular-letter politics show resistance infrastructure before the First Continental Congress.
@@ -153,3 +157,4 @@ flowchart LR
 - [[Source - NPS Rebellion Minute Man]]
 - [[Source - LOC Philipsburg Proclamation]]
 - [[Source - LAC Book of Negroes 1783]]
+- [[Source - Avalon Townshend Revenue Act 1767]]

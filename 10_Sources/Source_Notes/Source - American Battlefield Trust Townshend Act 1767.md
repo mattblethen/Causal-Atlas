@@ -9,6 +9,7 @@ url: https://www.battlefields.org/learn/primary-sources/townshend-act
 accessed: 2026-05-09
 related_events:
   - Townshend Acts
+  - Townshend Revenue Act
 related_forces:
   - British Imperial Debt
   - Parliamentary Sovereignty
@@ -33,6 +34,7 @@ Primary-source presentation of the Townshend Revenue Act text.
 
 ## Connected Notes
 - [[Townshend Acts]]
+- [[Townshend Revenue Act]]
 - [[British Imperial Debt]]
 - [[Parliamentary Sovereignty]]
 
