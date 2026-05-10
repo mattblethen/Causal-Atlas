@@ -6,6 +6,7 @@ scale: global
 threads:
   - Nation State Formation
 manifestations:
+  - Common Sense
   - Declaration of Independence
 opposed_by:
   - Empire
@@ -13,7 +14,10 @@ intensified_by:
   - Thread - War and State Formation
 status: stub
 confidence: medium
-sources: []
+sources:
+  - Source - Constitution Center Common Sense
+  - Source - ABT Common Sense Primary Text
+  - Source - Smithsonian Common Sense Pamphlet 1776
 ---
 
 # Nationalism
@@ -25,6 +29,7 @@ Political legitimacy becomes tied to peoplehood, self-rule, territorial sovereig
 - Emerges strongly in the age of revolutions and expands through modern history.
 
 ## Manifested As
+- [[Common Sense]]
 - [[Declaration of Independence]]
 
 ## Deeper Roots
@@ -40,4 +45,6 @@ Political legitimacy becomes tied to peoplehood, self-rule, territorial sovereig
 Connects the American Revolution to later revolutionary, independence, and nation-state movements.
 
 ## Sources
--
+- [[Source - Constitution Center Common Sense]]
+- [[Source - ABT Common Sense Primary Text]]
+- [[Source - Smithsonian Common Sense Pamphlet 1776]]

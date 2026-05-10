@@ -24,6 +24,7 @@ status: active
 - Lexington and Concord contemporary accounts.
 - Olive Branch Petition text and drafting context.
 - Declaration of the Causes and Necessity of Taking Up Arms text, drafting context, and print circulation.
+- Common Sense primary text, object records, print circulation, and reception evidence.
 - Declaration of Independence drafts and final text.
 - Black Loyalist proclamations, evacuation registers, and settlement records.
 

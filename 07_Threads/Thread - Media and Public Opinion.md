@@ -29,6 +29,9 @@ sources:
   - Source - Mount Vernon Committees of Correspondence
   - Source - LOC New York Committee Observation 1775
   - Source - LOC Declaration Causes Broadside 1775
+  - Source - Clements Common Sense Going Viral 1776
+  - Source - ABT Common Sense Primary Text
+  - Source - Founders Online Washington Reed Common Sense 1776
   - Source - LOC Wemms Trial Transcript
   - Source - MHS Wemms Trial Verdicts
 ---
@@ -74,6 +77,7 @@ Media systems shape what publics know, believe, repeat, contest, and organize ar
 - [[Boston Massacre Trials]]
 - [[Local Association Enforcement]]
 - [[Declaration of the Causes and Necessity of Taking Up Arms]]
+- [[Common Sense]]
 
 ## Long-Term Consequences
 Connects print culture in the American Revolution to later newspaper, radio, television, internet, and platform-era politics.
@@ -84,5 +88,8 @@ Connects print culture in the American Revolution to later newspaper, radio, tel
 - [[Source - Mount Vernon Committees of Correspondence]]
 - [[Source - LOC New York Committee Observation 1775]]
 - [[Source - LOC Declaration Causes Broadside 1775]]
+- [[Source - Clements Common Sense Going Viral 1776]]
+- [[Source - ABT Common Sense Primary Text]]
+- [[Source - Founders Online Washington Reed Common Sense 1776]]
 - [[Source - LOC Wemms Trial Transcript]]
 - [[Source - MHS Wemms Trial Verdicts]]

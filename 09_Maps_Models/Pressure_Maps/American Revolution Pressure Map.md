@@ -33,6 +33,9 @@ sources:
   - Source - Britannica Townshend Acts Overview
   - Source - Founders Online Declaration Causes Taking Up Arms
   - Source - Avalon Olive Branch Petition 1775
+  - Source - ABT Common Sense Primary Text
+  - Source - Clements Common Sense Going Viral 1776
+  - Source - Founders Online Washington Reed Common Sense 1776
 ---
 
 # American Revolution Pressure Map
@@ -104,6 +107,7 @@ flowchart TD
     V --> Y["Proclamation for Suppressing Rebellion and Sedition"]
     VE --> W["Common Sense"]
     Y --> W["Common Sense"]
+    R["Mass Media / Print Culture"] --> W
     X --> AH["Siege of Boston"]
     AL --> AM["Dorchester Heights"]
     AH --> AM
@@ -143,6 +147,7 @@ flowchart TD
 - The occupation path shows how customs enforcement and assembly defiance became a daily military presence before the Boston Massacre.
 - The trial path shows how the Massacre became courtroom testimony, verdict, and rule-of-law legitimacy as well as propaganda.
 - The July 1775 petition/declaration path shows Congress trying to hold reconciliation and armed defense together before the king's rebellion framing pushed the conflict toward independence.
+- The Common Sense path shows the independence argument becoming a mass print intervention rather than an elite-only congressional question.
 - The slavery-war path shows how British freedom policies and Black Loyalist evacuation exposed the limits of Patriot liberty claims.
 - The committee path shows how correspondence and inspection converted information sharing into enforceable continental and local pressure.
 
@@ -179,3 +184,6 @@ Medium. The broad causal relationships are supported by institutional sources, b
 - [[Source - Britannica Townshend Acts Overview]]
 - [[Source - Founders Online Declaration Causes Taking Up Arms]]
 - [[Source - Avalon Olive Branch Petition 1775]]
+- [[Source - ABT Common Sense Primary Text]]
+- [[Source - Clements Common Sense Going Viral 1776]]
+- [[Source - Founders Online Washington Reed Common Sense 1776]]

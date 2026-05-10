@@ -13,6 +13,7 @@ related_events:
   - Lexington and Concord
   - Declaration of the Causes and Necessity of Taking Up Arms
   - Proclamation for Suppressing Rebellion and Sedition
+  - Common Sense
 related_people: []
 status: stub
 confidence: medium
@@ -21,6 +22,7 @@ sources:
   - Source - MHS Wemms Trial Verdicts
   - Source - Founders Online Declaration Causes Taking Up Arms
   - Source - US House King's Proclamation for Suppressing Rebellion
+  - Source - Founders Online Washington Reed Common Sense 1776
 ---
 
 # Thread - War and State Formation
@@ -38,6 +40,7 @@ War pressures states to tax, borrow, centralize administration, mobilize people,
 - [[Lexington and Concord]]
 - [[Declaration of the Causes and Necessity of Taking Up Arms]]
 - [[Proclamation for Suppressing Rebellion and Sedition]]
+- [[Common Sense]]
 
 ## Timeline
 -
@@ -66,3 +69,4 @@ This thread helps connect military conflict to fiscal systems, bureaucracy, legi
 - [[Source - MHS Wemms Trial Verdicts]]
 - [[Source - Founders Online Declaration Causes Taking Up Arms]]
 - [[Source - US House King's Proclamation for Suppressing Rebellion]]
+- [[Source - Founders Online Washington Reed Common Sense 1776]]

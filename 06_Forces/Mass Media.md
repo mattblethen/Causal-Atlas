@@ -16,6 +16,7 @@ manifestations:
   - Boston Massacre Trials
   - Local Association Enforcement
   - Declaration of the Causes and Necessity of Taking Up Arms
+  - Common Sense
 opposed_by: []
 intensified_by:
   - Enlightenment Thought
@@ -29,6 +30,8 @@ sources:
   - Source - Mount Vernon Committees of Correspondence
   - Source - LOC New York Committee Observation 1775
   - Source - LOC Declaration Causes Broadside 1775
+  - Source - Clements Common Sense Going Viral 1776
+  - Source - LOC Common Sense Title Page 1776
   - Source - LOC Revere Bloody Massacre Engraving
   - Source - MHS Fair Account Boston Massacre
   - Source - LOC Wemms Trial Transcript
@@ -53,6 +56,7 @@ Communication technologies and publishing networks shape public opinion, coordin
 - [[Boston Massacre Trials]]
 - [[Local Association Enforcement]]
 - [[Declaration of the Causes and Necessity of Taking Up Arms]]
+- [[Common Sense]]
 - [[Declaration of Independence]]
 
 ## Deeper Roots
@@ -75,6 +79,8 @@ Helps explain how local grievances become shared political causes across distanc
 - [[Source - Mount Vernon Committees of Correspondence]]
 - [[Source - LOC New York Committee Observation 1775]]
 - [[Source - LOC Declaration Causes Broadside 1775]]
+- [[Source - Clements Common Sense Going Viral 1776]]
+- [[Source - LOC Common Sense Title Page 1776]]
 - [[Source - LOC Revere Bloody Massacre Engraving]]
 - [[Source - MHS Fair Account Boston Massacre]]
 - [[Source - LOC Wemms Trial Transcript]]

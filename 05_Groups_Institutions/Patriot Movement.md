@@ -24,6 +24,8 @@ sources:
   - Source - Founders Online Braintree Association 1775
   - Source - Founders Online Declaration Causes Taking Up Arms
   - Source - LOC Declaration Causes Broadside 1775
+  - Source - ABT Common Sense Primary Text
+  - Source - Clements Common Sense Going Viral 1776
   - Source - Colonial Williamsburg Sons and Daughters of Liberty
   - Source - Britannica Nonimportation Agreements
 ---
@@ -49,6 +51,7 @@ The Patriot movement coordinated and justified resistance to imperial policy, gr
 - [[Local Association Enforcement]]
 - [[Lexington and Concord]]
 - [[Declaration of the Causes and Necessity of Taking Up Arms]]
+- [[Common Sense]]
 - [[Declaration of Independence]]
 
 ## Events Involved In
@@ -63,6 +66,7 @@ The Patriot movement coordinated and justified resistance to imperial policy, gr
 - [[Local Association Enforcement]]
 - [[Lexington and Concord]]
 - [[Declaration of the Causes and Necessity of Taking Up Arms]]
+- [[Common Sense]]
 - [[Declaration of Independence]]
 
 ## Forces Embodied
@@ -85,5 +89,7 @@ The movement used universal rights language while colonial society remained stru
 - [[Source - Founders Online Braintree Association 1775]]
 - [[Source - Founders Online Declaration Causes Taking Up Arms]]
 - [[Source - LOC Declaration Causes Broadside 1775]]
+- [[Source - ABT Common Sense Primary Text]]
+- [[Source - Clements Common Sense Going Viral 1776]]
 - [[Source - Colonial Williamsburg Sons and Daughters of Liberty]]
 - [[Source - Britannica Nonimportation Agreements]]

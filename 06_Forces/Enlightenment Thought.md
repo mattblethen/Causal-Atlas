@@ -8,6 +8,7 @@ threads:
 manifestations:
   - Colonial Resistance
   - Boston Massacre Trials
+  - Common Sense
   - Declaration of Independence
 opposed_by: []
 intensified_by:
@@ -16,6 +17,7 @@ status: researching
 confidence: medium
 sources:
   - Source - MHS Adams Argument Wemms Trial
+  - Source - ABT Common Sense Primary Text
 ---
 
 # Enlightenment Thought
@@ -29,6 +31,7 @@ Ideas about rights, consent, representation, natural law, and legitimate governm
 ## Manifested As
 - [[Colonial Resistance]]
 - [[Boston Massacre Trials]]
+- [[Common Sense]]
 - [[Declaration of Independence]]
 
 ## Deeper Roots
@@ -45,3 +48,4 @@ Provided language and frameworks that helped colonial grievances become constitu
 
 ## Sources
 - [[Source - MHS Adams Argument Wemms Trial]]
+- [[Source - ABT Common Sense Primary Text]]

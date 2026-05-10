@@ -20,6 +20,7 @@ confidence: medium
 - Local enforcement notes for [[Local Association Enforcement]] and [[Committees of Safety]]
 - Black Loyalist expansion for [[Philipsburg Proclamation]], [[Black Loyalist Evacuation]], and [[Black Loyalists]]
 - Failed-reconciliation packet for [[Declaration of the Causes and Necessity of Taking Up Arms]] and [[Olive Branch Petition]]
+- Common Sense source packet with primary text, object records, print-circulation context, and Washington reception evidence
 
 ## Sources Used
 - [[Source - LOC American Revolution Primary Source Timeline]]
@@ -82,20 +83,26 @@ confidence: medium
 - [[Source - Founders Online Declaration Causes Editorial Note]]
 - [[Source - NPS Declaration Causes Taking Up Arms]]
 - [[Source - LOC Declaration Causes Broadside 1775]]
+- [[Source - ABT Common Sense Primary Text]]
+- [[Source - LOC Common Sense Title Page 1776]]
+- [[Source - Smithsonian Common Sense Pamphlet 1776]]
+- [[Source - Clements Common Sense Going Viral 1776]]
+- [[Source - Founders Online Washington Reed Common Sense 1776]]
+- [[Source - US House Common Sense and Continental Congress]]
 
 ## Unresolved Research Gaps
 - Add direct primary text for the Tea Act.
 - Replace or supplement the Coercive Acts source with Parliamentary Archives, Avalon, or another archival/legal source.
 - Add exact British debt figures with a scholarly source and explain uncertainty.
 - Add regional committee-of-safety and committee-of-observation comparisons beyond Massachusetts and North Carolina.
-- Add direct primary text and circulation scholarship for Common Sense.
+- Compare Common Sense editions, Paine-Bell advertising dispute, and Plain Truth response.
 - Compare Patriot/Loyalist pamphlet claims with the Boston Massacre trial transcript witness by witness.
 - Add people and command notes for British commanders, Washington's military command, local actors, women correspondents, Indigenous leaders, and Black Loyalist individuals where sources support them.
 - Expand slavery and Indigenous displacement context without forcing those threads into every event.
 
 ## Next Recommended Module Step
-Deepen the Common Sense packet, then build the witness-by-witness Boston Massacre pamphlet/trial comparison before moving into broader post-1776 military campaigns.
+Build the witness-by-witness Boston Massacre pamphlet/trial comparison, then add a Paine-Bell/Plain Truth response comparison before moving into broader post-1776 military campaigns.
 
 ## Progress Estimate
-- Whole vault roadmap: about 17% complete.
-- American Revolution module: about 90% complete.
+- Whole vault roadmap: about 18% complete.
+- American Revolution module: about 92% complete.

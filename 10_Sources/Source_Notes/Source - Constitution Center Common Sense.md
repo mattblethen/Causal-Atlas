@@ -9,6 +9,7 @@ url: https://constitutioncenter.org/the-constitution/historic-document-library/d
 accessed: 2026-05-09
 related_events:
   - Common Sense
+  - Proclamation for Suppressing Rebellion and Sedition
   - Declaration of Independence
 related_forces:
   - Enlightenment Thought
@@ -29,6 +30,7 @@ National Constitution Center historic document page on Thomas Paine's Common Sen
 - Common Sense appeared in January 1776 when reconciliation seemed unlikely but independence remained controversial.
 - Paine made a forceful case for separation from Britain and against monarchy.
 - The pamphlet shaped public opinion and helped move colonists toward independence.
+- The Constitution Center emphasizes Paine's plain language, radical democratic spirit, and attack on monarchy.
 
 ## Relevant Quotes
 > "separation"
@@ -39,4 +41,4 @@ National Constitution Center historic document page on Thomas Paine's Common Sen
 - [[Thomas Paine]]
 
 ## Researcher Notes
-Good high-level source. Later pass should add the primary text itself from a public-domain transcription or scanned edition.
+Good high-level source. This is now supplemented by ABT primary text, LOC and Smithsonian object records, Clements print-history context, and a Founders Online reception source.

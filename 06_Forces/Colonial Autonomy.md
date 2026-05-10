@@ -17,6 +17,7 @@ manifestations:
   - Boston Massacre Trials
   - First Continental Congress
   - Declaration of the Causes and Necessity of Taking Up Arms
+  - Common Sense
 opposed_by:
   - Parliamentary Sovereignty
 intensified_by:
@@ -29,6 +30,7 @@ sources:
   - Source - Founders Online Continental Association 1774
   - Source - Founders Online Braintree Association 1775
   - Source - Founders Online Declaration Causes Taking Up Arms
+  - Source - ABT Common Sense Primary Text
   - Source - NCpedia Committees of Safety Primary Source
   - Source - MHS Adams Argument Wemms Trial
 ---
@@ -52,6 +54,7 @@ Colonial institutions and political culture developed expectations of local self
 - [[Boston Massacre Trials]]
 - [[First Continental Congress]]
 - [[Declaration of the Causes and Necessity of Taking Up Arms]]
+- [[Common Sense]]
 - [[Declaration of Independence]]
 
 ## Deeper Roots
@@ -75,5 +78,6 @@ Helped convert specific tax disputes into claims about consent, rights, and self
 - [[Source - Founders Online Continental Association 1774]]
 - [[Source - Founders Online Braintree Association 1775]]
 - [[Source - Founders Online Declaration Causes Taking Up Arms]]
+- [[Source - ABT Common Sense Primary Text]]
 - [[Source - NCpedia Committees of Safety Primary Source]]
 - [[Source - MHS Adams Argument Wemms Trial]]

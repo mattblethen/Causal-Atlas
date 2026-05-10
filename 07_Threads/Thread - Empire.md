@@ -19,6 +19,7 @@ related_events:
   - Declaration of the Causes and Necessity of Taking Up Arms
   - Olive Branch Petition
   - Proclamation for Suppressing Rebellion and Sedition
+  - Common Sense
 status: stub
 confidence: medium
 sources:
@@ -27,6 +28,7 @@ sources:
   - Source - NCpedia Committees of Observation
   - Source - Avalon Olive Branch Petition 1775
   - Source - US House King's Proclamation for Suppressing Rebellion
+  - Source - ABT Common Sense Primary Text
 ---
 
 # Thread - Empire
@@ -50,6 +52,7 @@ Empires expand, administer territory, extract resources, justify authority, and 
 - [[Declaration of the Causes and Necessity of Taking Up Arms]]
 - [[Olive Branch Petition]]
 - [[Proclamation for Suppressing Rebellion and Sedition]]
+- [[Common Sense]]
 
 ## Timeline
 -
@@ -75,6 +78,7 @@ Empires expand, administer territory, extract resources, justify authority, and 
 - [[First Continental Congress]]
 - [[Olive Branch Petition]]
 - [[Proclamation for Suppressing Rebellion and Sedition]]
+- [[Common Sense]]
 
 ## Long-Term Consequences
 Empire links fiscal extraction, sovereignty claims, trade policy, resistance, and revolutionary rupture across the American Revolution module.
@@ -85,3 +89,4 @@ Empire links fiscal extraction, sovereignty claims, trade policy, resistance, an
 - [[Source - NCpedia Committees of Observation]]
 - [[Source - Avalon Olive Branch Petition 1775]]
 - [[Source - US House King's Proclamation for Suppressing Rebellion]]
+- [[Source - ABT Common Sense Primary Text]]

@@ -25,6 +25,7 @@ related_events:
   - Continental Association
   - Local Association Enforcement
   - Declaration of the Causes and Necessity of Taking Up Arms
+  - Common Sense
 status: stub
 confidence: medium
 sources:
@@ -34,6 +35,7 @@ sources:
   - Source - MHS Adams Argument Wemms Trial
   - Source - Avalon Townshend Revenue Act 1767
   - Source - Founders Online Declaration Causes Taking Up Arms
+  - Source - ABT Common Sense Primary Text
 ---
 
 # Thread - Taxation and Representation
@@ -61,6 +63,7 @@ Conflict over who had legitimate authority to tax the colonies and whether taxat
 - [[Continental Association]]
 - [[Local Association Enforcement]]
 - [[Declaration of the Causes and Necessity of Taking Up Arms]]
+- [[Common Sense]]
 
 ## Timeline
 -
@@ -88,6 +91,7 @@ Conflict over who had legitimate authority to tax the colonies and whether taxat
 - [[Continental Association]]
 - [[Local Association Enforcement]]
 - [[Declaration of the Causes and Necessity of Taking Up Arms]]
+- [[Common Sense]]
 
 ## Long-Term Consequences
 Taxation disputes became constitutional disputes over representation, consent, and legitimate imperial authority.
@@ -102,3 +106,4 @@ Expand with primary sources, parliamentary acts, colonial pamphlets, and institu
 - [[Source - MHS Adams Argument Wemms Trial]]
 - [[Source - Avalon Townshend Revenue Act 1767]]
 - [[Source - Founders Online Declaration Causes Taking Up Arms]]
+- [[Source - ABT Common Sense Primary Text]]

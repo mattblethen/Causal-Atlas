@@ -25,11 +25,14 @@ actors:
 related_events:
   - First Continental Congress
   - Lexington and Concord
+  - Common Sense
 status: researched
 confidence: medium
 sources:
   - Source - LOC Declaration of Independence Guide
   - Source - LOC Journals of the Continental Congress
+  - Source - US House Common Sense and Continental Congress
+  - Source - Founders Online Washington Reed Common Sense 1776
 ---
 
 # 1776-07-04 - Declaration of Independence
@@ -43,6 +46,7 @@ On July 4, 1776, the Second Continental Congress adopted the Declaration of Inde
 ## Manifested From
 - [[Lexington and Concord]]
 - [[First Continental Congress]]
+- [[Common Sense]]
 - [[Colonial Autonomy]]
 - [[Enlightenment Thought]]
 
@@ -57,6 +61,7 @@ Colonial resistance became a public claim that the colonies were independent sta
 ## Related Decisions
 - The Continental Congress chose formal independence after armed conflict and failed reconciliation.
 - Congress edited and adopted a collective declaration rather than a private authorial statement.
+- Common Sense helped make formal independence a publicly thinkable and politically urgent option.
 
 ## Related Priorities
 - [[Priority Log - Colonial Resistance 1763-1776]]
@@ -79,3 +84,5 @@ Later expansion should address Jefferson's draft, congressional edits, print cir
 ## Sources
 - [[Source - LOC Declaration of Independence Guide]]
 - [[Source - LOC Journals of the Continental Congress]]
+- [[Source - US House Common Sense and Continental Congress]]
+- [[Source - Founders Online Washington Reed Common Sense 1776]]

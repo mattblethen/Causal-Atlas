@@ -25,6 +25,8 @@ sources:
   - Source - Avalon Townshend Revenue Act 1767
   - Source - Founders Online Declaration Causes Taking Up Arms
   - Source - Avalon Olive Branch Petition 1775
+  - Source - ABT Common Sense Primary Text
+  - Source - Clements Common Sense Going Viral 1776
 ---
 
 # Priority Log - Colonial Resistance 1763-1776
@@ -64,6 +66,7 @@ Manifested In:
 - [[Lexington and Concord]]
 - [[Declaration of the Causes and Necessity of Taking Up Arms]]
 - [[Olive Branch Petition]]
+- [[Common Sense]]
 - [[Lord Dunmore's Proclamation]]
 - [[Philipsburg Proclamation]]
 - [[Declaration of Independence]]
@@ -89,3 +92,5 @@ Sources:
 - [[Source - Avalon Townshend Revenue Act 1767]]
 - [[Source - Founders Online Declaration Causes Taking Up Arms]]
 - [[Source - Avalon Olive Branch Petition 1775]]
+- [[Source - ABT Common Sense Primary Text]]
+- [[Source - Clements Common Sense Going Viral 1776]]

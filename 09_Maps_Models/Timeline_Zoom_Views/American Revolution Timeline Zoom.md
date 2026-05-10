@@ -22,6 +22,9 @@ sources:
   - Source - Founders Online Declaration Causes Taking Up Arms
   - Source - LOC Declaration Causes Broadside 1775
   - Source - Avalon Olive Branch Petition 1775
+  - Source - ABT Common Sense Primary Text
+  - Source - Clements Common Sense Going Viral 1776
+  - Source - Founders Online Washington Reed Common Sense 1776
 ---
 
 # American Revolution Timeline Zoom
@@ -92,4 +95,4 @@ sources:
 ## Notes
 - This timeline is a navigational zoom view, not a complete chronology.
 - Each entry should eventually link to source notes and maps.
-- Later passes should add responses to the Proclamation for Suppressing Rebellion and Sedition, regional Association enforcement comparisons, evacuation refugee experiences, Common Sense primary-text/circulation detail, and witness-by-witness comparison for the Boston Massacre pamphlet/trial packet.
+- Later passes should add responses to the Proclamation for Suppressing Rebellion and Sedition, regional Association enforcement comparisons, evacuation refugee experiences, Paine-Bell/Plain Truth response comparison, and witness-by-witness comparison for the Boston Massacre pamphlet/trial packet.

@@ -35,6 +35,12 @@ sources:
   - Source - Avalon Olive Branch Petition 1775
   - Source - Founders Online Olive Branch Petition Editorial Note
   - Source - NPS Declaration Causes Taking Up Arms
+  - Source - ABT Common Sense Primary Text
+  - Source - LOC Common Sense Title Page 1776
+  - Source - Smithsonian Common Sense Pamphlet 1776
+  - Source - Clements Common Sense Going Viral 1776
+  - Source - Founders Online Washington Reed Common Sense 1776
+  - Source - US House Common Sense and Continental Congress
   - Source - LOC Declaration of Independence Guide
   - Source - LOC Philipsburg Proclamation
   - Source - Colonial Williamsburg Philipsburg Proclamation
@@ -324,7 +330,7 @@ Sources:
 ## 1775-1776 - Armed Justification, Failed Reconciliation, and Public Independence Argument
 
 What happened:
-Congress adopted the Declaration of the Causes and Necessity of Taking Up Arms and the Olive Branch Petition in the same July 1775 moment, justifying armed resistance while still appealing for reconciliation. George III treated the colonies as being in rebellion, Dunmore's Proclamation exposed the slavery contradiction in wartime Virginia, and Common Sense helped popularize independence.
+Congress adopted the Declaration of the Causes and Necessity of Taking Up Arms and the Olive Branch Petition in the same July 1775 moment, justifying armed resistance while still appealing for reconciliation. George III treated the colonies as being in rebellion, Dunmore's Proclamation exposed the slavery contradiction in wartime Virginia, and Common Sense helped turn independence into a mass print argument.
 
 Related:
 - [[Declaration of the Causes and Necessity of Taking Up Arms]]
@@ -348,6 +354,11 @@ Sources:
 - [[Source - US House King's Proclamation for Suppressing Rebellion]]
 - [[Source - American Battlefield Trust Lord Dunmore's Proclamation]]
 - [[Source - Constitution Center Common Sense]]
+- [[Source - ABT Common Sense Primary Text]]
+- [[Source - LOC Common Sense Title Page 1776]]
+- [[Source - Smithsonian Common Sense Pamphlet 1776]]
+- [[Source - Clements Common Sense Going Viral 1776]]
+- [[Source - Founders Online Washington Reed Common Sense 1776]]
 
 ## 1775-1783 - Black Loyalists and Wartime Freedom Policy
 
@@ -374,11 +385,12 @@ Sources:
 ## 1776-07-04 - Declaration of Independence
 
 What happened:
-The Second Continental Congress adopted the Declaration of Independence.
+The Second Continental Congress adopted the Declaration of Independence after months in which Common Sense helped make independence more publicly thinkable.
 
 Related:
 - [[Declaration of Independence]]
 - [[Continental Congress]]
+- [[Common Sense]]
 
 Why it matters:
 Colonial resistance became a formal claim of separation from Great Britain.
@@ -386,3 +398,4 @@ Colonial resistance became a formal claim of separation from Great Britain.
 Sources:
 - [[Source - LOC Declaration of Independence Guide]]
 - [[Source - LOC Journals of the Continental Congress]]
+- [[Source - US House Common Sense and Continental Congress]]

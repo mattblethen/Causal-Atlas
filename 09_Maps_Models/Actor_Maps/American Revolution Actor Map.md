@@ -29,6 +29,10 @@ sources:
   - Source - Founders Online Declaration Causes Taking Up Arms
   - Source - Founders Online Declaration Causes Editorial Note
   - Source - Avalon Olive Branch Petition 1775
+  - Source - ABT Common Sense Primary Text
+  - Source - Clements Common Sense Going Viral 1776
+  - Source - Founders Online Washington Reed Common Sense 1776
+  - Source - US House Common Sense and Continental Congress
 ---
 
 # American Revolution Actor Map
@@ -89,8 +93,12 @@ flowchart LR
     TJ --> DCA
     BF["Benjamin Franklin"] --> OBP
     TP["Thomas Paine"] --> CS["Common Sense"]
+    CS --> PM
+    CS --> CCOP["Public Independence Opinion"]
+    CCOP --> DOI
     DCA --> CS
     CS --> DOI
+    GW -. notes effect .-> CS
     G3["George III"] --> OBPF["Olive Branch Petition Fails"]
     G3 --> REB["Rebellion Proclamation"]
     OBP --> OBPF
@@ -145,6 +153,7 @@ flowchart LR
 - The committees path shows information networks becoming Association enforcement through local inspection committees.
 - Local enforcement links boycott practice to committees of safety and militia-adjacent governance.
 - The July 1775 Congress path separates reconciliation petitioning from the public justification for armed resistance.
+- The Common Sense path shows Paine's pamphlet moving through public opinion and elite correspondence before Congress adopted independence.
 - Black Loyalists show enslaved people's freedom seeking inside British military strategy and Loyalist evacuation.
 - The Patriot movement is an umbrella note, not a single institution.
 
@@ -174,3 +183,7 @@ flowchart LR
 - [[Source - Founders Online Declaration Causes Taking Up Arms]]
 - [[Source - Founders Online Declaration Causes Editorial Note]]
 - [[Source - Avalon Olive Branch Petition 1775]]
+- [[Source - ABT Common Sense Primary Text]]
+- [[Source - Clements Common Sense Going Viral 1776]]
+- [[Source - Founders Online Washington Reed Common Sense 1776]]
+- [[Source - US House Common Sense and Continental Congress]]

@@ -20,6 +20,7 @@ sources:
   - Source - Founders Online Continental Association 1774
   - Source - Founders Online Declaration Causes Taking Up Arms
   - Source - Avalon Olive Branch Petition 1775
+  - Source - US House Common Sense and Continental Congress
   - Source - LOC Declaration of Independence Guide
 ---
 
@@ -39,6 +40,7 @@ The Continental Congress coordinated colonial resistance, petitioned and address
 - [[Continental Association]]
 - [[Declaration of the Causes and Necessity of Taking Up Arms]]
 - [[Olive Branch Petition]]
+- [[Common Sense]]
 - [[Declaration of Independence]]
 
 ## Events Involved In
@@ -47,6 +49,7 @@ The Continental Congress coordinated colonial resistance, petitioned and address
 - [[Lexington and Concord]]
 - [[Declaration of the Causes and Necessity of Taking Up Arms]]
 - [[Olive Branch Petition]]
+- [[Common Sense]]
 - [[Declaration of Independence]]
 
 ## Forces Embodied
@@ -64,4 +67,5 @@ Congress had to speak collectively for colonies with different interests, risk t
 - [[Source - Founders Online Continental Association 1774]]
 - [[Source - Founders Online Declaration Causes Taking Up Arms]]
 - [[Source - Avalon Olive Branch Petition 1775]]
+- [[Source - US House Common Sense and Continental Congress]]
 - [[Source - LOC Declaration of Independence Guide]]

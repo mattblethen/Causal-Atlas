@@ -27,6 +27,10 @@ sources:
   - Source - Founders Online Declaration Causes Editorial Note
   - Source - Avalon Olive Branch Petition 1775
   - Source - Founders Online Olive Branch Petition Editorial Note
+  - Source - ABT Common Sense Primary Text
+  - Source - Clements Common Sense Going Viral 1776
+  - Source - Founders Online Washington Reed Common Sense 1776
+  - Source - US House Common Sense and Continental Congress
   - Source - LOC Philipsburg Proclamation
   - Source - Colonial Williamsburg Philipsburg Proclamation
   - Source - LAC Book of Negroes 1783
@@ -572,6 +576,33 @@ Sources:
 - [[Source - American Battlefield Trust Lord Dunmore's Proclamation]]
 - [[Source - Colonial Williamsburg Philipsburg Proclamation]]
 
+## 1776 - Paine turns independence into pamphlet politics
+
+Decision:
+Thomas Paine and Philadelphia printers put a direct anti-monarchy and pro-independence argument into a cheap pamphlet format.
+
+Why it mattered:
+Common Sense helped move independence from a risky congressional possibility into a popular public argument that could circulate through print, correspondence, and public reading.
+
+Priority conflict:
+- Continued reconciliation and loyalty language versus plain public advocacy for separation and republican self-government.
+
+Alternatives:
+- Keep independence arguments inside congressional and elite correspondence.
+- Publish a cautious rights pamphlet without direct anti-monarchy argument.
+- Delay public independence advocacy until Congress acted formally.
+
+Consequences:
+- [[Common Sense]]
+- [[Declaration of Independence]]
+- [[Thread - Media and Public Opinion]]
+
+Sources:
+- [[Source - ABT Common Sense Primary Text]]
+- [[Source - Clements Common Sense Going Viral 1776]]
+- [[Source - Founders Online Washington Reed Common Sense 1776]]
+- [[Source - US House Common Sense and Continental Congress]]
+
 ## 1776 - Congress adopts independence
 
 Decision:
@@ -590,10 +621,12 @@ Alternatives:
 
 Consequences:
 - [[Declaration of Independence]]
+- [[Common Sense]]
 
 Sources:
 - [[Source - LOC Declaration of Independence Guide]]
 - [[Source - LOC Journals of the Continental Congress]]
+- [[Source - US House Common Sense and Continental Congress]]
 
 ## 1779 - Clinton broadens British freedom policy
 
