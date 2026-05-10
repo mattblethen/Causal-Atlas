@@ -17,6 +17,7 @@ confidence: medium
 - Boston legal-process packet for [[Boston Massacre Trials]], including Adams's argument, soldier-trial verdicts, and the LOC printed trial text
 - Committee and enforcement expansion for [[Committees of Correspondence]], [[Continental Association]], and [[Committees of Inspection]]
 - Local enforcement notes for [[Local Association Enforcement]] and [[Committees of Safety]]
+- Black Loyalist expansion for [[Philipsburg Proclamation]], [[Black Loyalist Evacuation]], and [[Black Loyalists]]
 
 ## Sources Used
 - [[Source - LOC American Revolution Primary Source Timeline]]
@@ -65,6 +66,10 @@ confidence: medium
 - [[Source - LOC Journals of the Continental Congress]]
 - [[Source - NPS April 19 1775]]
 - [[Source - LOC Declaration of Independence Guide]]
+- [[Source - LOC Philipsburg Proclamation]]
+- [[Source - Colonial Williamsburg Philipsburg Proclamation]]
+- [[Source - LAC Book of Negroes 1783]]
+- [[Source - Nova Scotia Archives Book of Negroes]]
 
 ## Unresolved Research Gaps
 - Add direct primary text for the Tea Act.
@@ -72,12 +77,12 @@ confidence: medium
 - Add exact British debt figures with a scholarly source and explain uncertainty.
 - Add regional committee-of-safety and committee-of-observation comparisons beyond Massachusetts and North Carolina.
 - Compare Patriot/Loyalist pamphlet claims with the Boston Massacre trial transcript witness by witness.
-- Add actor notes for Parliament, East India Company, Sons of Liberty, Continental Congress, Massachusetts militia, and Thomas Gage.
+- Add people and command notes for British commanders, Washington's military command, local actors, women correspondents, Indigenous leaders, and Black Loyalist individuals where sources support them.
 - Expand slavery and Indigenous displacement context without forcing those threads into every event.
 
 ## Next Recommended Module Step
-Deepen Townshend Acts and Black Loyalist packets, then build the witness-by-witness Boston Massacre pamphlet/trial comparison before moving into post-1776 military campaigns.
+Deepen Townshend Acts, Olive Branch Petition, and Common Sense packets, then build the witness-by-witness Boston Massacre pamphlet/trial comparison before moving into broader post-1776 military campaigns.
 
 ## Progress Estimate
-- Whole vault roadmap: about 14% complete.
-- American Revolution module: about 84% complete.
+- Whole vault roadmap: about 15% complete.
+- American Revolution module: about 86% complete.

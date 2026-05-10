@@ -15,6 +15,8 @@ sources:
   - Source - Founders Online Continental Association 1774
   - Source - NCpedia Committees of Observation
   - Source - UK National Archives Boston Tea Party
+  - Source - LOC Philipsburg Proclamation
+  - Source - LAC Book of Negroes 1783
 ---
 
 # Priority Log - British Empire 1763-1776
@@ -45,6 +47,9 @@ Manifested In:
 - [[Tea Act]]
 - [[Coercive Acts]]
 - [[Lexington and Concord]]
+- [[Lord Dunmore's Proclamation]]
+- [[Philipsburg Proclamation]]
+- [[Black Loyalist Evacuation]]
 
 Sources:
 - [[Source - LOC American Revolution Primary Source Timeline]]
@@ -57,3 +62,5 @@ Sources:
 - [[Source - Founders Online Continental Association 1774]]
 - [[Source - NCpedia Committees of Observation]]
 - [[Source - UK National Archives Boston Tea Party]]
+- [[Source - LOC Philipsburg Proclamation]]
+- [[Source - LAC Book of Negroes 1783]]

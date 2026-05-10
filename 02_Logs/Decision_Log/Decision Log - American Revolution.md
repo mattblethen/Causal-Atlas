@@ -23,6 +23,9 @@ sources:
   - Source - Founders Online Braintree Association 1775
   - Source - NCpedia Committees of Safety Primary Source
   - Source - LOC New York Committee Observation 1775
+  - Source - LOC Philipsburg Proclamation
+  - Source - Colonial Williamsburg Philipsburg Proclamation
+  - Source - LAC Book of Negroes 1783
 ---
 
 # Decision Log - American Revolution
@@ -497,11 +500,14 @@ Alternatives:
 
 Consequences:
 - [[Lord Dunmore's Proclamation]]
+- [[Philipsburg Proclamation]]
+- [[Black Loyalist Evacuation]]
 - [[Black Loyalists]]
 - [[Thread - Slavery and American Contradiction]]
 
 Sources:
 - [[Source - American Battlefield Trust Lord Dunmore's Proclamation]]
+- [[Source - Colonial Williamsburg Philipsburg Proclamation]]
 
 ## 1776 - Congress adopts independence
 
@@ -525,3 +531,54 @@ Consequences:
 Sources:
 - [[Source - LOC Declaration of Independence Guide]]
 - [[Source - LOC Journals of the Continental Congress]]
+
+## 1779 - Clinton broadens British freedom policy
+
+Decision:
+Sir Henry Clinton issued the Philipsburg Proclamation, promising security within British lines to people enslaved by rebels who reached the British army.
+
+Why it mattered:
+The decision expanded Dunmore's Virginia-specific wartime freedom offer into a broader British military policy that encouraged Black flight from Patriot enslavers.
+
+Priority conflict:
+- British military advantage and labor needs versus Patriot slaveholding property claims.
+
+Alternatives:
+- Limit the policy to armed service only.
+- Avoid freedom promises to reduce Loyalist slaveholder anxiety.
+- Return all fugitives to slaveholders to preserve property claims.
+
+Consequences:
+- [[Philipsburg Proclamation]]
+- [[Black Loyalists]]
+- [[Black Loyalist Evacuation]]
+- [[Thread - Slavery and American Contradiction]]
+
+Sources:
+- [[Source - LOC Philipsburg Proclamation]]
+- [[Source - Colonial Williamsburg Philipsburg Proclamation]]
+
+## 1783 - Carleton permits Black Loyalist evacuation
+
+Decision:
+Sir Guy Carleton allowed many formerly enslaved people who had reached British lines before the peace cutoff to evacuate from New York rather than be returned to American claimants.
+
+Why it mattered:
+The decision turned wartime freedom promises into postwar migration and produced the Book of Negroes as a record of names, ships, origins, status, and destinations.
+
+Priority conflict:
+- British honor and military promise keeping versus treaty-property claims by American enslavers.
+
+Alternatives:
+- Return all claimed Black evacuees to American enslavers.
+- Evacuate people without creating a detailed register.
+- Pay compensation immediately while preserving evacuation.
+
+Consequences:
+- [[Black Loyalist Evacuation]]
+- [[Black Loyalists]]
+- [[Slavery]]
+
+Sources:
+- [[Source - LAC Book of Negroes 1783]]
+- [[Source - Nova Scotia Archives Book of Negroes]]

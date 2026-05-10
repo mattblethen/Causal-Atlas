@@ -23,6 +23,7 @@ status: active
 - Continental Congress records.
 - Lexington and Concord contemporary accounts.
 - Declaration of Independence drafts and final text.
+- Black Loyalist proclamations, evacuation registers, and settlement records.
 
 ## Institutional Source Targets
 - Library of Congress

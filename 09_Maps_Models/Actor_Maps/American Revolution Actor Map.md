@@ -23,6 +23,8 @@ sources:
   - Source - Rhode Island Historical Society Burning of the Gaspee
   - Source - NPS Washington Appointment Commander in Chief
   - Source - NPS Rebellion Minute Man
+  - Source - LOC Philipsburg Proclamation
+  - Source - LAC Book of Negroes 1783
 ---
 
 # American Revolution Actor Map
@@ -107,6 +109,9 @@ flowchart LR
     LOY["Loyalists"] -. contests .-> PM
     LD["Lord Dunmore"] --> DUN["Dunmore's Proclamation"]
     DUN --> BL["Black Loyalists"]
+    HC["Henry Clinton"] --> PHI["Philipsburg Proclamation"]
+    PHI --> BL
+    BL --> BLE["Black Loyalist Evacuation"]
     DUN --> DOI
 
     BP -. conflicts with .-> CAS
@@ -123,6 +128,7 @@ flowchart LR
 - The John Adams path separates the courtroom defense and verdicts from the broader Patriot and Loyalist media battle.
 - The committees path shows information networks becoming Association enforcement through local inspection committees.
 - Local enforcement links boycott practice to committees of safety and militia-adjacent governance.
+- Black Loyalists show enslaved people's freedom seeking inside British military strategy and Loyalist evacuation.
 - The Patriot movement is an umbrella note, not a single institution.
 
 ## Sources
@@ -145,3 +151,5 @@ flowchart LR
 - [[Source - Rhode Island Historical Society Burning of the Gaspee]]
 - [[Source - NPS Washington Appointment Commander in Chief]]
 - [[Source - NPS Rebellion Minute Man]]
+- [[Source - LOC Philipsburg Proclamation]]
+- [[Source - LAC Book of Negroes 1783]]

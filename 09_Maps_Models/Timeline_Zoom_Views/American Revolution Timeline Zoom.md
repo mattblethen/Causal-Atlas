@@ -14,6 +14,8 @@ sources:
   - Source - NPS April 19 1775
   - Source - LOC Wemms Trial Transcript
   - Source - MHS Wemms Trial Verdicts
+  - Source - LOC Philipsburg Proclamation
+  - Source - LAC Book of Negroes 1783
   - Source - LOC Declaration of Independence Guide
 ---
 
@@ -75,6 +77,10 @@ sources:
 ## 1776 - Public Independence
 - [[Common Sense]]
 - [[Declaration of Independence]]
+
+## 1777-1783 - War, Slavery, and Loyalist Displacement
+- [[Philipsburg Proclamation]]
+- [[Black Loyalist Evacuation]]
 
 ## Notes
 - This timeline is a navigational zoom view, not a complete chronology.

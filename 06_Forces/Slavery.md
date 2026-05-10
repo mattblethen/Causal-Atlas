@@ -8,12 +8,18 @@ threads:
 manifestations:
   - Colonial Political Economy
   - Lord Dunmore's Proclamation
+  - Philipsburg Proclamation
+  - Black Loyalist Evacuation
 opposed_by: []
 intensified_by:
   - Atlantic Trade
-status: stub
+status: researching
 confidence: medium
-sources: []
+sources:
+  - Source - American Battlefield Trust Lord Dunmore's Proclamation
+  - Source - LOC Philipsburg Proclamation
+  - Source - LAC Book of Negroes 1783
+  - Source - Nova Scotia Archives Book of Negroes
 ---
 
 # Slavery
@@ -27,6 +33,8 @@ Enslaved labor and racialized legal power shaped colonial wealth, political inte
 ## Manifested As
 - [[Colonial Political Economy]]
 - [[Lord Dunmore's Proclamation]]
+- [[Philipsburg Proclamation]]
+- [[Black Loyalist Evacuation]]
 
 ## Deeper Roots
 - [[Atlantic Trade]]
@@ -42,4 +50,6 @@ Created a central contradiction between revolutionary rights language and system
 
 ## Sources
 - [[Source - American Battlefield Trust Lord Dunmore's Proclamation]]
-- [[Source - NARA Native Americans and American Revolution]]
+- [[Source - LOC Philipsburg Proclamation]]
+- [[Source - LAC Book of Negroes 1783]]
+- [[Source - Nova Scotia Archives Book of Negroes]]

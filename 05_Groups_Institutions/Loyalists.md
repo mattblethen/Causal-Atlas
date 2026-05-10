@@ -15,6 +15,7 @@ status: researched
 confidence: medium
 sources:
   - Source - Mount Vernon Loyalists
+  - Source - LAC Book of Negroes 1783
   - Source - NARA Native Americans and American Revolution
   - Source - Founders Online Continental Association 1774
   - Source - NCpedia Committees of Observation
@@ -38,6 +39,7 @@ Loyalists were colonists who supported Britain, opposed independence, rejected P
 - [[Colonial Resistance]]
 - [[Continental Association]]
 - [[Local Association Enforcement]]
+- [[Black Loyalist Evacuation]]
 - [[Declaration of Independence]]
 
 ## Forces Embodied
@@ -49,10 +51,11 @@ Loyalists were colonists who supported Britain, opposed independence, rejected P
 - [[Colonial Autonomy]]
 
 ## Internal Tensions
-Loyalists were not one social class or one ideology. Some were cautious moderates, some Crown officeholders, some ideological imperial loyalists, and some people choosing the side they believed best protected survival.
+Loyalists were not one social class or one ideology. Some were cautious moderates, some Crown officeholders, some ideological imperial loyalists, some enslavers, and some people choosing the side they believed best protected survival. Black Loyalists require their own note because their loyalty often centered on freedom seeking rather than Crown ideology.
 
 ## Sources
 - [[Source - Mount Vernon Loyalists]]
+- [[Source - LAC Book of Negroes 1783]]
 - [[Source - NARA Native Americans and American Revolution]]
 - [[Source - Founders Online Continental Association 1774]]
 - [[Source - NCpedia Committees of Observation]]

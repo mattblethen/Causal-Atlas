@@ -9,6 +9,8 @@ url: https://www.battlefields.org/learn/primary-sources/lord-dunmores-proclamati
 accessed: 2026-05-09
 related_events:
   - Lord Dunmore's Proclamation
+  - Philipsburg Proclamation
+  - Black Loyalist Evacuation
 related_forces:
   - Slavery
   - Colonial Autonomy
@@ -34,8 +36,11 @@ American Battlefield Trust primary-source presentation of Lord Dunmore's Novembe
 
 ## Connected Notes
 - [[Lord Dunmore's Proclamation]]
+- [[Philipsburg Proclamation]]
+- [[Black Loyalist Evacuation]]
 - [[Slavery]]
 - [[Loyalists]]
+- [[Black Loyalists]]
 - [[Thread - Slavery and American Contradiction]]
 
 ## Researcher Notes

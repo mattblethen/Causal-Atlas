@@ -56,6 +56,10 @@ Build the first proof-of-concept causal module for Causal Atlas: a sourced, link
 43. [[Evacuation of Boston]]
 44. [[Declaration of Independence]]
 
+## Extended War and Aftermath Layer
+- [[Philipsburg Proclamation]]
+- [[Black Loyalist Evacuation]]
+
 ## Core Forces
 - [[Imperial Debt]]
 - [[Parliamentary Sovereignty]]
@@ -65,13 +69,13 @@ Build the first proof-of-concept causal module for Causal Atlas: a sourced, link
 - [[Enlightenment Thought]]
 - [[Mass Media]]
 - [[Slavery]]
-- [[War and State Formation]]
 
 ## Core Threads
 - [[Thread - Empire]]
 - [[Thread - Taxation and Representation]]
 - [[Thread - War and State Formation]]
 - [[Thread - Media and Public Opinion]]
+- [[Thread - Slavery and American Contradiction]]
 
 ## Required Outputs
 - Event notes in `03_Events/`

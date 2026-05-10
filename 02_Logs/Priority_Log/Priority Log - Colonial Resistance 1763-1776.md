@@ -21,6 +21,7 @@ sources:
   - Source - NCpedia Committees of Safety Primary Source
   - Source - UK National Archives Boston Tea Party
   - Source - LOC Journals of the Continental Congress
+  - Source - LOC Philipsburg Proclamation
 ---
 
 # Priority Log - Colonial Resistance 1763-1776
@@ -56,6 +57,8 @@ Manifested In:
 - [[Boston Tea Party]]
 - [[First Continental Congress]]
 - [[Lexington and Concord]]
+- [[Lord Dunmore's Proclamation]]
+- [[Philipsburg Proclamation]]
 - [[Declaration of Independence]]
 
 Sources:
@@ -75,3 +78,4 @@ Sources:
 - [[Source - NCpedia Committees of Safety Primary Source]]
 - [[Source - UK National Archives Boston Tea Party]]
 - [[Source - LOC Journals of the Continental Congress]]
+- [[Source - LOC Philipsburg Proclamation]]

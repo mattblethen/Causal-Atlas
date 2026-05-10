@@ -27,6 +27,8 @@ sources:
   - Source - Founders Online Braintree Association 1775
   - Source - NCpedia Committees of Safety Primary Source
   - Source - NPS Siege of Boston Overview
+  - Source - LOC Philipsburg Proclamation
+  - Source - LAC Book of Negroes 1783
 ---
 
 # American Revolution Pressure Map
@@ -100,6 +102,8 @@ flowchart TD
     AI --> O
     W --> O["Declaration of Independence"]
     Z["Slavery"] --> AA["Lord Dunmore's Proclamation"]
+    AA --> BC["Philipsburg Proclamation"]
+    BC --> BD["Black Loyalist Evacuation"]
     AA --> O
 
     P["Atlantic Trade"] --> G
@@ -128,6 +132,7 @@ flowchart TD
 - The nonimportation path shows how trade and household consumption became political pressure systems before armed conflict.
 - The occupation path shows how customs enforcement and assembly defiance became a daily military presence before the Boston Massacre.
 - The trial path shows how the Massacre became courtroom testimony, verdict, and rule-of-law legitimacy as well as propaganda.
+- The slavery-war path shows how British freedom policies and Black Loyalist evacuation exposed the limits of Patriot liberty claims.
 - The committee path shows how correspondence and inspection converted information sharing into enforceable continental and local pressure.
 
 ## Current Confidence
@@ -157,3 +162,5 @@ Medium. The broad causal relationships are supported by institutional sources, b
 - [[Source - Founders Online Braintree Association 1775]]
 - [[Source - NCpedia Committees of Safety Primary Source]]
 - [[Source - NPS Siege of Boston Overview]]
+- [[Source - LOC Philipsburg Proclamation]]
+- [[Source - LAC Book of Negroes 1783]]

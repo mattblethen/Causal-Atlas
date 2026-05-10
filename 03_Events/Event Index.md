@@ -51,6 +51,8 @@ Events are visible historical moments where deeper forces become observable.
 - [[Dorchester Heights]]
 - [[Evacuation of Boston]]
 - [[Declaration of Independence]]
+- [[Philipsburg Proclamation]]
+- [[Black Loyalist Evacuation]]
 
 ## Event Readiness Checklist
 - [ ] Uses [[Event Template]]

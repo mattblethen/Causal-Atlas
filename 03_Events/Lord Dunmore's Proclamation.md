@@ -19,14 +19,18 @@ forces:
 actors:
   - British Empire
   - Loyalists
+  - Black Loyalists
   - Patriot Movement
 related_events:
   - Proclamation for Suppressing Rebellion and Sedition
+  - Philipsburg Proclamation
+  - Black Loyalist Evacuation
   - Declaration of Independence
 status: researched
 confidence: medium
 sources:
   - Source - American Battlefield Trust Lord Dunmore's Proclamation
+  - Source - Colonial Williamsburg Philipsburg Proclamation
   - Source - UK National Archives Causes of the American Revolution
 ---
 
@@ -47,6 +51,8 @@ Virginia's royal governor John Murray, Earl of Dunmore, declared martial law and
 Imperial military strategy exploited a contradiction inside colonial resistance: many Patriots claimed liberty while holding people enslaved.
 
 ## Led To
+- [[Philipsburg Proclamation]]
+- [[Black Loyalist Evacuation]]
 - [[Declaration of Independence]]
 - [[Thread - Slavery and American Contradiction]]
 
@@ -67,12 +73,14 @@ Imperial military strategy exploited a contradiction inside colonial resistance:
 ## Key Actors
 - [[British Empire]]
 - [[Loyalists]]
+- [[Black Loyalists]]
 - [[Patriot Movement]]
 - Enslaved people in Virginia
 
 ## Research Notes
-This note needs a future actor note for Black Loyalists and a source pass on enslaved people's own choices and testimony where available.
+This note now has a Black Loyalists actor/source pass. Later work should add person-level testimony where available and distinguish Dunmore's Virginia-specific offer from Clinton's broader Philipsburg policy.
 
 ## Sources
 - [[Source - American Battlefield Trust Lord Dunmore's Proclamation]]
+- [[Source - Colonial Williamsburg Philipsburg Proclamation]]
 - [[Source - UK National Archives Causes of the American Revolution]]

@@ -55,6 +55,8 @@ status: scaffold
 - [[Dorchester Heights]]
 - [[Evacuation of Boston]]
 - [[Declaration of Independence]]
+- [[Philipsburg Proclamation]]
+- [[Black Loyalist Evacuation]]
 
 ## Constitution and Early Republic
 - [[Articles of Confederation]]

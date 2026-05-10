@@ -31,6 +31,10 @@ sources:
   - Source - MHS First Continental Congress Association Enforcement
   - Source - NPS April 19 1775
   - Source - LOC Declaration of Independence Guide
+  - Source - LOC Philipsburg Proclamation
+  - Source - Colonial Williamsburg Philipsburg Proclamation
+  - Source - LAC Book of Negroes 1783
+  - Source - Nova Scotia Archives Book of Negroes
 ---
 
 # Activity Log - American Revolution
@@ -326,6 +330,28 @@ Sources:
 - [[Source - US House King's Proclamation for Suppressing Rebellion]]
 - [[Source - American Battlefield Trust Lord Dunmore's Proclamation]]
 - [[Source - Constitution Center Common Sense]]
+
+## 1775-1783 - Black Loyalists and Wartime Freedom Policy
+
+What happened:
+Dunmore's 1775 proclamation opened a Virginia-specific British freedom offer for people enslaved by rebels. Clinton's 1779 Philipsburg Proclamation widened that policy across British lines, and the 1783 evacuation from New York recorded thousands of Black Loyalists in the Book of Negroes.
+
+Related:
+- [[Lord Dunmore's Proclamation]]
+- [[Philipsburg Proclamation]]
+- [[Black Loyalist Evacuation]]
+- [[Black Loyalists]]
+- [[Slavery]]
+
+Why it matters:
+This layer makes enslaved people's agency visible inside the Revolution and shows how war policy, freedom seeking, Loyalism, and postwar displacement cut against a simple Patriot liberty narrative.
+
+Sources:
+- [[Source - American Battlefield Trust Lord Dunmore's Proclamation]]
+- [[Source - LOC Philipsburg Proclamation]]
+- [[Source - Colonial Williamsburg Philipsburg Proclamation]]
+- [[Source - LAC Book of Negroes 1783]]
+- [[Source - Nova Scotia Archives Book of Negroes]]
 
 ## 1776-07-04 - Declaration of Independence
 

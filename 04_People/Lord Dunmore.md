@@ -17,6 +17,7 @@ status: researched
 confidence: medium
 sources:
   - Source - American Battlefield Trust Lord Dunmore's Proclamation
+  - Source - Colonial Williamsburg Philipsburg Proclamation
 ---
 
 # Lord Dunmore
@@ -34,6 +35,7 @@ Lord Dunmore was Virginia's royal governor and the author of a proclamation offe
 
 ## Events Involved In
 - [[Lord Dunmore's Proclamation]]
+- [[Philipsburg Proclamation]]
 - [[Declaration of Independence]]
 
 ## Forces Embodied
@@ -46,7 +48,8 @@ Lord Dunmore was Virginia's royal governor and the author of a proclamation offe
 - [[Colonial Autonomy]]
 
 ## Contradictions
-Dunmore used emancipation tactically while the British Empire itself remained entangled with slavery. The proclamation mattered both as strategy and as an opening exploited by enslaved people seeking freedom.
+Dunmore used emancipation tactically while the British Empire itself remained entangled with slavery. The proclamation mattered both as strategy and as an opening exploited by enslaved people seeking freedom; Clinton's later [[Philipsburg Proclamation]] broadened the policy pattern Dunmore helped initiate.
 
 ## Sources
 - [[Source - American Battlefield Trust Lord Dunmore's Proclamation]]
+- [[Source - Colonial Williamsburg Philipsburg Proclamation]]

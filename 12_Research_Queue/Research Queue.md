@@ -66,14 +66,14 @@ Use this to track what Codex or a human researcher should fill next.
 - [x] Lord North
 - [x] Lord Dunmore
 - [ ] George Washington expanded military command pass
-- [ ] Black Loyalists expanded actor/source pass
+- [x] Black Loyalists expanded actor/source pass
 - [ ] Indigenous leaders and nations in the Revolution
 
 ## American Revolution Map Outputs
 - [x] Causal map: war debt to independence
 - [x] Pressure map: debt, sovereignty, trade, autonomy
 - [x] Actor map: British institutions, colonial assemblies, resistance networks
-- [x] Timeline zoom: 1754-1776
+- [x] Timeline zoom: 1754-1783
 
 ## Open Research Questions
 - [ ] What debt figures are most defensible for Britain before and after the Seven Years' War?
@@ -81,7 +81,7 @@ Use this to track what Codex or a human researcher should fill next.
 - [ ] Where did colonial resistance defend older British rights versus develop new revolutionary claims?
 - [ ] How should the module represent slavery and Indigenous displacement without forcing them into every event note?
 - [ ] Which causal links are direct enough for `Led To`, and which should remain contextual in `Research Notes`?
-- [ ] Build deeper Black Loyalists source packet beyond Dunmore's Proclamation.
+- [x] Build deeper Black Loyalists source packet beyond Dunmore's Proclamation.
 - [x] Add siege and evacuation of Boston event notes.
 - [x] Add Henry Knox, artillery train, and Dorchester Heights notes.
 - [x] Add Second Continental Congress and Ticonderoga notes.
@@ -95,8 +95,8 @@ Use this to track what Codex or a human researcher should fill next.
 - [ ] Add regional comparison of committees of safety beyond Massachusetts and North Carolina.
 
 ## Roadmap Completion Estimate
-- Whole vault roadmap: approximately 14% complete as of 2026-05-09.
-- American Revolution module: approximately 84% complete.
+- Whole vault roadmap: approximately 15% complete as of 2026-05-09.
+- American Revolution module: approximately 86% complete.
 
 ## Next American History Modules
 - [ ] Constitution and Early Republic
