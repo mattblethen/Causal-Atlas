@@ -12,6 +12,8 @@ sources:
   - Source - Founders Online Braintree Association 1775
   - Source - NCpedia Committees of Safety Primary Source
   - Source - NPS April 19 1775
+  - Source - LOC Wemms Trial Transcript
+  - Source - MHS Wemms Trial Verdicts
   - Source - LOC Declaration of Independence Guide
 ---
 
@@ -43,6 +45,7 @@ sources:
 - [[Christopher Seider Killing]]
 - [[Boston Massacre]]
 - [[Boston Massacre Aftermath]]
+- [[Boston Massacre Trials]]
 - [[Gaspee Affair]]
 
 ## 1773-1774 - Tea, Punishment, and Continental Coordination
@@ -76,4 +79,4 @@ sources:
 ## Notes
 - This timeline is a navigational zoom view, not a complete chronology.
 - Each entry should eventually link to source notes and maps.
-- Later passes should add responses to the Proclamation for Suppressing Rebellion and Sedition, regional Association enforcement comparisons, and evacuation refugee experiences.
+- Later passes should add responses to the Proclamation for Suppressing Rebellion and Sedition, regional Association enforcement comparisons, evacuation refugee experiences, and witness-by-witness comparison for the Boston Massacre pamphlet/trial packet.

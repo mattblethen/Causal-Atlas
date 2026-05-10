@@ -15,6 +15,7 @@ related_events:
   - Christopher Seider Killing
   - Boston Massacre
   - Boston Massacre Aftermath
+  - Boston Massacre Trials
   - Local Association Enforcement
   - Declaration of Independence
 related_people: []
@@ -25,6 +26,8 @@ sources:
   - Source - MHS Boston Pamphlet 1772
   - Source - Mount Vernon Committees of Correspondence
   - Source - LOC New York Committee Observation 1775
+  - Source - LOC Wemms Trial Transcript
+  - Source - MHS Wemms Trial Verdicts
 ---
 
 # Thread - Media and Public Opinion
@@ -42,6 +45,7 @@ Media systems shape what publics know, believe, repeat, contest, and organize ar
 - [[Christopher Seider Killing]]
 - [[Boston Massacre]]
 - [[Boston Massacre Aftermath]]
+- [[Boston Massacre Trials]]
 - [[Local Association Enforcement]]
 - [[Declaration of Independence]]
 
@@ -62,6 +66,7 @@ Media systems shape what publics know, believe, repeat, contest, and organize ar
 
 ## Branch Points
 - [[Committees of Correspondence]]
+- [[Boston Massacre Trials]]
 - [[Local Association Enforcement]]
 
 ## Long-Term Consequences
@@ -72,3 +77,5 @@ Connects print culture in the American Revolution to later newspaper, radio, tel
 - [[Source - MHS Boston Pamphlet 1772]]
 - [[Source - Mount Vernon Committees of Correspondence]]
 - [[Source - LOC New York Committee Observation 1775]]
+- [[Source - LOC Wemms Trial Transcript]]
+- [[Source - MHS Wemms Trial Verdicts]]

@@ -8,6 +8,7 @@ related_events:
   - Seven Years' War
   - Boston Occupation
   - Boston Massacre
+  - Boston Massacre Trials
   - Local Association Enforcement
   - Lexington and Concord
 related_people: []
@@ -15,6 +16,7 @@ status: stub
 confidence: medium
 sources:
   - Source - NCpedia Committees of Safety Primary Source
+  - Source - MHS Wemms Trial Verdicts
 ---
 
 # Thread - War and State Formation
@@ -27,6 +29,7 @@ War pressures states to tax, borrow, centralize administration, mobilize people,
 - [[British Imperial Debt]]
 - [[Boston Occupation]]
 - [[Boston Massacre]]
+- [[Boston Massacre Trials]]
 - [[Local Association Enforcement]]
 - [[Lexington and Concord]]
 
@@ -44,6 +47,7 @@ War pressures states to tax, borrow, centralize administration, mobilize people,
 
 ## Branch Points
 - [[Boston Occupation]]
+- [[Boston Massacre Trials]]
 - [[Local Association Enforcement]]
 - [[Lexington and Concord]]
 
@@ -52,3 +56,4 @@ This thread helps connect military conflict to fiscal systems, bureaucracy, legi
 
 ## Sources
 - [[Source - NCpedia Committees of Safety Primary Source]]
+- [[Source - MHS Wemms Trial Verdicts]]

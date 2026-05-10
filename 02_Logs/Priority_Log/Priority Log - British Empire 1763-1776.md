@@ -10,6 +10,7 @@ sources:
   - Source - Avalon Circular Letter to Governors 1768
   - Source - Commonwealth Museum Occupation Landing
   - Source - Commonwealth Museum Weight of Occupation
+  - Source - MHS Wemms Trial Verdicts
   - Source - Avalon Virginia Committee Resolutions 1773
   - Source - Founders Online Continental Association 1774
   - Source - NCpedia Committees of Observation
@@ -37,6 +38,7 @@ Manifested In:
 - [[Liberty Affair]]
 - [[Boston Occupation]]
 - [[Boston Massacre]]
+- [[Boston Massacre Trials]]
 - [[Committees of Correspondence]]
 - [[Continental Association]]
 - [[Local Association Enforcement]]
@@ -50,6 +52,7 @@ Sources:
 - [[Source - Avalon Circular Letter to Governors 1768]]
 - [[Source - Commonwealth Museum Occupation Landing]]
 - [[Source - Commonwealth Museum Weight of Occupation]]
+- [[Source - MHS Wemms Trial Verdicts]]
 - [[Source - Avalon Virginia Committee Resolutions 1773]]
 - [[Source - Founders Online Continental Association 1774]]
 - [[Source - NCpedia Committees of Observation]]

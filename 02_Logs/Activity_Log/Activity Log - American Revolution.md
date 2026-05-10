@@ -15,6 +15,9 @@ sources:
   - Source - Commonwealth Museum Christopher Seider
   - Source - LOC Revere Bloody Massacre Engraving
   - Source - MHS Fair Account Boston Massacre
+  - Source - LOC Wemms Trial Transcript
+  - Source - MHS Adams Argument Wemms Trial
+  - Source - MHS Wemms Trial Verdicts
   - Source - NPS Boston Massacre Trial
   - Source - MHS Samuel Adams James Warren Committee 1772
   - Source - MHS Boston Pamphlet 1772
@@ -173,6 +176,7 @@ Related:
 - [[Christopher Seider Killing]]
 - [[Boston Massacre]]
 - [[Boston Massacre Aftermath]]
+- [[Boston Massacre Trials]]
 - [[Paul Revere]]
 - [[John Adams]]
 
@@ -184,6 +188,9 @@ Sources:
 - [[Source - LOC Short Narrative of the Boston Massacre]]
 - [[Source - LOC Revere Bloody Massacre Engraving]]
 - [[Source - MHS Fair Account Boston Massacre]]
+- [[Source - LOC Wemms Trial Transcript]]
+- [[Source - MHS Adams Argument Wemms Trial]]
+- [[Source - MHS Wemms Trial Verdicts]]
 - [[Source - NPS Boston Massacre Trial]]
 
 ## 1772-1774 - Committees and Continental Enforcement

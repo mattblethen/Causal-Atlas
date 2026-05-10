@@ -16,6 +16,7 @@ related_events:
   - Liberty Affair
   - Boston Occupation
   - Boston Massacre
+  - Boston Massacre Trials
   - Committees of Correspondence
   - Tea Act
   - Boston Tea Party
@@ -27,6 +28,7 @@ sources:
   - Source - Avalon Virginia Committee Resolutions 1773
   - Source - Founders Online Continental Association 1774
   - Source - Founders Online Braintree Association 1775
+  - Source - MHS Adams Argument Wemms Trial
 ---
 
 # Thread - Taxation and Representation
@@ -44,6 +46,7 @@ Conflict over who had legitimate authority to tax the colonies and whether taxat
 - [[Liberty Affair]]
 - [[Boston Occupation]]
 - [[Boston Massacre]]
+- [[Boston Massacre Trials]]
 - [[Committees of Correspondence]]
 - [[Tea Act]]
 - [[Boston Tea Party]]
@@ -69,6 +72,7 @@ Conflict over who had legitimate authority to tax the colonies and whether taxat
 - [[Stamp Act Congress]]
 - [[Massachusetts Circular Letter]]
 - [[Glorious 92]]
+- [[Boston Massacre Trials]]
 - [[Committees of Correspondence]]
 - [[Declaratory Act]]
 - [[First Continental Congress]]
@@ -85,3 +89,4 @@ Expand with primary sources, parliamentary acts, colonial pamphlets, and institu
 - [[Source - Avalon Virginia Committee Resolutions 1773]]
 - [[Source - Founders Online Continental Association 1774]]
 - [[Source - Founders Online Braintree Association 1775]]
+- [[Source - MHS Adams Argument Wemms Trial]]

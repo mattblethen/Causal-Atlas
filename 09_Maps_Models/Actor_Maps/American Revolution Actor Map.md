@@ -18,6 +18,8 @@ sources:
   - Source - Commonwealth Museum Customs Commissioners and Liberty
   - Source - Commonwealth Museum Weight of Occupation
   - Source - LOC Revere Bloody Massacre Engraving
+  - Source - MHS Adams Argument Wemms Trial
+  - Source - MHS Wemms Trial Verdicts
   - Source - Rhode Island Historical Society Burning of the Gaspee
   - Source - NPS Washington Appointment Commander in Chief
   - Source - NPS Rebellion Minute Man
@@ -84,7 +86,9 @@ flowchart LR
     OCC --> BM["Boston Massacre"]
     PR["Paul Revere"] --> BMA["Boston Massacre Aftermath"]
     JA["John Adams"] --> BMA
+    JA --> BMT["Boston Massacre Trials"]
     BM --> BMA
+    BMA --> BMT
     MM["Massachusetts Militia"] --> LC
     MPC["Massachusetts Provincial Congress"] --> MM
     LC --> CTA["Continental Army"]
@@ -116,6 +120,7 @@ flowchart LR
 - Colonial assemblies, resistance networks, and Congress represent escalating forms of colonial coordination.
 - Nonimportation, homespun, and circular-letter politics show resistance infrastructure before the First Continental Congress.
 - The occupation path shows British customs and army presence creating a military-public-opinion crisis in Boston.
+- The John Adams path separates the courtroom defense and verdicts from the broader Patriot and Loyalist media battle.
 - The committees path shows information networks becoming Association enforcement through local inspection committees.
 - Local enforcement links boycott practice to committees of safety and militia-adjacent governance.
 - The Patriot movement is an umbrella note, not a single institution.
@@ -135,6 +140,8 @@ flowchart LR
 - [[Source - Commonwealth Museum Customs Commissioners and Liberty]]
 - [[Source - Commonwealth Museum Weight of Occupation]]
 - [[Source - LOC Revere Bloody Massacre Engraving]]
+- [[Source - MHS Adams Argument Wemms Trial]]
+- [[Source - MHS Wemms Trial Verdicts]]
 - [[Source - Rhode Island Historical Society Burning of the Gaspee]]
 - [[Source - NPS Washington Appointment Commander in Chief]]
 - [[Source - NPS Rebellion Minute Man]]

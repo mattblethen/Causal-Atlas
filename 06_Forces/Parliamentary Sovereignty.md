@@ -11,6 +11,7 @@ manifestations:
   - Declaratory Act
   - Townshend Acts
   - Boston Occupation
+  - Boston Massacre Trials
   - Coercive Acts
   - Continental Association
   - Local Association Enforcement
@@ -24,6 +25,7 @@ sources:
   - Source - Avalon Virginia Committee Resolutions 1773
   - Source - Founders Online Continental Association 1774
   - Source - NCpedia Committees of Observation
+  - Source - MHS Wemms Trial Verdicts
 ---
 
 # Parliamentary Sovereignty
@@ -39,6 +41,7 @@ The claim that Parliament held ultimate legislative authority over the empire, i
 - [[Declaratory Act]]
 - [[Townshend Acts]]
 - [[Boston Occupation]]
+- [[Boston Massacre Trials]]
 - [[Coercive Acts]]
 - [[Continental Association]]
 - [[Local Association Enforcement]]
@@ -59,3 +62,4 @@ Turned revenue disputes into a broader constitutional conflict over authority, r
 - [[Source - Avalon Virginia Committee Resolutions 1773]]
 - [[Source - Founders Online Continental Association 1774]]
 - [[Source - NCpedia Committees of Observation]]
+- [[Source - MHS Wemms Trial Verdicts]]

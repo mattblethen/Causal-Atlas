@@ -14,6 +14,7 @@ confidence: medium
 - Logs for activity, decisions, and priorities in `02_Logs/`
 - Resistance infrastructure notes for [[Stamp Act Congress]], [[Nonimportation Agreements]], [[Boston Non-Importation Agreement]], [[Massachusetts Circular Letter]], [[Letters from a Farmer in Pennsylvania]], [[Homespun Movement]], [[Daughters of Liberty]], and [[James Otis Jr.]]
 - Boston escalation notes for [[Glorious 92]], [[Liberty Affair]], [[Boston Occupation]], [[Christopher Seider Killing]], and [[Boston Massacre Aftermath]]
+- Boston legal-process packet for [[Boston Massacre Trials]], including Adams's argument, soldier-trial verdicts, and the LOC printed trial text
 - Committee and enforcement expansion for [[Committees of Correspondence]], [[Continental Association]], and [[Committees of Inspection]]
 - Local enforcement notes for [[Local Association Enforcement]] and [[Committees of Safety]]
 
@@ -42,6 +43,10 @@ confidence: medium
 - [[Source - Commonwealth Museum Christopher Seider]]
 - [[Source - LOC Revere Bloody Massacre Engraving]]
 - [[Source - MHS Fair Account Boston Massacre]]
+- [[Source - MHS Legal Papers Boston Massacre Trials]]
+- [[Source - MHS Adams Argument Wemms Trial]]
+- [[Source - MHS Wemms Trial Verdicts]]
+- [[Source - LOC Wemms Trial Transcript]]
 - [[Source - NPS Boston Massacre Trial]]
 - [[Source - MHS Occupation and Siege Collections]]
 - [[Source - MHS Samuel Adams James Warren Committee 1772]]
@@ -66,13 +71,13 @@ confidence: medium
 - Replace or supplement the Coercive Acts source with Parliamentary Archives, Avalon, or another archival/legal source.
 - Add exact British debt figures with a scholarly source and explain uncertainty.
 - Add regional committee-of-safety and committee-of-observation comparisons beyond Massachusetts and North Carolina.
-- Add Boston Massacre trial transcript packet and compare Patriot/Loyalist pamphlet claims.
+- Compare Patriot/Loyalist pamphlet claims with the Boston Massacre trial transcript witness by witness.
 - Add actor notes for Parliament, East India Company, Sons of Liberty, Continental Congress, Massachusetts militia, and Thomas Gage.
 - Expand slavery and Indigenous displacement context without forcing those threads into every event.
 
 ## Next Recommended Module Step
-Add Boston Massacre trial/legal transcript comparison, then deepen Townshend Acts and Black Loyalist packets before moving into post-1776 military campaigns.
+Deepen Townshend Acts and Black Loyalist packets, then build the witness-by-witness Boston Massacre pamphlet/trial comparison before moving into post-1776 military campaigns.
 
 ## Progress Estimate
-- Whole vault roadmap: about 13% complete.
-- American Revolution module: about 81% complete.
+- Whole vault roadmap: about 14% complete.
+- American Revolution module: about 84% complete.

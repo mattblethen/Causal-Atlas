@@ -8,13 +8,13 @@ updated: 2026-05-09
 # Roadmap Progress
 
 ## Whole Vault Roadmap Estimate
-Approximate completion: **13%**
+Approximate completion: **14%**
 
 ## Basis
-The full roadmap includes the American Revolution proof of concept, later American history modules, later world history modules, source notes, actor notes, people notes, logs, maps, and future expansions. The vault now has the first module's researched causal spine, postwar policy roots, first bridge-event layer, stronger Coercive Acts source packet, Boston occupation and Massacre aftermath layer, committees of correspondence and Association enforcement layer with local case studies, Boston siege endpoint with Ticonderoga/Knox/Dorchester mechanics, slavery/Black Loyalist entry points, resistance infrastructure from the Stamp Act Congress through nonimportation and homespun, first logs, first force expansion, people and actor notes for the main early actors, and causal, pressure, actor, and timeline maps.
+The full roadmap includes the American Revolution proof of concept, later American history modules, later world history modules, source notes, actor notes, people notes, logs, maps, and future expansions. The vault now has the first module's researched causal spine, postwar policy roots, first bridge-event layer, stronger Coercive Acts source packet, Boston occupation, Massacre aftermath, and Massacre trial layers, committees of correspondence and Association enforcement layer with local case studies, Boston siege endpoint with Ticonderoga/Knox/Dorchester mechanics, slavery/Black Loyalist entry points, resistance infrastructure from the Stamp Act Congress through nonimportation and homespun, first logs, first force expansion, people and actor notes for the main early actors, and causal, pressure, actor, and timeline maps.
 
 ## American Revolution Module Estimate
-Approximate completion: **81%**
+Approximate completion: **84%**
 
 ## Completed
 - Source spine for the core causal chain
@@ -38,6 +38,7 @@ Approximate completion: **81%**
 - Stamp Act Congress, nonimportation agreements, Boston Non-Importation Agreement, Massachusetts Circular Letter, Dickinson's Farmer letters, homespun movement, Daughters of Liberty, and James Otis Jr. notes
 - Glorious 92, Liberty Affair, Boston occupation, Christopher Seider killing, and Boston Massacre aftermath notes
 - Boston occupation and Massacre aftermath added to activity, decision, priority, pressure, actor, causal, and timeline maps
+- Boston Massacre Trials event and source packet added with MHS Legal Papers, Adams defense argument, MHS verdicts, and LOC printed trial text
 - Committees of Correspondence source packet with Boston, Virginia, and post-Coercive Acts phases
 - Continental Association upgraded with Founders Online source and Committees of Inspection actor note
 - Local Association Enforcement process note with Braintree, North Carolina, and New York committee examples
@@ -50,4 +51,4 @@ Approximate completion: **81%**
 - Further slavery and Indigenous displacement integration
 - Scholarly interpretation pass
 - Washington command expansion after Boston
-- Boston Massacre trial transcript and pamphlet comparison packet
+- Witness-by-witness Boston Massacre pamphlet/trial comparison

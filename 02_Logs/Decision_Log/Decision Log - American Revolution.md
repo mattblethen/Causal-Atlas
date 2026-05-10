@@ -13,6 +13,8 @@ sources:
   - Source - Commonwealth Museum Glorious 92
   - Source - Commonwealth Museum Occupation Landing
   - Source - NPS Boston Massacre Trial
+  - Source - MHS Adams Argument Wemms Trial
+  - Source - MHS Wemms Trial Verdicts
   - Source - MHS Samuel Adams James Warren Committee 1772
   - Source - MHS Boston Pamphlet 1772
   - Source - Avalon Virginia Committee Resolutions 1773
@@ -246,12 +248,15 @@ Alternatives:
 
 Consequences:
 - [[Boston Massacre Aftermath]]
+- [[Boston Massacre Trials]]
 - [[John Adams]]
 - [[Patriot Movement]]
 
 Sources:
 - [[Source - NPS Boston Massacre Trial]]
 - [[Source - MHS Fair Account Boston Massacre]]
+- [[Source - MHS Adams Argument Wemms Trial]]
+- [[Source - MHS Wemms Trial Verdicts]]
 
 ## 1772 - Boston creates a standing Committee of Correspondence
 

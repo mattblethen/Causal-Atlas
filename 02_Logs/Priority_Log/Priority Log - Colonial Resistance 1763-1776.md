@@ -13,6 +13,7 @@ sources:
   - Source - Commonwealth Museum Christopher Seider
   - Source - LOC Revere Bloody Massacre Engraving
   - Source - MHS Fair Account Boston Massacre
+  - Source - MHS Adams Argument Wemms Trial
   - Source - MHS Boston Pamphlet 1772
   - Source - Avalon Virginia Committee Resolutions 1773
   - Source - Founders Online Continental Association 1774
@@ -45,6 +46,7 @@ Manifested In:
 - [[Glorious 92]]
 - [[Christopher Seider Killing]]
 - [[Boston Massacre Aftermath]]
+- [[Boston Massacre Trials]]
 - [[Committees of Correspondence]]
 - [[Continental Association]]
 - [[Committees of Inspection]]
@@ -65,6 +67,7 @@ Sources:
 - [[Source - Commonwealth Museum Christopher Seider]]
 - [[Source - LOC Revere Bloody Massacre Engraving]]
 - [[Source - MHS Fair Account Boston Massacre]]
+- [[Source - MHS Adams Argument Wemms Trial]]
 - [[Source - MHS Boston Pamphlet 1772]]
 - [[Source - Avalon Virginia Committee Resolutions 1773]]
 - [[Source - Founders Online Continental Association 1774]]

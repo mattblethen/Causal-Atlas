@@ -14,6 +14,7 @@ manifestations:
   - Local Association Enforcement
   - Boston Occupation
   - Boston Massacre
+  - Boston Massacre Trials
   - First Continental Congress
 opposed_by:
   - Parliamentary Sovereignty
@@ -27,6 +28,7 @@ sources:
   - Source - Founders Online Continental Association 1774
   - Source - Founders Online Braintree Association 1775
   - Source - NCpedia Committees of Safety Primary Source
+  - Source - MHS Adams Argument Wemms Trial
 ---
 
 # Colonial Autonomy
@@ -45,6 +47,7 @@ Colonial institutions and political culture developed expectations of local self
 - [[Local Association Enforcement]]
 - [[Boston Occupation]]
 - [[Boston Massacre]]
+- [[Boston Massacre Trials]]
 - [[First Continental Congress]]
 - [[Declaration of Independence]]
 
@@ -69,3 +72,4 @@ Helped convert specific tax disputes into claims about consent, rights, and self
 - [[Source - Founders Online Continental Association 1774]]
 - [[Source - Founders Online Braintree Association 1775]]
 - [[Source - NCpedia Committees of Safety Primary Source]]
+- [[Source - MHS Adams Argument Wemms Trial]]

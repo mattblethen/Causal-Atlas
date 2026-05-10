@@ -88,14 +88,15 @@ Use this to track what Codex or a human researcher should fill next.
 - [x] Add Boston Non-Importation Agreement note.
 - [x] Add Boston occupation and "Glorious 92" rescission fight.
 - [x] Add deeper Boston Massacre aftermath and propaganda packet.
-- [ ] Add Boston Massacre trial transcript comparison packet.
+- [x] Add Boston Massacre trial transcript source packet.
+- [ ] Add witness-by-witness Boston Massacre pamphlet/trial comparison.
 - [x] Add deeper Committees of Correspondence source packet.
 - [x] Add local Continental Association enforcement case studies.
 - [ ] Add regional comparison of committees of safety beyond Massachusetts and North Carolina.
 
 ## Roadmap Completion Estimate
-- Whole vault roadmap: approximately 13% complete as of 2026-05-09.
-- American Revolution module: approximately 81% complete.
+- Whole vault roadmap: approximately 14% complete as of 2026-05-09.
+- American Revolution module: approximately 84% complete.
 
 ## Next American History Modules
 - [ ] Constitution and Early Republic

@@ -28,6 +28,7 @@ Events are visible historical moments where deeper forces become observable.
 - [[Christopher Seider Killing]]
 - [[Boston Massacre]]
 - [[Boston Massacre Aftermath]]
+- [[Boston Massacre Trials]]
 - [[Gaspee Affair]]
 - [[Committees of Correspondence]]
 - [[Colonial Resistance]]

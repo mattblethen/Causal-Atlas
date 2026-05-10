@@ -32,6 +32,7 @@ status: scaffold
 - [[Christopher Seider Killing]]
 - [[Boston Massacre]]
 - [[Boston Massacre Aftermath]]
+- [[Boston Massacre Trials]]
 - [[Gaspee Affair]]
 - [[Committees of Correspondence]]
 - [[Tea Act]]

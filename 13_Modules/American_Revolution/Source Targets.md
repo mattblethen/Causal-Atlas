@@ -14,7 +14,7 @@ status: active
 - Massachusetts Circular Letter, imperial response, and related assembly records.
 - Nonimportation agreements, boycott broadsides, and homespun/Daughters of Liberty sources.
 - Boston occupation records, customs enforcement accounts, and troop landing sources.
-- Boston Massacre visual, pamphlet, trial, and aftermath sources.
+- Boston Massacre visual, pamphlet, trial, and aftermath sources; next layer should compare witness claims across them.
 - Committees of correspondence letters, pamphlets, and intercolonial resolutions.
 - Continental Association text and local inspection/enforcement records.
 - Regional committee-of-safety and committee-of-observation records.

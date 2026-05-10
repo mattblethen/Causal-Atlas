@@ -24,6 +24,7 @@ related_events:
   - Boston Occupation
   - Christopher Seider Killing
   - Boston Massacre Aftermath
+  - Boston Massacre Trials
   - Tea Act
   - Boston Tea Party
 status: researched
@@ -35,6 +36,7 @@ sources:
   - Source - Commonwealth Museum Weight of Occupation
   - Source - MHS Fair Account Boston Massacre
   - Source - LOC Revere Bloody Massacre Engraving
+  - Source - LOC Wemms Trial Transcript
   - Source - NPS Boston Massacre Trial
 ---
 
@@ -58,6 +60,7 @@ Military occupation, street conflict, legal controversy, and political print cul
 
 ## Led To
 - [[Boston Massacre Aftermath]]
+- [[Boston Massacre Trials]]
 - [[Gaspee Affair]]
 - [[Tea Act]]
 - [[Boston Tea Party]]
@@ -83,7 +86,7 @@ Military occupation, street conflict, legal controversy, and political print cul
 - [[Joseph Warren]]
 
 ## Research Notes
-This note should not treat colonial propaganda as neutral fact. The aftermath note now separates Patriot narrative, Loyalist counter-narrative, Revere's engraving, and trial outcomes.
+This note should not treat colonial propaganda as neutral fact. The aftermath and trial notes now separate Patriot narrative, Loyalist counter-narrative, Revere's engraving, courtroom procedure, and verdict outcomes.
 
 ## Sources
 - [[Source - LOC British Reforms and Colonial Resistance 1767-1772]]
@@ -92,4 +95,5 @@ This note should not treat colonial propaganda as neutral fact. The aftermath no
 - [[Source - Commonwealth Museum Weight of Occupation]]
 - [[Source - MHS Fair Account Boston Massacre]]
 - [[Source - LOC Revere Bloody Massacre Engraving]]
+- [[Source - LOC Wemms Trial Transcript]]
 - [[Source - NPS Boston Massacre Trial]]

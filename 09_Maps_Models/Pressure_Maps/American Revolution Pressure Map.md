@@ -16,6 +16,8 @@ sources:
   - Source - Commonwealth Museum Occupation Landing
   - Source - Commonwealth Museum Weight of Occupation
   - Source - MHS Fair Account Boston Massacre
+  - Source - LOC Wemms Trial Transcript
+  - Source - MHS Wemms Trial Verdicts
   - Source - Rhode Island Historical Society Burning of the Gaspee
   - Source - MHS Boston Pamphlet 1772
   - Source - Avalon Virginia Committee Resolutions 1773
@@ -67,7 +69,8 @@ flowchart TD
     AS --> AW
     T --> K
     T --> AX["Boston Massacre Aftermath"]
-    AX --> K
+    AX --> BB["Boston Massacre Trials"]
+    BB --> K
     AF["Customs Enforcement"] --> AD
     AF --> S
     AF --> AU
@@ -108,6 +111,7 @@ flowchart TD
     R --> AP
     R --> AQ
     R --> AX
+    R --> BB
     R --> AY
     R --> AZ
     R --> BA
@@ -123,6 +127,7 @@ flowchart TD
 - The trade path shows why tea became more than a commodity: it carried taxation, monopoly, and imperial authority.
 - The nonimportation path shows how trade and household consumption became political pressure systems before armed conflict.
 - The occupation path shows how customs enforcement and assembly defiance became a daily military presence before the Boston Massacre.
+- The trial path shows how the Massacre became courtroom testimony, verdict, and rule-of-law legitimacy as well as propaganda.
 - The committee path shows how correspondence and inspection converted information sharing into enforceable continental and local pressure.
 
 ## Current Confidence
@@ -141,6 +146,8 @@ Medium. The broad causal relationships are supported by institutional sources, b
 - [[Source - Commonwealth Museum Occupation Landing]]
 - [[Source - Commonwealth Museum Weight of Occupation]]
 - [[Source - MHS Fair Account Boston Massacre]]
+- [[Source - LOC Wemms Trial Transcript]]
+- [[Source - MHS Wemms Trial Verdicts]]
 - [[Source - Rhode Island Historical Society Burning of the Gaspee]]
 - [[Source - MHS Boston Pamphlet 1772]]
 - [[Source - Avalon Virginia Committee Resolutions 1773]]

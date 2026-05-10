@@ -7,13 +7,15 @@ threads:
   - Media and Public Opinion
 manifestations:
   - Colonial Resistance
+  - Boston Massacre Trials
   - Declaration of Independence
 opposed_by: []
 intensified_by:
   - Atlantic Trade
-status: stub
+status: researching
 confidence: medium
-sources: []
+sources:
+  - Source - MHS Adams Argument Wemms Trial
 ---
 
 # Enlightenment Thought
@@ -26,6 +28,7 @@ Ideas about rights, consent, representation, natural law, and legitimate governm
 
 ## Manifested As
 - [[Colonial Resistance]]
+- [[Boston Massacre Trials]]
 - [[Declaration of Independence]]
 
 ## Deeper Roots
@@ -41,4 +44,4 @@ Ideas about rights, consent, representation, natural law, and legitimate governm
 Provided language and frameworks that helped colonial grievances become constitutional and revolutionary arguments.
 
 ## Sources
--
+- [[Source - MHS Adams Argument Wemms Trial]]

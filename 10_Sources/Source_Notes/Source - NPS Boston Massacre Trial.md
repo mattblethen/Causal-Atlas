@@ -10,6 +10,7 @@ accessed: 2026-05-09
 related_events:
   - Boston Massacre
   - Boston Massacre Aftermath
+  - Boston Massacre Trials
 related_forces:
   - Colonial Autonomy
   - Enlightenment Thought
@@ -40,6 +41,7 @@ National Park Service article on the trials of Captain Thomas Preston and the Br
 ## Connected Notes
 - [[Boston Massacre]]
 - [[Boston Massacre Aftermath]]
+- [[Boston Massacre Trials]]
 - [[John Adams]]
 - [[British Army]]
 

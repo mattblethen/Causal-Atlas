@@ -13,6 +13,7 @@ manifestations:
   - Nonimportation Agreements
   - Christopher Seider Killing
   - Boston Massacre Aftermath
+  - Boston Massacre Trials
   - Local Association Enforcement
 opposed_by: []
 intensified_by:
@@ -28,6 +29,7 @@ sources:
   - Source - LOC New York Committee Observation 1775
   - Source - LOC Revere Bloody Massacre Engraving
   - Source - MHS Fair Account Boston Massacre
+  - Source - LOC Wemms Trial Transcript
 ---
 
 # Mass Media
@@ -46,6 +48,7 @@ Communication technologies and publishing networks shape public opinion, coordin
 - [[Nonimportation Agreements]]
 - [[Christopher Seider Killing]]
 - [[Boston Massacre Aftermath]]
+- [[Boston Massacre Trials]]
 - [[Local Association Enforcement]]
 - [[Declaration of Independence]]
 
@@ -70,3 +73,4 @@ Helps explain how local grievances become shared political causes across distanc
 - [[Source - LOC New York Committee Observation 1775]]
 - [[Source - LOC Revere Bloody Massacre Engraving]]
 - [[Source - MHS Fair Account Boston Massacre]]
+- [[Source - LOC Wemms Trial Transcript]]
